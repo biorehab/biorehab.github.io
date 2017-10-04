@@ -3,19 +3,89 @@
 <head><meta charset="utf-8">
 
 <style>
+.main {
+  text-align: justify;
+  border-color: #000000;
+  border-width: 0px;
+  border-style: solid;
+  margin-top: 2%;
+  margin-left: 30%;
+  margin-right: 30%;
+  min-height: 500px;
+}
+
+.footer {
+  text-align: right;
+  border-color: #CCC;
+  border: 0px solid;
+  border-top: 1px solid #CCC;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.content {
+  color: #666;
+}
+
+.footnote {
+  text-align: right;
+  font-size: 0.6em;
+  color: #aaa;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ddd;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #444;
+  text-align: center;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #bbb;
+}
+
+.active {
+    background-color: #4CAF50;
+}
 </style>
 
 <title>Biological Learning and Rehabilitation Group</title>
 </head>
 <body>
-<article>
+<div class="main">
 <h2>
 <a href="http://biorehab.github.io"><img src="images/logo.png" alt="BioRehab Group" style="max-width:100%;"></a>
 </h2>
-<p><strong>Home</strong> | <strong>Research</strong> | <strong>People</strong> | <strong>Publications</strong> | <strong>Others</strong></p>
+<hr style="margin-top: -3%; background:#CCC; border:0; height:1px" />
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">Research</a></li>
+  <li><a href="#news">People</a></li>
+  <li><a href="#news">Publications</a></li>
+  <li><a href="#news">Positions</a></li>
+</ul>
 
-<p>We are the <strong>Biological Learning and Rehabilitation Group</strong> at the department of <a href="http://www.bioe-cmcvellore.in/">Bioengineering</a>, <a href="http://www.cmch-vellore.edu/">Christian Medical College Vellore</a>.</p>
-<p>We are an academic research group interested developing and validating tools and methods for the optimal training and assessment of sensorimotor function following neurological conditions. The activties in our group involves both engineering and basic science research. On the engineering side, our focus is on the development of technology-based therapeutic tools, which includes robotics, sensor-based system and electrical stimulation systems. Our work in basic science research is focused mainly on experimental and computational work in human motor control and learning.</p>
+<p class="content">We are the <strong>Biological Learning and Rehabilitation Group</strong> at the department of <a href="http://www.bioe-cmcvellore.in/">Bioengineering</a>, <a href="http://www.cmch-vellore.edu/">Christian Medical College Vellore</a>.</p>
 
+<p class="content">We are an academic research group interested in developing and validating neurorehabilitation tools and methods for the optimal assessment and training of sensorimotor function following neurological conditions. We carry out both engineering and basic science research activities in pursuit of this goal. On the engineering side, we develop of technology-based therapy tools, which includes robotic devices, sensor-based systems and electrical stimulation systems. Our work in basic science research is focused mainly on experimental and computational work in human motor control and learning.</p>
+
+<p class="content">We are always looking for motivated people interested in our research. You can get involved through various means: shot-term interships, MS or PhD programs, post-doctoral research or research staff positions. Please visit the <a href="">positions</a> page for more details.</p>
+</div>
+<div class="footer">
+<p class="footnote">Last updated on Oct 04, 2017</p>  
+</div>
 </body>
 </html>
