@@ -1,8 +1,12 @@
 ![BioRehab Group](images/logo.png)
 ---
 
-| [Home](README.md) | People | Research | Publications | Other resources |
-| --- | --- | --- | --- | --- |
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
 
 We are the **Biological Learning and Rehabilitation Group** at the department of [Bioengineering](http://www.bioe-cmcvellore.in/), [Christian Medical College Vellore](http://www.cmch-vellore.edu/).
 
