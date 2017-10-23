@@ -1,138 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8">
-
 <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Quicksand:300" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Glegoo" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="style.css">
 
-<style>
-.main {
-  border-color: #000000;
-  border-width: 0px;
-  border-style: solid;
-  margin-top: 2%;
-  margin-left: 30%;
-  margin-right: 30%;
-  min-height: 500px;
-}
-
-.footer {
-  text-align: right;
-  border-color: #CCC;
-  border: 0px solid;
-  border-top: 1px solid #CCC;
-  margin-left: 30%;
-  margin-right: 30%;
-}
-
-.logo {
-  margin-top: 7%;
-}
-
-.page-title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 30px;
-  color: #000;
-  margin-top: -10px;
-  padding: 0px;
-}
-
-.navbar {
-  font-family: 'Amatic SC', cursive;
-  font-size: 1.7em;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 40%;
-}
-
-.content {
-  font-family: 'Open Sans Condensed', sans-serif;
-  text-align: left;
-  font-size: 20px;
-  color: #666;
-  margin-top: 0px;
-}
-
-.collapse-heading {
-  font-family: 'Open Sans Condensed', sans-serif;
-  text-align: left;
-  font-size: 20px;
-  font-style: bold;
-  color: #700;
-}
-
-.footnote {
-  text-align: right;
-  font-size: 0.6em;
-  color: #aaa;
-}
-
-.navbar {
-  font-family: 'Amatic SC', cursive;
-  font-size: 1.7em;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 40%;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: #ddd;
-  text-align: center;
-  padding: 5px 10px;
-  text-decoration: none;
-}
-
-li a:hover:not(.active) {
-  color: #700;
-  background-color: #aaa;
-}
-
-.active {
-  background-color: #4CAF50;
-}
-
-.topic-title {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-style: bold;
-  font-size: 18px;
-  font-style: underline;
-  text-align: left;
-  color: #000;
-  /*color: #000;*/
-  margin-bottom: 0px;
-  padding-bottom: 0px
-}
-
-.topic-content {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 18px;
-  text-align: left;
-  color: #666;
-}
-</style>
-
-<title>Biological Learning and Rehabilitation Group</title>
+<title>BioRehab Group</title>
 </head>
 <body>
 <div class="main">
@@ -147,80 +23,38 @@ li a:hover:not(.active) {
 <h2 class="logo">
 <a href="http://biorehab.github.io"><img src="images/logo.png" alt="BioRehab Group" style="max-width:100%;"></a>
 </h2>
-<hr style="margin-top: -1%; background:#CCC; border:0; height:1px" />
+<hr style="margin-top: -3%; background:#CCC; border:0; height:1px" />
 
 <p class="page-title">Research</p>
 
 <p class="content">Here we list some of the current and past research project pursued in our group. We have organized the different projects into a few broad themes. Feel free to follows the links below to get to know more about the different projects. Feel free to contact us if you have any queries about any of these projects.</p>
 
-<div class="panel-group" id="accordion">
-  
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title collapse-heading">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Robots for neurorehabilitation</a>
-      </h4>
-    </div>
-    <div id="collapse1" class="panel-collapse collapse in">
-      <div class="panel-body">
-        <p class="topic-title">PLUTO: Plug and Train Hand Rehabilitation Robot</p>
-        <p class="topic-content"></p>
+<div class="topics">
+<p class="topic-title">Robots for Neurorehabilitation</p> 
+  <div class="topic-indiv"><a href="research/PLUTO.html">PLUTO</a></div>
+  <div class="topic-indiv"><a href="research/AREBO.html">AREBO</a></div>
+  <div class="topic-indiv"><a href="research/PNEUBO.html">PNEUBO</a></div>
+  <div class="topic-indiv"><a href="research/intent.html">Intent Detection</a></div>
+  <div class=spacer></div>
 
-        <p class="topic-title">PNEUBO: Planar Pneumatic Arm Rehabilitation Robot</p>
-        <p class="topic-content"></p>
+<p class="topic-title">Sensor-based systems for Neurorehabilitation</p> 
+  <div class="topic-indiv"><a href="research/SITAR.html">SITAR</a></div>
+  <div class="topic-indiv"><a href="research/VEGAS.html">VEGAS</a></div>
+  <div class=spacer></div>
 
-        <p class="topic-title">AREBO: Arm Rehabilitation Robot</p>
-        <p class="topic-content"></p>
-      </div>
-    </div>
-  </div>
-  
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title collapse-heading">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Sensor-based systems for neurorehabilitation</a>
-      </h4>
-    </div>
-    <div id="collapse2" class="panel-collapse collapse">
-      <div class="panel-body">
-        <p class="topic-title">SITAR: System for Independent Task-oriented Assessment and Training</p>
-        <p class="topic-content"></p>
-      </div>
-    </div>
-  </div>
+<p class="topic-title">Quantitative Sesnorimotor Assessmsents</p> 
+  <div class="topic-indiv"><a href="research/SPARC.html">SPARC</a></div>
+  <div class="topic-indiv"><a href="research/arm_use.html">Arm Use</a></div>
+  <div class=spacer></div>
 
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title collapse-heading">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Quantitative Sensorimotor Assessments</a>
-      </h4>
-    </div>
-    <div id="collapse3" class="panel-collapse collapse">
-      <div class="panel-body">
-        <p class="topic-title">SPARC: Spectral Arc length measure of movement smoothness</p>
-        <p class="topic-content"></p>
-      </div>
-    </div>
-  </div>
- 
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title collapse-heading">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Others</a>
-      </h4>
-    </div>
-    <div id="collapse4" class="panel-collapse collapse">
-      <div class="panel-body">
-        <p class="topic-title">-</p>
-        <p class="topic-content"></p>
-      </div>
-    </div>
-  </div>
-</div> 
+<p class="topic-title">Sensorimotor Control &amp; Learning</p> 
+  <div class="topic-indiv"><a href="research/rewards.html">Rewards/Punishments</a></div>
+  <div class=spacer></div>
+</div>
 
 </div>
 <div class="footer">
-<p class="footnote">Last updated on Oct 08, 2017</p>  
+<p class="footnote">Last updated on Oct 23, 2017</p>  
 </div>
 </body>
 </html>
