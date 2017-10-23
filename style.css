@@ -23,7 +23,7 @@
 
 .page-title {
   font-family: 'Oswald', sans-serif;
-  font-size: 30px;
+  font-size: 1.5em;
   color: #000;
   margin: 0px;
   padding: 0px;
@@ -32,20 +32,20 @@
 .content {
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: left;
-  font-size: 20px;
+  font-size: 1em;
   color: #666;
   margin-top: 0px;
 }
 
 .footnote {
   text-align: right;
-  font-size: 0.6em;
+  font-size: 0.5em;
   color: #aaa;
 }
 
 .navbar {
-  font-family: 'Amatic SC', cursive;
-  font-size: 1.7em;
+  font-family: 'Oswald', 'Amatic SC', cursive;
+  font-size: 1.2em;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -78,24 +78,22 @@
 }
 
 .topics {
-  font-family: 'Amatic SC', cursive;
-  font-size: 2.0em;
+  font-family: 'Oswald', 'Amatic SC', cursive;
+  font-size: 1.1em;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  margin-top: -10px;
   overflow: hidden;
   width: 100%;
 }
 
 .topic-title {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-style: bold;
   font-size: 1em;
-  font-style: bold;
+  font-weight: bold;
   text-align: left;
   color: #000;
-  margin-top: -10px;
+  margin-top: -0.3em;
   margin-bottom: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
@@ -109,7 +107,7 @@
   margin-top: 1%;
   background-color: #700;
   float: left;
-  width: 32%;
+  width: 23%;
 }
 
 .topic-indiv a {
