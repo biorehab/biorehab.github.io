@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="logo.png">
+   sodipodi:docname="logo2.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="283.17857"
+     inkscape:cx="164.17857"
      inkscape:cy="-182.75893"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3799"
      showgrid="false"
      inkscape:window-width="1875"
      inkscape:window-height="1056"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,18 +63,18 @@
          sodipodi:linespacing="125%"
          id="text3753"
          y="156.36218"
-         x="102.69531"
+         x="102.64453"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:saxMono;-inkscape-font-specification:saxMono"
          xml:space="preserve"><tspan
            style="font-size:48px;font-weight:normal;-inkscape-font-specification:saxMono"
            y="156.36218"
-           x="102.69531"
+           x="102.64453"
            id="tspan3755"
            sodipodi:role="line"><tspan
              id="tspan3777"
              style="font-size:56px;fill:#9b0000;fill-opacity:1">Bio</tspan><tspan
              id="tspan3761"
-             style="font-size:40px;font-style:normal;fill:#646464;fill-opacity:1;-inkscape-font-specification:saxMono Italic">logical Learning</tspan></tspan></text>
+             style="font-size:40px;font-style:normal;fill:#646464;fill-opacity:1;-inkscape-font-specification:saxMono Italic" /></tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3773"
@@ -93,18 +93,18 @@
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:saxMono;-inkscape-font-specification:saxMono"
-           x="155"
-           y="198.36218"
+           x="109.80078"
+           y="201.99304"
            id="text3763"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3765"
-             x="155"
-             y="198.36218"><tspan
+             x="109.80078"
+             y="201.99304"><tspan
                style="font-size:56px;fill:#9b0000;fill-opacity:1"
                id="tspan3767">Rehab</tspan><tspan
                style="font-style:normal;fill:#646464;fill-opacity:1;-inkscape-font-specification:saxMono Italic"
-               id="tspan3771">ilitation</tspan></tspan></text>
+               id="tspan3771" /></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c8c8c8;fill-opacity:1;stroke:none;font-family:Linux Libertine Display;-inkscape-font-specification:Linux Libertine Display Bold"
@@ -116,7 +116,7 @@
              id="tspan3781"
              x="110"
              y="199.49304"
-             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#646464;fill-opacity:1;font-family:Linux Libertine Display;-inkscape-font-specification:Linux Libertine Display Bold">&amp;</tspan></text>
+             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#646464;fill-opacity:1;font-family:Linux Libertine Display;-inkscape-font-specification:Linux Libertine Display Bold" /></text>
       </g>
     </g>
     <flowRoot
@@ -129,5 +129,5 @@
            height="200"
            x="77"
            y="93.362183" /></flowRegion><flowPara
-         id="flowPara3797"></flowPara></flowRoot>  </g>
+         id="flowPara3797" /></flowRoot>  </g>
 </svg>
