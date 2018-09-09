@@ -176,3 +176,22 @@
   margin: 0;
   padding: 0;
 }
+
+ol {
+    counter-reset: list;
+}
+ol > li {
+    list-style: none;
+    position: relative;
+    margin-bottom: 10px;
+}
+ol > li:before {
+    counter-increment: list;
+    content: "[" counter(list) "] ";
+    position: absolute;
+    left: -1.4em;
+}
+
+a {
+    text-decoration: none;
+}
