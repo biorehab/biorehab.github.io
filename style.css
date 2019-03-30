@@ -165,7 +165,7 @@
 }
 
 .people-list-title {
-  font-weight: bold;  
+  font-weight: bold;
   font-style: bold;
   margin-top: 7px;
   margin-bottom: -3px;
@@ -194,4 +194,26 @@ ol > li:before {
 
 a {
     text-decoration: none;
+}
+
+.ref-detail {
+  border-radius: 0px 0px 0px 0px;
+  margin-left: 0%;
+  margin-top: 0%;
+  margin-bottom: 1%;
+  padding-left: 1%;
+  background-color: #eee;
+  /* float: left; */
+  width: 100%;
+  font-size: 1.0em;
+}
+
+
+.ref-detail a {
+  color: #ff3333;
+  text-decoration: none;
+}
+
+.ref-detail a:hover:not(.active) {
+  color: #ff0000;
 }
