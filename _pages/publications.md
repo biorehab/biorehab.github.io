@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "BioRehab Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Publications @ BioRehab Group"
 sitemap: false
 permalink: /publications/
 ---

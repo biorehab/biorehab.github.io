@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "BioRehab Group - News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "News @ BioRehab Group"
 sitemap: false
 permalink: /allnews.html
 ---

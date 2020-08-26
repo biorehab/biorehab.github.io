@@ -1,13 +1,13 @@
 ---
-title: "Allan Lab - Team"
+title: "BioRehab Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Team @ BioRehab Group"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
-<!-- 
+
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
@@ -194,4 +194,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
- -->

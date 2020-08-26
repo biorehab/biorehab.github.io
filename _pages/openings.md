@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "BioRehab Group - Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Openings @ BioRehab Group"
 sitemap: false
 permalink: /vacancies
 ---

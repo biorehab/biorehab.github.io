@@ -1,0 +1,58 @@
+I"H<h1 id="research">Research</h1>
+
+<p>Our ultimate goal is to have a positive impact on routine clinical practice in sensorimotor neurorehabilitation by:</p>
+<ul>
+  <li>developing and translating state-of-the-art tools and methods for neurorehabilitation, and</li>
+  <li>pushing the capabilities of current neurorehabilitation techniques through a deeper understanding of healthy and diseased sensorimotor behavior.</li>
+</ul>
+
+<p>Our current work falls into one of the following four categories:</p>
+
+<h3 id="robotics-for-neurorehabilitation">Robotics for Neurorehabilitation</h3>
+<hr />
+<p>We are currently focusing on robotic devices for the upper-limb, and have two ongoing projects on a hand and an arm robot. Both of these projects are being carried out in collaboritation with <a href="https://sites.google.com/view/r2d2website/people?authuser=0">Dr. Sujatha Srinivasan</a> from <a href="https://www.iitm.ac.in/">IIT Madras</a>.</p>
+
+<p><a href="http://localhost:4000/research/pluto"><img src="http://localhost:4000/images/devs/pluto-icon.png" alt="" style="width: 200px; float: left; border: 10px; padding-right: 20px" /></a></p>
+<h4 id="pluto"><a href="http://localhost:4000/research/pluto"><strong>PLUTO</strong></a></h4>
+
+<p><strong>PLU</strong>g and <strong>T</strong>rain r<strong>O</strong>bot is a highly modular single degree-of-freedom (<em>dof</em>) robot for training different hand functions. This robot has a single actuator and a set of passive mechanisms, that can be easily attached/detached from the actuator, for training different hand function. This project was funded by the <a href="http://dbtindia.gov.in/">Department of Biotechnology</a>, Govt. of India.
+<br /> <br /> <br /> <br /> <br /> <br /></p>
+
+<p><a href=""><img src="http://localhost:4000/images/devs/arebo-icon.png" alt="" style="width: 200px; float: left; border: 10px; padding-right: 20px" /></a></p>
+<h4 id="arebo"><a href=""><strong>AREBO</strong></a></h4>
+
+<p><strong>AR</strong>m <strong>RE</strong>habilitation ro<strong>BO</strong>t is a 6 <em>dofs</em> end-effector robot with three actuated and three passive <em>dofs</em> for individual training of the shoulder and elbow joints. The robot has a self-aligning structure that allows significant freedom in where the subject is seated with respect to the robot.
+<br /> <br /> <br /> <br /> <br /> <br /></p>
+
+<h3 id="sensor-based-systems-for-neuorehabilitation">Sensor-based Systems for Neuorehabilitation</h3>
+<hr />
+<p><a href=""><img src="http://localhost:4000/images/devs/sitar-icon.png" alt="" style="width: 200px; float: left; border: 10px; padding-right: 20px" /></a></p>
+<h4 id="sitar"><a href=""><strong>SITAR</strong></a></h4>
+<p><strong>S</strong>ystem for <strong>I</strong>ndependent <strong>T</strong>ask-oriented <strong>A</strong>ssessment and <strong>R</strong>ehabilitation is a modular, multi-modal, interactive table-top for training and assessment of complex upper-limb functional tasks. This system was originally developed by the <a href="https://www.imperial.ac.uk/human-robotics">Human Robotics Group</a> at the <a href="https://www.imperial.ac.uk/">Impeiral College London</a>.
+<br /> <br /> <br /> <br /> <br /> <br /></p>
+
+<p><a href=""><img src="http://localhost:4000/images/devs/lvs-icon.png" alt="" style="width: 200px; float: left; border: 10px; padding-right: 20px" /></a></p>
+<h4 id="learning-vision-system"><a href=""><strong>Learning Vision System</strong></a></h4>
+<p>This is a computer vision-based system to track the 3D kinematics of the trunk and the upper-limb of human subjects during therapy and assessment using a single RGBD camera. The ultimate goal is to develop a system that can be trained through demonstration to observe and quantify movement performance for a wide range of therapy tasks, without the need for manually customizing the system for different tasks.
+<br /> <br /> <br /> <br /> <br /> <br /></p>
+
+<h3 id="quantitative-movement-assessment">Quantitative Movement Assessment</h3>
+<hr />
+<p><a href=""><img src="http://localhost:4000/images/devs/smooth-icon.png" alt="" style="width: 200px; float: left; border: 10px; padding-right: 20px" /></a></p>
+<h4 id="smoothness-analysis"><a href=""><strong>Smoothness analysis</strong></a></h4>
+<p>Movement smoothness is an important movement quality related to learning and recovery. Our recent work has focused on the development and validation of a good measure for quantifying moveemnt smoothness from kinematic measurements. 
+<br /> <br /> <br /> <br /> <br /> <br /></p>
+
+<p><a href=""><img src="http://localhost:4000/images/devs/armuse-icon.png" alt="" style="width: 200px; float: left; border: 10px; padding-right: 20px" /></a></p>
+<h4 id="arm-use-assessment"><a href=""><strong>Arm-use assessment</strong></a></h4>
+<p>Measurement of arm use in the real world is an important endpoint for any neurorehabilitation process. We havd developed a pair of wearbale IMU-based “watches” that can record linear acceleration and angular rotations which are used for detecting and quantifying functional arm-use in the the real world.
+<br /> <br /> <br /> <br /> <br /> <br /></p>
+
+<h3 id="neuromechanics">Neuromechanics</h3>
+<hr />
+<p><a href=""><img src="http://localhost:4000/images/devs/cimtrimt-icon.png" alt="" style="width: 200px; float: left; border: 10px; padding-right: 20px" /></a></p>
+<h4 id="cimt-vs-rimt"><a href=""><strong>CIMT vs. RIMT</strong></a></h4>
+<p>Learned non-use (LNU) is believed to play an major role in relatively high functioning stroke patients not using their upper limb in their daily life. Constraint induced movement therapy (CIMT) is the most popular method for countering LNU. Reinforcement induced movement therapy (RIMT) has been proposed as another potential method for reversing LNU. This work focuses on a direct comparison of these two training techniques of visuomotor adaptation and arm choice in healthy subjects.
+<br /> <br /> <br /> <br /> <br /> <br /></p>
+
+:ET

@@ -1,0 +1,81 @@
+I"!<h2 id="researchpluto"><a href="http://localhost:4000/research/">Research</a>/PLUTO</h2>
+
+<h4 id="motivation">Motivation</h4>
+<p>Hand therapy following any neurological condition (e.g. stroke) invovles training a wide range of movements at the various hand joints. A robotic device capable of assisting movements at these different joints can be beneficial in partially automating therapy, allowing clinicains to focus on planning and supervising therapy rather than mnaually administering it. To be able to train different hand functions, we either need a set of simple robots that can train one or two specific joints, or a complex robot that can simultaneously train multiple joints. <strong>Simpler robots are likely to be more compact, affordable, and thus clinically relevant; complex robots offer no therapeutic advantage over simple robots.</strong></p>
+
+<p>Arguably, the simplest possible robot is one with a single actuated degree-of-freedom (<em>dof</em>). Is it possible to train a wide range of hand functions (or joints) with such a robot? PLUTO was the result of us attemption to answer this question.</p>
+
+<p>This project was funded by the <a href="http://dbtindia.gov.in/">Department of Biotechnology</a>, Govt. of India, and was carried out in collaboration with the <a href="https://sites.google.com/view/r2d2website/">R2D2 lab</a> at <a href="https://www.iitm.ac.in/">IIT Madras</a>, lead by <a href="https://sites.google.com/view/r2d2website/people?authuser=0">Dr. Sujatha Srinivasan</a>.</p>
+
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+    </ol>
+    <!-- Items -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="http://localhost:4000/images/pluto/pluto-icon.png" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/pluto/pluto-icon.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/pluto/pluto-icon.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/pluto/pluto-icon.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/pluto/pluto-icon.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/pluto/pluto-icon.png" alt="Slide 6" />
+        </div>       
+         <div class="item">
+            <img src="http://localhost:4000/images/pluto/pluto-icon.png" alt="Slide 7" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<p><br /> <br /></p>
+
+<h4 id="system-architecture">System architecture</h4>
+<p>PLUTO has a single motor to which different passive mechanisms can be attached for training different hand functions/joints. The passive mechanisms can be easily attached/detached from the robot’s actuator through a simple universal coupler. The current version of PLUTO has passive mechanisms to training the following five functions:</p>
+<ol>
+  <li>Wrist flexion/extension (WFE)</li>
+  <li>Wrist ulnar/radial deviation (WURD)</li>
+  <li>Forearm pronation/supination (FPS)</li>
+  <li>Gross hand opening and closing (HOC)</li>
+  <li>Passive finger stretching (PFS). 
+<br /> <br /></li>
+</ol>
+
+<h4 id="clinical-evaluation">Clinical evaluation</h4>
+<p>As of August 2020, we have completed a single session usability study with 15 patient and caregivers, along with 15 clinicians at CMC Vellore.</p>
+
+<p>We are currently preparing to conduct a longer study to evaluate the feasbility of a 2-week independent training of hand functions in in-patients at the Rehabilitation Institute of CMC Vellore. 
+<br /> <br /></p>
+
+<h4 id="team">Team</h4>
+<p><sup>(1: Dept. of Bioengineering, CMC Vellore, 2: Dept. of Mechanical Engineering, IIT Madras, 3: Dept. of PMR, CMC Vellore.)</sup></p>
+<ul>
+  <li>Aravind Nehrujee<sup>1,2</sup>, Satish Balaraman<sup>1</sup>, Halel Andrew<sup>3</sup>, Reethajanetsurekha S<sup>s</sup>, Samuelkamaleshkumar S<sup>3</sup>, Dr. Henry Prakash<sup>3</sup>, Sivakumar Balasubramanian<sup>1</sup></li>
+  <li>Naveen Prasad<sup>2</sup>, Anand Kumar<sup>2</sup>, Sujatha Srinivasan<sup>2</sup></li>
+</ul>
+
+:ET
