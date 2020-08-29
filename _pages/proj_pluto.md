@@ -16,8 +16,8 @@ Arguably, the simplest possible robot is one with a single actuated degree-of-fr
 
 This project was funded by the [Department of Biotechnology](http://dbtindia.gov.in/), Govt. of India, and was carried out in collaboration with the [R2D2 lab](https://sites.google.com/view/r2d2website/) at [IIT Madras](https://www.iitm.ac.in/), lead by [Dr. Sujatha Srinivasan](https://sites.google.com/view/r2d2website/people?authuser=0).
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover" >
-    <!-- Menu -->
+<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover" >
+
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -27,7 +27,7 @@ This project was funded by the [Department of Biotechnology](http://dbtindia.gov
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
-    <!-- Items -->
+
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pluto/pluto-icon.png" alt="Slide 1" />
@@ -59,9 +59,9 @@ This project was funded by the [Department of Biotechnology](http://dbtindia.gov
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div>  -->
 
-<br /> <br /> 
+<br />
 
 #### System architecture
 PLUTO has a single motor to which different passive mechanisms can be attached for training different hand functions/joints. The passive mechanisms can be easily attached/detached from the robot's actuator through a simple universal coupler. The current version of PLUTO has passive mechanisms to training the following five functions:
@@ -70,13 +70,15 @@ PLUTO has a single motor to which different passive mechanisms can be attached f
   3.	Forearm pronation/supination (FPS)
   4.	Gross hand opening and closing (HOC) 
   5.	Passive finger stretching (PFS). 
-<br /> <br />
+
+<br />
 
 #### Clinical evaluation
 As of August 2020, we have completed a single session usability study with 15 patient and caregivers, along with 15 clinicians at CMC Vellore.
 
 We are currently preparing to conduct a longer study to evaluate the feasbility of a 2-week independent training of hand functions in in-patients at the Rehabilitation Institute of CMC Vellore. 
-<br /> <br />
+
+<br />
 
 #### Team
 <sup>(1: Dept. of Bioengineering, CMC Vellore, 2: Dept. of Mechanical Engineering, IIT Madras, 3: Dept. of PMR, CMC Vellore.)</sup>

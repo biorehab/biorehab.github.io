@@ -25,7 +25,7 @@ We are currently focusing on robotic devices for the upper-limb, and have two on
 <br /> <br /> <br /> <br /> <br /> <br /> 
 
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/arebo-icon.png){: style="width: 200px; float: left; border: 10px; padding-right: 20px"}]()
-#### [**AREBO**]()
+#### [**AREBO**]({{ site.url }}{{ site.baseurl }}/research/arebo)
 
 **AR**m **RE**habilitation ro**BO**t is a 6 _dofs_ end-effector robot with three actuated and three passive _dofs_ for individual training of the shoulder and elbow joints. The robot has a self-aligning structure that allows significant freedom in where the subject is seated with respect to the robot.
 <br /> <br /> <br /> <br /> <br /> <br /> 
@@ -56,10 +56,14 @@ Measurement of arm-use in the real world is an important endpoint for any neuror
 <br /> <br /> <br /> <br /> <br /> <br /> 
 
 
-### Neuromechanics
+### Neurorehabilitation Science and Neuromechanics
 ---
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/cimtrimt-icon.png){: style="width: 200px; float: left; border: 10px; padding-right: 20px"}]()
 #### [**CIMT vs. RIMT**]()
 Learned non-use (LNU) is believed to play a major role in high functioning stroke patients not using their upper-limb in their daily life. Constraint induced movement therapy (CIMT) is the most popular method for countering LNU. Reinforcement induced movement therapy (RIMT) has been proposed as another potential alternative for reversing LNU, which might have better retention properties than CIMT. This work focuses on a direct comparison of these two training techniques on visuomotor adaptation and arm choice in healthy subjects.
 <br /> <br /> <br /> <br /> <br /> <br /> 
 
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/emg-icon.png){: style="width: 200px; float: left; border: 10px; padding-right: 20px"}]()
+#### [**BCI without BCI**]()
+
+Active participation during assisted training is an essential ingredient driving recovery. Currently, EEG BCI based movement intent detection is used to actively engage severely affected patients with no residual movements in therapy. This work focuses on the use of EMG as an alternative to detecting movement intention, as it is a simpler and more practical approach for use in routine therapy. 
