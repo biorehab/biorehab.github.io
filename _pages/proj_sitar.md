@@ -3,14 +3,23 @@ title: "BioRehab Group - Research/PLUTO"
 layout: textlay
 excerpt: "Research @ BioRehab Group"
 sitemap: false
-permalink: /research/arebo
+permalink: /research/sitar
 ---
 
-## [Research]({{ site.url }}{{ site.baseurl }}/research/)/AREBO
+## [Research]({{ site.url }}{{ site.baseurl }}/research/)/SITAR
 
 
 #### **Motivation**
-Current evidence indicates that individual joint training with robotic devices can be as effective as multi-joint training for the arm. This makes a case for developing simpler and more compact robots for training individual joints of the arm. Such robots have the highest potential for clinical translation. The was the motivation behind this project, where we explored an endeffector-based robot for training individual joints (shoulder and elbow) of the arm. 
+Rehabilitation robots are ideal for low functioning patients that require 
+assisted training of relatively simple movements. However, as patients recover 
+and regain function, they would need to train complex functions related to 
+daily living which require interaction with physical objects. Robotics solutions 
+for training such complex movements are not practical. This goal of this 
+project is to develop an interactive workstation for training and assessing 
+compelx tasks. This system was originally developed by the [Human Robotics Group]() 
+at the [Imperial College London]().
+
+This system was commercialized by [Tyromtion](), Austria as [Myro]().
 
 <!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover" >
 
@@ -60,20 +69,29 @@ Current evidence indicates that individual joint training with robotic devices c
 <br />
 
 #### **System architecture**
-In its current form AREBO is a serial 6 _dof_ robot with 3 actuated and 3 non-actuated self-aligning _dofs_. The self-aligning joints of robot provide: (a) some freedom in allowing a patient to sit with respect to the robot, unlike most exoskeleton robots, and (b) safe interaction between the robot and the human limb minimizing unwanted forces and torques on the later. The three actuated _dofs_ allow the robot to apply forces on the human limb in any arbitrary direction for enforcing movements in upto two _dofs_. 
+**S**ystem for **I**ndependent **T**ask-oriented **A**ssessment and **R**ehabilitation 
+has a highly modular architectures with the following components:
+  1. An interactive table-top that is touch sensitive and presents audio-visual 
+     feedabck.
+  2. A set of instrumented objects with sensors capable of measuring various 
+     physical interactions from a user. These objects also have some preliminary 
+     capability to providing audio, visual, and somatosensory feedback during 
+     physical interaction.
 
-The work on the design and optmization of the kinematic structure of the robot can be found [here](https://www.biorxiv.org/content/10.1101/2020.07.09.195073v1). 
-
-Because there are numerous positions and orientations a subject can sit with respect to AREBO, the robot must know the position of the human joint and the length of the human limb to impose the desired movements to the human joint. This information can be obtained through a simple online calibration procedure that allows the robot to keep track of the human joint's position. Refer to the [this](https://www.biorxiv.org/content/10.1101/2020.07.09.195073v1) for details.  
+The table and the objects can be used either independently or together. A 
+characteristic feature of the STIAR is the visual and haptic workspaces during 
+interaction are colocated, which is likely to make the human interaction during 
+complex tasks more natural.
 
 <br />
 
 #### **Clinical evaluation**
-In the pipeline.
+Pilot assessment and usability studies have been completed with the SITAR at 
+Queen's Sqaure (London) and at CMC Vellore. 
 
 <br />
 
 #### **Team**
-<sup>(1: Dept. of Bioengineering, CMC Vellore, 2: Dept. of Mechanical Engineering, IIT Madras.)</sup>
-  - Samuel Elias<sup>1</sup>, Magesh Kumar<sup>1</sup>, Sivakumar Balasubramanian<sup>1</sup>
-  - Prem Kumar<sup>2</sup>, Javed Shaikh Mohammed<sup>2</sup>, Sujatha Srinivasan<sup>2</sup> 
+[Human Robotics Group]() (Imperial College London) and BioRehab Group (CMC 
+Vellore)
+
