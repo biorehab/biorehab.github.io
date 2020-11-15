@@ -18,13 +18,13 @@ Our ultimate goal is to have a positive impact on routine clinical practice in s
 
 #### **Sensor-based Systems for Neuorehabilitation**
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/sitar-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/sitar)
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/lvs-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]()
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/mobbo-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]()
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/lvs-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/lvs)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/mobbo-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/mobbo)
 
 #### **Quantitative Movement Assessment**
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/smooth-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]()
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/armuse-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]()
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/smooth-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/smoothness)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/armuse-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/armuse)
 
 #### **Neurorehabilitation Science and Neuromechanics**
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/cimtrimt-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]()
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/emg-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]()
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/cimtrimt-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/rimtcimt)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/emg-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/emgintent)

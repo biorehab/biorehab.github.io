@@ -94,4 +94,3 @@ Queen's Sqaure (London) and at CMC Vellore.
 #### **Team**
 [Human Robotics Group]() (Imperial College London) and BioRehab Group (CMC 
 Vellore)
-
