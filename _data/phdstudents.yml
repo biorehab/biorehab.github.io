@@ -25,3 +25,23 @@
   number_educ: 2 
   education1: B.Tech 
   education2: M.S. in Bioengineering, Christian Medical College Vellore.
+
+- name: Prem Kumar
+  photo: rock.jpg
+  info: PhD Student
+  email: 
+  url: 
+  number_educ: 2 
+  education1: B.Tech 
+  education2: 
+
+- name: Monisha Yuvaraj
+  photo: rock.jpg
+  info: PhD Student
+  email: 
+  url: 
+  number_educ: 2 
+  education1: B.Tech 
+  education2: 
+
+
