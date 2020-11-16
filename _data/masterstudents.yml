@@ -1,0 +1,33 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Monica Rajakumari
+  photo: rock.jpg
+  info: MS Student
+  email: 
+  url: 
+  number_educ: 1 
+  education1: B.Tech
+
+- name: Satish Balraman
+  photo: rock.jpg
+  info: MS Student
+  email: 
+  url: 
+  number_educ: 1 
+  education1: B.Tech 
+
+- name: Tanya Subash
+  photo: rock.jpg
+  info: MS Student
+  email: 
+  url: 
+  number_educ: 1 
+  education1: B.Tech in Electronics and Instrumentation, Pondicherry Engg. College, Pondiicherry.
