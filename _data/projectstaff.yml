@@ -1,4 +1,33 @@
 - name: Anand Kumar
+  photo: rock.jpg
+  info: Project statff
+  email: 
+  url: 
+  number_educ: 2 
+  education1: B.Tech
+  education2: M.E. in Medical Electronics ... 
+
 - name: Naveen Prasad
+  photo: rock.jpg
+  info: Project staff
+  email: 
+  url: 
+  number_educ: 1 
+  education1: B.Tech 
+  education2: MS in Bioengineering, CMC Vellore 
+
 - name: Samuel Ellias
+  photo: rock.jpg
+  info: Project staff
+  email: 
+  url: 
+  number_educ: 1 
+  education1: B.Tech in Mechanical Engineering
+
 - name: Sarath Kumar
+  photo: rock.jpg
+  info: Project staff
+  email: 
+  url: 
+  number_educ: 1 
+  education1: B.Tech 

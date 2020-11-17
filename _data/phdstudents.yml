@@ -9,21 +9,21 @@
 #  education4:
 
 - name: Ann David
-  photo: rock.jpg
+  photo: annd.jpg
   info: PhD Student
-  email: 
+  email: anndavid293@gmail.com
   url: 
   number_educ: 2 
-  education1: B.Tech 
+  education1: B.Tech in Electronics & Communication. Cochin University of Science and Technology, Kerala. 
   education2: M.S. in Bioengineering, Christian Medical College Vellore.
 
 - name: Aravind Nehrujee
-  photo: rock.jpg
+  photo: aravind.jpg
   info: PhD Student
-  email: 
-  url: 
+  email: nehru.aravind@gmail.com
+  url: https://tinyurl.com/yxarzzb4
   number_educ: 2 
-  education1: B.Tech 
+  education1: B.Tech in Mechanical Engineering, Vellore Institute of Technology, Vellore
   education2: M.S. in Bioengineering, Christian Medical College Vellore.
 
 - name: Prem Kumar
@@ -36,12 +36,12 @@
   education2: 
 
 - name: Monisha Yuvaraj
-  photo: rock.jpg
+  photo: monisha.jpg
   info: PhD Student
-  email: 
+  email: am20d600@smail.iitm.ac.in
   url: 
   number_educ: 2 
-  education1: B.Tech 
-  education2: 
+  education1: B.Tech in Electronics and Communication Engg., IIIT Kancheepuram. 
+  education2: M.Tech in Signal Processing and Communication System Design, IIIT Kancheepuram.
 
 
