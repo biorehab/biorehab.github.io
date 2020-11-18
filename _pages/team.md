@@ -10,11 +10,11 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and a Project staff to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-Jump to [staff](#staff), [PhD students](#phd-students), [Master students](#master-students), [Project staff](#project-staff), [Interns](#interns), [Alumni](#alumni).
+Jump to [Faculty](#faculty), [PhD students](#phd-students), [Master students](#master-students), [Project staff](#project-staff), [Interns](#interns), [Alumni](#alumni).
 
-### Staff
+### Faculty
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.faculty %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

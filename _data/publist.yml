@@ -1,3 +1,13 @@
+- title: "A Plug-and-Train Robotic Kit (PLUTO) For Hand Rehabilitation: Pilot Usability Study"
+  image: 
+  description: 
+  authors: A Nehrujee, A Hallel, A Patricia, S Samuelkamaleshkumar, H Prakash, S Sujatha, S  Balasubramanian
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9224369
+    display:  BioRob (2020)
+  highlight: 1
+  news2:
+
 - title: "A self-aligning end-effector robot for individual joint training of the human arm"
   image: 
   description: 
@@ -17,7 +27,6 @@
     display:  medrxiv (2020)
   highlight: 1
   news2:
-
 
 - title: "Estimating Movement Smoothness from Inertial Measurement Units"
   image: 

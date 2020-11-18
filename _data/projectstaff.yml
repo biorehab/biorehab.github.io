@@ -1,28 +1,28 @@
 - name: Anand Kumar
-  photo: rock.jpg
+  photo: anand.jpg
   info: Project statff
-  email: 
+  email: anandh.srec@gmail.com
   url: 
   number_educ: 2 
-  education1: B.Tech
-  education2: M.E. in Medical Electronics ... 
+  education1: B.E Biomedical Engineering at Sri Ramakrishna Engineering College, Coimbatore
+  education2: M.E Medical Electronics at College of Engineering, Guindy, Chennai
 
 - name: Naveen Prasad
-  photo: rock.jpg
+  photo: naveen.jpg
   info: Project staff
-  email: 
-  url: 
+  email: naveenprasad007@hotmail.com
+  url: https://tinyurl.com/y6q9trqt
   number_educ: 1 
-  education1: B.Tech 
+  education1: B.E. in Biomedical Engineering, Sri Ramakrishna Engineering College, Coimbatore
   education2: MS in Bioengineering, CMC Vellore 
 
 - name: Samuel Ellias
-  photo: rock.jpg
+  photo: sam.jpg
   info: Project staff
-  email: 
+  email: samuel.elias411@gmail.com
   url: 
   number_educ: 1 
-  education1: B.Tech in Mechanical Engineering
+  education1: B.E. in Mechanical engineering,  Christian College of Engg. and Technology, Bhilai
 
 - name: Sarath Kumar
   photo: rock.jpg
@@ -30,4 +30,4 @@
   email: 
   url: 
   number_educ: 1 
-  education1: B.Tech 
+  education1: 
