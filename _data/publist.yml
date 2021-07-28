@@ -1,3 +1,43 @@
+- title: "A self-aligning end-effector robot for individual joint training of the human arm"
+  image: 
+  description: 
+  authors: S Balasubramanian, S Guguloth, JS Mohammed, S Sujatha
+  link:
+    url: 
+    display: J Rehabil Assist Technol Eng (Accepted)
+  highlight: 1
+  news2:
+
+- title: "A Framework for Sensor-Based Assessment of Upper-Limb Functioning in Hemiparesis"
+  image: 
+  description: 
+  authors: A David, S Tanya, SKM Varadhan, A Melendez-Calderon, S Balasubramanian 
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fnhum.2021.667509/full
+    display: Front Hum Neurosci (2021)
+  highlight: 1
+  news2:
+
+- title: "Quantification of the relative arm-use in patients with hemiparesis using inertial measurement units"
+  image: 
+  description: 
+  authors: A David, S ReethaJanetSureka, S Gayathri, SJ Annamalai, S Samuelkamleshkumar, A Kuruvilla, HP Magimairaj, SKM Varadhan, S Balasubramanian 
+  link:
+    url: https://journals.sagepub.com/doi/full/10.1177/20556683211019694
+    display: J Rehabil Assist Technol Eng 8 (2021)
+  highlight: 1
+  news2:
+
+- title: "Estimating Movement Smoothness From Inertial Measurement Units"
+  image: 
+  description: 
+  authors: A Melendez-Calderon, C Shirota, S Balasubramanian 
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fbioe.2020.558771/full
+    display: Front Bioeng Biotechnol (2021)
+  highlight: 1
+  news2:
+
 - title: "A Plug-and-Train Robotic Kit (PLUTO) For Hand Rehabilitation: Pilot Usability Study"
   image: 
   description: 
@@ -8,35 +48,35 @@
   highlight: 1
   news2:
 
-- title: "A self-aligning end-effector robot for individual joint training of the human arm"
-  image: 
-  description: 
-  authors: S Balasubramanian, S Guguloth, JS Mohammed, S Sujatha
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2020.07.09.195073v1.full
-    display:  biorxiv (2020)
-  highlight: 1
-  news2:
+# - title: "A self-aligning end-effector robot for individual joint training of the human arm"
+#   image: 
+#   description: 
+#   authors: S Balasubramanian, S Guguloth, JS Mohammed, S Sujatha
+#   link:
+#     url: https://www.biorxiv.org/content/10.1101/2020.07.09.195073v1.full
+#     display:  biorxiv (2020)
+#   highlight: 1
+#   news2:
 
-- title: "Quantification of the relative arm-use in patients with hemiparesis using inertial measurement units"
-  image: 
-  description: 
-  authors: A David, S ReethaJanetSureka, S Gayathri, SJ Annamalai, S Samuelkamleshkumar, A Kuruvilla, HP Magimairaj, SKM Varadhan, S Balasubramanian
-  link:
-    url: https://www.medrxiv.org/content/10.1101/2020.06.09.20121996v1
-    display:  medrxiv (2020)
-  highlight: 1
-  news2:
+# - title: "Quantification of the relative arm-use in patients with hemiparesis using inertial measurement units"
+#   image: 
+#   description: 
+#   authors: A David, S ReethaJanetSureka, S Gayathri, SJ Annamalai, S Samuelkamleshkumar, A Kuruvilla, HP Magimairaj, SKM Varadhan, S Balasubramanian
+#   link:
+#     url: https://www.medrxiv.org/content/10.1101/2020.06.09.20121996v1
+#     display:  medrxiv (2020)
+#   highlight: 1
+#   news2:
 
-- title: "Estimating Movement Smoothness from Inertial Measurement Units"
-  image: 
-  description: 
-  authors: A Melendez-Calderon, C Shirota, S Balasubramanian.
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2020.04.30.069930v1
-    display:  biorxiv (2020)
-  highlight: 1
-  news2:
+# - title: "Estimating Movement Smoothness from Inertial Measurement Units"
+#   image: 
+#   description: 
+#   authors: A Melendez-Calderon, C Shirota, S Balasubramanian.
+#   link:
+#     url: https://www.biorxiv.org/content/10.1101/2020.04.30.069930v1
+#     display:  biorxiv (2020)
+#   highlight: 1
+#   news2:
 
 - title: "A Smartphone-based gaming system for vestibular rehabilitation: A usability study"
   image: 

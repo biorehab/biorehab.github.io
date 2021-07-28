@@ -9,8 +9,9 @@ permalink: /research/
 # Research
 
 Our ultimate goal is to have a positive impact on routine clinical practice in sensorimotor neurorehabilitation by: 
-* developing and translating state-of-the-art tools and methods for neurorehabilitation, and 
-* pushing the capabilities of current neurorehabilitation techniques through a deeper understanding of healthy and diseased sensorimotor behavior.
+* Simplify and translate neurorehabilitation technology.
+* Advance foundations of quantitative sensorimotor assessment.
+* Pushing the boundaries of neurorehabilitation through healthy/diseased neuromechanics.
 
 #### **Robotics for Neurorehabilitation**
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/pluto-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/pluto)
