@@ -11,8 +11,8 @@
   photo: naveen.jpg
   info: Project staff
   email: naveenprasad007@hotmail.com
-  url: https://tinyurl.com/y6q9trqt
-  number_educ: 1 
+  url: https://tinyurl.com/y6q9trqt 
+  number_educ: 2
   education1: B.E. in Biomedical Engineering, Sri Ramakrishna Engineering College, Coimbatore
   education2: MS in Bioengineering, CMC Vellore 
 
@@ -31,3 +31,30 @@
   url: 
   number_educ: 1 
   education1: B.Tech in Electronics and Electrical Engineering, Kingston Engg. College, Vellore
+
+- name: Sathish Balraman
+  photo: satish.jpg
+  info: Project staff
+  email: sathishbalaraman08@gmail.com 
+  url: https://tinyurl.com/y4hrdpyy
+  number_educ: 2 
+  education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore
+  education2: M.S in Bioengineering, CMC Vellore 
+
+- name: Tanya Subash
+  photo: tanya.jpg
+  info: Project staff
+  email: tanyasubash97@gmail.com
+  url: 
+  number_educ: 2 
+  education1: B.Tech in Electronics and Instrumentation, Pondicherry Engg. College, Pondiicherry.
+  education2: M.S in Bioengineering, CMC Vellore
+
+- name: Magesh Kumar
+  photo: rock.jpg
+  info: Project staff
+  email: mageshkumarmmkvlr@gmail.com
+  url:  
+  number_educ: 1
+  education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore
+

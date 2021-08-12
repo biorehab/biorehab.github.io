@@ -8,26 +8,10 @@
 #  education3:
 #  education4:
 
-- name: Monica Rajakumari
-  photo: rock.jpg
+- name: Sriramachandran
+  photo: rama.jpg
   info: MS Student
-  email: 
+  email: sriramachandranv94@gmail.com
   url: 
   number_educ: 1 
-  education1: B.Tech
-
-- name: Sathish Balraman
-  photo: satish.jpg
-  info: MS Student
-  email: sathishbalaraman08@gmail.com 
-  url: https://tinyurl.com/y4hrdpyy
-  number_educ: 1 
-  education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore 
-
-- name: Tanya Subash
-  photo: tanya.jpg
-  info: MS Student
-  email: tanyasubash97@gmail.com
-  url: 
-  number_educ: 1 
-  education1: B.Tech in Electronics and Instrumentation, Pondicherry Engg. College, Pondiicherry.
+  education1: B.Tech in Mechanical Engineering, Ganadipathy Tulsis jain engineering college, Vellore
