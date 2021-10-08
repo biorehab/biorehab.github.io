@@ -10,6 +10,9 @@ permalink: /allnews.html
 
 ## 2021
 
+#### - **Sep 24, 21: <a href="https://ieeexplore.ieee.org/document/9548086?source=authoralert">Plug-and-Train Robot (PLUTO) for Hand Rehabilitation: Design and Preliminary Evaluation</a>.**
+What is the simplest possible robot for hand neurorehabilitation? What can such a robot do for training and assessing hand functions? Aravind's doctoral research focuses on the development and clinical validation of a modular, single DOF robot for hand neurorehabilitation - PLUTO. In this paper, we present the design and prelimianry validation of the first version of PLUTO, whichw as tested on patients, clinicians, and caregivers at CMC Vellore. 
+
 #### - **Jun 22, 21: Follow-up on Ann's work <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2021.667509/full">A framework for upper-luimb fucntioning assessment</a>.**
 While exploring different methods for quantifying upper-limb use as part of Ann's PhD work, we realized the need for a proper framework for assessing upper-limb functioning in hemiparetic patients. Various groups have been publishing methods for visualizing and quantifying upper-limb functioning using wearable sensors. But often we found that the definitions of different terms were unclear. This work proposes a framework starting with clear definitions of differnet constructs of interest. We also present systematic analysis of different ways of visualzing data collected from sensors, along with a couple of metrics for quantifying upper-limb activity and relative upper-limb use. The data collected from Ann's previos study was used to demonstrate some of the ideas presented in the paper.  
 

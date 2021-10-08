@@ -8,13 +8,13 @@
 #  education3:
 #  education4:
 
-- name: Bhrigu Lahkar
-  photo: bhrigu.jpg
-  info: Post Doctorial Researcher
-  email: lahkar.bk@gmail.com
-  # url: 
-  number_educ: 3
-  education1: B.Tech. in Mechanical Engineering, Tezpur University, Assam
-  education2: M.S. in Biomedical Engineering (Biomechanics specialization), University of Paris Descartes, Paris, France
-  education3: PhD in Biomechanics, École Nationale Supérieure d'Arts et Métiers, Paris, France 
+# - name: Bhrigu Lahkar
+#   photo: bhrigu.jpg
+#   info: Post Doctorial Researcher
+#   email: lahkar.bk@gmail.com
+#   # url: 
+#   number_educ: 3
+#   education1: B.Tech. in Mechanical Engineering, Tezpur University, Assam
+#   education2: M.S. in Biomedical Engineering (Biomechanics specialization), University of Paris Descartes, Paris, France
+#   education3: PhD in Biomechanics, École Nationale Supérieure d'Arts et Métiers, Paris, France 
 
