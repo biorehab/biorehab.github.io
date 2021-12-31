@@ -16,13 +16,13 @@
   education1: B.E. in Biomedical Engineering, Sri Ramakrishna Engineering College, Coimbatore
   education2: MS in Bioengineering, CMC Vellore 
 
-- name: Samuel Ellias
-  photo: sam.jpg
-  info: Project staff
-  email: samuel.elias411@gmail.com
-  url: 
-  number_educ: 1 
-  education1: B.E. in Mechanical engineering,  Christian College of Engg. and Technology, Bhilai
+# - name: Samuel Ellias
+#   photo: sam.jpg
+#   info: Project staff
+#   email: samuel.elias411@gmail.com
+#   url: 
+#   number_educ: 1 
+#   education1: B.E. in Mechanical engineering,  Christian College of Engg. and Technology, Bhilai
 
 - name: Sarath Kumar
   photo: sarath.jpg

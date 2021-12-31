@@ -10,6 +10,9 @@ permalink: /allnews.html
 
 ## 2021
 
+#### - **Dec 23, 21: Thira Rehab Solutions recieves TANSEED award from the Tamil Nadu Chief Minister.**
+Thira Rehab Solutions - a start up from the BioRehab group and the R2D2 lab from IIT Madras recieved the TANSEED award from the chief minister of Tamil Nadu - Mr. M K Stalin. The award was seed funding of INR 10 Lakhs to help develop PLUTO into a commercial prototype. <a href="https://youtu.be/IfElkf0WjlA?t=42">Aravind recieved the check</a> for INR 5 Lakhs at the secretariat and gave a short interview to Kalaignar TV.
+
 #### - **Sep 24, 21: <a href="https://ieeexplore.ieee.org/document/9548086?source=authoralert">Plug-and-Train Robot (PLUTO) for Hand Rehabilitation: Design and Preliminary Evaluation</a>.**
 What is the simplest possible robot for hand neurorehabilitation? What can such a robot do for training and assessing hand functions? Aravind's doctoral research focuses on the development and clinical validation of a modular, single DOF robot for hand neurorehabilitation - PLUTO. In this paper, we present the design and prelimianry validation of the first version of PLUTO, whichw as tested on patients, clinicians, and caregivers at CMC Vellore. 
 
@@ -24,6 +27,9 @@ A part of Ann's PhD work was recently published in <a href="https://uk.sagepub.c
 We organized the first edition of <a href="http://neurorehack.com">NeuroRehack</a> -- an international Summer/Winter school and Hackathon in Neurorehabilitation Engineering. We had great response from students from across the world in spite of very little advertisement of the event. We had a great line-up of fantastic speakers from the field who helped introduce the undergrdatue and graduate students to the field's fundamentals and state-of-the-art. 
 
 A team from the University of Queensland and one from Christian Medical College Vellore were joint winners of the hackathon.
+
+#### - **May 20, 21: Monisha gets the  Prime Minister’s Research Fellowship.**
+Monisha Yuvaraj, a PhD student in the group has received the Prime Minister's Research Fellowship for her proposed PhD thesis on EMG-triggered robot assisted therapy. She will be exploring apporpriate methods for EMG triggered robot assisted therapy and evaluating its efficacy in severely affected stroke patients as part of doctoral research.
 
 #### - **Jan 21, 21: How can we estimate smoothness using IMUs? Take a look at our paper <a href="https://www.frontiersin.org/articles/10.3389/fbioe.2020.558771/full">Estimating smoothness using IMUs</a>.**
 

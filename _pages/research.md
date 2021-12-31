@@ -14,18 +14,19 @@ Our ultimate goal is to have a positive impact on routine clinical practice in s
 * Pushing the boundaries of neurorehabilitation through healthy/diseased neuromechanics.
 
 #### **Robotics for Neurorehabilitation**
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/pluto-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/pluto)
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/arebo-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/arebo)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/pluto-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/pluto)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/arebo-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/arebo)
 
 #### **Sensor-based Systems for Neuorehabilitation**
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/sitar-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/sitar)
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/lvs-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/lvs)
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/mobbo-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/mobbo)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/sitar-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/sitar)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/mira-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/lvs)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/mobbo-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/mobbo)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/hypercube-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/hypercube)
 
 #### **Quantitative Movement Assessment**
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/smooth-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/smoothness)
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/armuse-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/armuse)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/sparc-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/smoothness)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/armuse-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/armuse)
 
 #### **Neurorehabilitation Science and Neuromechanics**
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/cimtrimt-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/rimtcimt)
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/emg-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/emgintent)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/cirimt-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/rimtcimt)
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/emg-new-icon.png){: style="width: 150px; border: 10px; padding-right: 20px"}]({{ site.url }}{{ site.baseurl }}/research/emgintent)
