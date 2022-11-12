@@ -29,7 +29,7 @@ We organized the first edition of <a href="http://neurorehack.com">NeuroRehack</
 A team from the University of Queensland and one from Christian Medical College Vellore were joint winners of the hackathon.
 
 #### - **May 20, 21: Monisha gets the  Prime Minister’s Research Fellowship.**
-Monisha Yuvaraj, a PhD student in the group has received the Prime Minister's Research Fellowship for her proposed PhD thesis on EMG-triggered robot assisted therapy. She will be exploring apporpriate methods for EMG triggered robot assisted therapy and evaluating its efficacy in severely affected stroke patients as part of doctoral research.
+Monisha Yuvaraj, a PhD student in the group has received the Prime Minister's Research Fellowship for her proposed PhD thesis on EMG-triggered robot assisted therapy. She will be exploring appropriate methods for EMG triggered robot assisted therapy and evaluating its efficacy in severely affected stroke patients as part of doctoral research.
 
 #### - **Jan 21, 21: How can we estimate smoothness using IMUs? Take a look at our paper <a href="https://www.frontiersin.org/articles/10.3389/fbioe.2020.558771/full">Estimating smoothness using IMUs</a>.**
 
