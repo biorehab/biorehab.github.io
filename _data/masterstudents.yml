@@ -15,3 +15,33 @@
   url: 
   number_educ: 1 
   education1: B.Tech in Mechanical Engineering, Ganadipathy Tulsis jain engineering college, Vellore
+
+- name: Basinepalli Kothireddy Gari Diwakar Reddy
+  photo: diwakar.jpg
+  info: MS Student
+  email: bkdiwakar34@gmail.com
+  url: www.linkedin.com/in/ bk-diwakar-reddy
+  number_educ: 1 
+  education1: B.Tech in Electronics and Communication Engineering, NIT Calicut.
+
+- name: Sujith Christopher
+  photo: sujithc.JPG
+  info: MS Student
+  email: chrisbon95@gmail.com
+  url: https://sujithchristopher.github.io/
+  number_educ: 1 
+  education1: B.Tech in Electronics and Communication Engineering, Karunya University.
+
+- name: Samuel Elias
+  photo: samuel.jpg
+  info: MS Student
+  email: samuel.elias.bioeng21@cmcvellore.edu.in
+  number_educ: 1 
+  education1: B.E. in Mechanical Engineering, Chhattisgarh Swami Vivekanand Technical University, Bhilai. 
+
+- name: Dyan
+  photo: dyan.jpg
+  info: MS Student
+  email: dyanchandrasekar@gmail.com
+  number_educ: 1 
+  education1: B.Tech in Biomedical Engineering, Karunya Institute of Technology and Sciences.
