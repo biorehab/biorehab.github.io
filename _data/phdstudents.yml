@@ -14,8 +14,8 @@
   email: nehru.aravind@gmail.com
   url: https://tinyurl.com/yxarzzb4
   number_educ: 2 
-  education1: B.Tech in Mechanical Engineering, Vellore Institute of Technology, Vellore
-  education2: M.S. in Bioengineering, Christian Medical College Vellore
+  education1: B.Tech in Mechanical Engineering, Vellore Institute of Technology, Vellore.
+  education2: M.S. in Bioengineering, Christian Medical College Vellore.
 
 - name: Prem Kumar
   photo: prem.jpg
@@ -23,16 +23,16 @@
   email: me18d201@smail.iitm.ac.in
   url: 
   number_educ: 1 
-  education1: B.E. Mechanical Engineering, Government College of Engineering, Tirunelveli 
+  education1: B.E. Mechanical Engineering, Government College of Engineering, Tirunelveli.
 
 - name: Monisha Yuvaraj
   photo: monisha.jpg
   info: PhD Student
   email: am20d600@smail.iitm.ac.in
-  url: 
+  url: https://sites.google.com/view/monisha-yuvaraj/home?authuser=3
   number_educ: 2 
-  education1: B.Tech in Electronics and Communication Engg., IIIT Kancheepuram
-  education2: M.Tech in Signal Processing and Communication System Design, IIIT Kancheepuram
+  education1: B.Tech in Electronics and Communication Engg., IIIT Kancheepuram.
+  education2: M.Tech in Signal Processing and Communication System Design, IIIT Kancheepuram.
 
 - name: Arjun Ram
   photo: arjun.jpg
@@ -40,5 +40,26 @@
   email: arjunram11697@gmail.com
   url: 
   number_educ: 2 
-  education1: B.Tech in Biomedical engineering, Rajiv Gandhi College of Engineering and Technology, Pondicherry
-  education2: M.E. in Biomedical engineering, College of engineering, Guindy, Anna University
+  education1: B.Tech in Biomedical Engineering, Rajiv Gandhi College of Engineering and Technology, Pondicherry.
+  education2: M.E. in Biomedical Engineering, College of engineering, Guindy, Anna University.
+
+- name: Neelakshi Ganguly
+  photo: neelakshi.png
+  info: PhD Student
+  email: neelakshi5597@gmail.com
+  url: 
+  number_educ: 2 
+  education1: B.Tech in Electrical Engineering, St.Thomas College of Engineering and Technology, Kolkata.
+  education2: M.E. in Biomedical Engineering from Jadavpur University, Kolkata.
+
+- name: Parvathy Neelakandan
+  photo: parvathy.jpg
+  info: PhD Student
+  email: parvathyn8@gmail.com
+  url: https://in.linkedin.com/in/parvn
+  number_educ: 3
+  education1: B.Tech in Information Technology, University of Kerala, Kerala.
+  education2: M.Tech in Computer Science and Engineering, Amrita School of Engineering, Bangalore.
+  education3: M.Sc in Computational Neuroscience, Technical University, Berlin and Humboldt University, Berlin.
+
+
