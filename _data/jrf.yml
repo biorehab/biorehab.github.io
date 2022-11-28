@@ -1,0 +1,32 @@
+# - name: Samuel Ellias
+#   photo: sam.jpg
+#   info: Project staff
+#   email: samuel.elias411@gmail.com
+#   url: 
+#   number_educ: 1 
+#   education1: B.E. in Mechanical engineering,  Christian College of Engg. and Technology, Bhilai
+
+- name: Charles Jebaraj.I
+  photo: charles_j.jpg
+  info: Junior Research Fellow
+  email: charlesjeba.96@gmail.com
+  url_present: True
+  url: https://tinyurl.com/bdh2x4k5
+  url_display: linkedin/Charles-Jebaraj
+  number_educ: 2
+  education1: B.Tech in Electronics and Communication, Mar Baselios College of Engineering and Technology, Trivandrum.
+  education2: M.S in Bioengineering, CMC Vellore.
+
+- name: Lavanya Varshini
+  photo: lavanya.jpg
+  info: Junior Research Fellow
+  email: varshini2891@gmail.com
+  url_present: False
+  url: 
+  url_display: 
+  number_educ: 2
+  education1: B.E. in Electronics and Communication, Anna university.
+  education2: M.Tech in Embedded systems, VIT University.
+
+
+
