@@ -1,7 +1,47 @@
+- title: "Encoder-Controlled Functional Electrical Stimulator for Bilateral Wrist Activities—Design and Evaluation"
+  image: 
+  description: 
+  authors: CD Solomons, V Shanmugasundaram, S Balasubramanian
+  link:
+    url: https://www.mdpi.com/2306-5354/9/10/501
+    display: Bioengineering 9 (10), 501
+  highlight: 1
+  news2:
+
+- title: "Experiences of patients who had a stroke and rehabilitation professionals with upper limb rehabilitation robots: a qualitative systematic review protocol"
+  image: 
+  description: 
+  authors: M Chockalingam, LT Vasanthan, S Balasubramanian, V Sriram
+  link:
+    url: https://bmjopen.bmj.com/content/12/9/e065177.abstract
+    display: BMJ Open(2022)
+  highlight: 1
+  news2:
+
+- title: "On the Role of Robotic Assistance in Upper-Limb Neurorehabilitation"
+  image: 
+  description: 
+  authors: A Nehrujee, S Srinivasan, S Balasubramanian
+  link:
+    url: https://scholar.google.co.in/scholar?oi=bibs&cluster=2304703561339307903&btnI=1&hl=en
+    display: preprints(2022)
+  highlight: 1
+  news2:
+
+- title: "Comparing algorithms for assessing upper limb use with inertial measurement units"
+  image: 
+  description: 
+  authors: T Subash, A David, S ReetaJanetSurekha, S Gayathri, S Samuelkamaleshkumar, H Prakash, N Malesevic, C Antfolk, SKM Varadhan, A Melendez-Calderon, S Balasubramanian
+  link:
+    url: https://www.biorxiv.org/content/biorxiv/early/2022/02/25/2022.02.24.481756.full.pdf
+    display: biorxiv(2022)
+  highlight: 1
+  news2:
+
 - title: "Plug-and-Train Robot (PLUTO) for Hand Rehabilitation: Design and Preliminary Evaluation"
   image: 
   description: 
-  authors: A Nehrujee, H Andrew, Reethajanetsurekha, A Patricia, S Samuelkamaleshkumar, H Prakash, S Sujatha, S Balasubramanian
+  authors: A Nehrujee, H Andrew, Reethajanetsurekha, A Patricia, S Samuelkamaleshkumar, H Prakash, S Srinivasan, S Balasubramanian
   link:
     url: https://ieeexplore.ieee.org/document/9548086?source=authoralert
     display: IEEE Access, vol. 9 (2021)
@@ -11,7 +51,7 @@
 - title: "A self-aligning end-effector robot for individual joint training of the human arm"
   image: 
   description: 
-  authors: S Balasubramanian, S Guguloth, JS Mohammed, S Sujatha
+  authors: S Balasubramanian, S Guguloth, JS Mohammed, S Srinivasan
   link:
     url: 
     display: J Rehabil Assist Technol Eng (Accepted)
@@ -21,7 +61,7 @@
 - title: "A Framework for Sensor-Based Assessment of Upper-Limb Functioning in Hemiparesis"
   image: 
   description: 
-  authors: A David, S Tanya, SKM Varadhan, A Melendez-Calderon, S Balasubramanian 
+  authors: A David, T Subhash, SKM Varadhan, A Melendez-Calderon, S Balasubramanian 
   link:
     url: https://www.frontiersin.org/articles/10.3389/fnhum.2021.667509/full
     display: Front Hum Neurosci (2021)
@@ -51,7 +91,7 @@
 - title: "A Plug-and-Train Robotic Kit (PLUTO) For Hand Rehabilitation: Pilot Usability Study"
   image: 
   description: 
-  authors: A Nehrujee, A Hallel, A Patricia, S Samuelkamaleshkumar, H Prakash, S Sujatha, S  Balasubramanian
+  authors: A Nehrujee, A Hallel, A Patricia, S Samuelkamaleshkumar, H Prakash, S Srinivasan, S  Balasubramanian
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9224369
     display:  BioRob (2020)
