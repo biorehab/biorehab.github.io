@@ -45,7 +45,7 @@
   url:
   url_display:
   number_educ: 1
-  education1: B.Tech in Mechanical Engineering, Government College of Engineering, Tirunelveli
+  education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli
 
 - name: Bowya B
   photo: bowya_b.jpg
@@ -66,8 +66,6 @@
   url_display: linkedin/Manavalan
   number_educ: 1
   education1: B.E in Electrical & Electronics Engineering, Jeppiaar SRR Engineering College.
-
-
 
 - name: Clinton N 
   photo: clinton.jpg
