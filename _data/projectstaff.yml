@@ -1,21 +1,3 @@
-- name: Anand Kumar
-  photo: anand.jpg
-  info: Project statff
-  email: anandh.srec@gmail.com
-  url: 
-  number_educ: 2 
-  education1: B.E Biomedical Engineering at Sri Ramakrishna Engineering College, Coimbatore
-  education2: M.E Medical Electronics at College of Engineering, Guindy, Chennai
-
-- name: Naveen Prasad
-  photo: naveen.jpg
-  info: Project staff
-  email: naveenprasad007@hotmail.com
-  url: https://tinyurl.com/y6q9trqt 
-  number_educ: 2
-  education1: B.E. in Biomedical Engineering, Sri Ramakrishna Engineering College, Coimbatore
-  education2: MS in Bioengineering, CMC Vellore 
-
 # - name: Samuel Ellias
 #   photo: sam.jpg
 #   info: Project staff
@@ -25,55 +7,103 @@
 #   education1: B.E. in Mechanical engineering,  Christian College of Engg. and Technology, Bhilai
 
 - name: Sarath Kumar
-  photo: sarath.jpg
+  photo: sarath_kumar.jpeg
   info: Project staff
   email: sarathrkrishnask@gmail.com
-  url: 
+  url_present: True
+  url: https://www.linkedin.com/in/sarathkumar-r-599642128
+  url_display: linkedin/Sarath-Kumar
   number_educ: 1 
-  education1: B.Tech in Electronics and Electrical Engineering, Kingston Engg. College, Vellore
+  education1: B.Tech in Electronics and Electrical Engineering, Kingston Engg. College, Vellore.
 
 - name: Sathish Balraman
-  photo: satish.jpg
+  photo: sathish_b.jpg
   info: Project staff
   email: sathishbalaraman08@gmail.com 
+  url_present: True
   url: https://tinyurl.com/y4hrdpyy
+  url_display: linkedin/Sathish-Balaraman
   number_educ: 2 
-  education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore
-  education2: M.S in Bioengineering, CMC Vellore 
+  education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore.
+  education2: M.S in Bioengineering, CMC Vellore. 
 
-- name: Tanya Subash
-  photo: tanya.jpg
+- name: Magesh Kumar M
+  photo: magesh_km.jpg
   info: Project staff
-  email: tanyasubash97@gmail.com
-  url: 
-  number_educ: 2 
-  education1: B.Tech in Electronics and Instrumentation, Pondicherry Engg. College, Pondiicherry.
-  education2: M.S in Bioengineering, CMC Vellore
-
-- name: Magesh Kumar
-  photo: rock.jpg
-  info: Project staff
-  email: mageshkumarmmkvlr@gmail.com
-  url:  
+  email: Mageshkumarmmkvlr@gmail.com
+  url_present: False
+  url:
+  url_display:   
   number_educ: 1
-  education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore
+  education1: B.E in Mechanical Engineering, Anna University.
 
-- name: Charles Jebaraj I
-  photo: charles.jpg
+- name: Thiagu S
+  photo: thiagu.jpg
   info: Project staff
-  email: charlesjeba.96@gmail.com
-  url:  
-  number_educ: 2
-  education1: B. Tech in Electronics and Communication, Mar Baselios College of Engineering and Technology, Trivandrum
-  education2: M.S in Bioengineering, CMC Vellore
+  email: sthiashine@gmail.com
+  url_present: False
+  url:
+  url_display:
+  number_educ: 1
+  education1: B.Tech in Mechanical Engineering, Government College of Engineering, Tirunelveli
 
-- name: Harideesh
-  photo: rock.jpg
+- name: Bowya B
+  photo: bowya_b.jpg
   info: Project staff
-  email: 
-  url:  
-  number_educ: 0
-  education1: 
+  email: bowyabaskaran1608@gmail.com
+  url_present: True
+  url: linkedin.com/in/bowya-baskaran-b45955190
+  url_display: linkedin/Bowya-Baskaran
+  number_educ: 1
+  education1: B.E. in Electrical and Electronics engineering, Ganadipathy's Tulsi's Jain Engineering college.
+
+- name: Manavalan A
+  photo: manavalan.jpg
+  info: Project staff
+  email: manavalan97@gmail.com
+  url_present: True
+  url: https://www.linkedin.com/in/manavalan-a-0b34b91a6
+  url_display: linkedin/Manavalan
+  number_educ: 1
+  education1: B.E in Electrical & Electronics Engineering, Jeppiaar SRR Engineering College.
+
+
+
+- name: Clinton N 
+  photo: clinton.jpg
+  info: Project staff
+  email: nclinton006eee@gmail.com
+  url_present: False
+  url:
+  url_display:
+  number_educ: 1
+  education1: B.Tech in Electronics and Electrical Engineering, Kingston Engg. College, Vellore. 
+
+- name: Praveen Kumar M
+  photo: praveen_m.jpeg
+  info: Project staff
+  email: balajipraveen21@gmail.com
+  url_present: False
+  url:
+  url_display:
+  number_educ: 1
+  education1: B.E. in Mechanical Engineering, Global Institute of Engineering and Technology.
+
+- name: Anand Kumar
+  photo: anand.jpg
+  info: Project staff
+  email: anandh.srec@gmail.com
+  url_present: False
+  url: 
+  url_display:
+  number_educ: 2 
+  education1: B.E Biomedical Engineering at Sri Ramakrishna Engineering College, Coimbatore.
+  education2: M.E Medical Electronics at College of Engineering, Guindy, Chennai.
+
+
+
+
+
 
 
 
