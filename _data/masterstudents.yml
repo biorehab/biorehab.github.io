@@ -57,3 +57,13 @@
   url_display:
   number_educ: 1 
   education1: B.Tech in Biomedical Engineering, Karunya Institute of Technology and Sciences.
+
+- name: Blessed Joshua A
+  photo: joshua.jpg
+  info: MS Student
+  email: blessedjoshua.a@gmail.com
+  url_present: False
+  url:
+  url_display:
+  number_educ: 1
+  education1: B.E. in Bio-Medical Engineering, Alpha College of Engineering, Chennai
