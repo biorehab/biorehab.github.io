@@ -9,10 +9,12 @@
 #  education4:
 
 - name: Aravind Nehrujee
-  photo: aravind.jpg
+  photo: aravind.png
   info: PhD Student
   email: nehru.aravind@gmail.com
-  url: https://tinyurl.com/yxarzzb4
+  url_present: True
+  url: https://www.linkedin.com/in/aravind-nehrujee-4752349a/
+  url_display: linkedin/aravind-nehrujee
   number_educ: 2 
   education1: B.Tech in Mechanical Engineering, Vellore Institute of Technology, Vellore.
   education2: M.S. in Bioengineering, Christian Medical College Vellore.
@@ -21,7 +23,9 @@
   photo: prem.jpg
   info: PhD Student
   email: me18d201@smail.iitm.ac.in
-  url: 
+  url_present: False
+  url:
+  url_display: 
   number_educ: 1 
   education1: B.E. Mechanical Engineering, Government College of Engineering, Tirunelveli.
 
@@ -29,7 +33,9 @@
   photo: monisha.jpg
   info: PhD Student
   email: am20d600@smail.iitm.ac.in
+  url_present: True
   url: https://sites.google.com/view/monisha-yuvaraj/home?authuser=3
+  url_display: sites.google/monisha-yuvaraj
   number_educ: 2 
   education1: B.Tech in Electronics and Communication Engg., IIIT Kancheepuram.
   education2: M.Tech in Signal Processing and Communication System Design, IIIT Kancheepuram.
@@ -38,7 +44,9 @@
   photo: arjun.jpg
   info: PhD Student
   email: arjunram11697@gmail.com
+  url_present: False
   url: 
+  url_display:
   number_educ: 2 
   education1: B.Tech in Biomedical Engineering, Rajiv Gandhi College of Engineering and Technology, Pondicherry.
   education2: M.E. in Biomedical Engineering, College of engineering, Guindy, Anna University.
@@ -47,16 +55,20 @@
   photo: neelakshi.png
   info: PhD Student
   email: neelakshi5597@gmail.com
+  url_present: False
   url: 
+  url_display:
   number_educ: 2 
   education1: B.Tech in Electrical Engineering, St.Thomas College of Engineering and Technology, Kolkata.
   education2: M.E. in Biomedical Engineering from Jadavpur University, Kolkata.
 
 - name: Parvathy Neelakandan
-  photo: parvathy.jpg
+  photo: parvathy.png
   info: PhD Student
   email: parvathyn8@gmail.com
+  url_present: True
   url: https://in.linkedin.com/in/parvn
+  url_display: linkedin/Parvathy-N
   number_educ: 3
   education1: B.Tech in Information Technology, University of Kerala, Kerala.
   education2: M.Tech in Computer Science and Engineering, Amrita School of Engineering, Bangalore.
