@@ -220,7 +220,8 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i><br>
-  <i>URL: <a href="{{ member.url }}">{{ member.url }}</a></i>
+  {% if member.url_present %} <i>URL: <a href="{{ member.url }}">{{ member.url_display }}</a></i> 
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -284,7 +285,8 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i><br>
-  <i>URL: <a href="{{ member.url }}">{{ member.url }}</a></i>
+  % if member.url_present %} <i>URL: <a href="{{ member.url }}">{{ member.url_display }}</a></i> 
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

@@ -12,7 +12,9 @@
   photo: rama.JPG
   info: MS Student
   email: sriramachandranv94@gmail.com
+  url_present: False
   url: 
+  url_display: 
   number_educ: 1 
   education1: B.Tech in Mechanical Engineering, Ganadipathy Tulsis jain engineering college, Vellore
 
@@ -20,7 +22,9 @@
   photo: diwakar.jpg
   info: MS Student
   email: bkdiwakar34@gmail.com
+  url_present: True
   url: www.linkedin.com/in/ bk-diwakar-reddy
+  url_display: linkedin/Diwakar-Reddy
   number_educ: 1 
   education1: B.Tech in Electronics and Communication Engineering, NIT Calicut.
 
@@ -28,7 +32,9 @@
   photo: sujithc.JPG
   info: MS Student
   email: chrisbon95@gmail.com
+  url_present: True
   url: https://sujithchristopher.github.io/
+  url_display: https://sujithchristopher.github.io/
   number_educ: 1 
   education1: B.Tech in Electronics and Communication Engineering, Karunya University.
 
@@ -36,6 +42,9 @@
   photo: samuel.jpg
   info: MS Student
   email: samuel.elias.bioeng21@cmcvellore.edu.in
+  url_present: False
+  url:
+  url_display:
   number_educ: 1 
   education1: B.E. in Mechanical Engineering, Chhattisgarh Swami Vivekanand Technical University, Bhilai. 
 
@@ -43,5 +52,8 @@
   photo: dyan.jpg
   info: MS Student
   email: dyanchandrasekar@gmail.com
+  url_present: False
+  url:
+  url_display:
   number_educ: 1 
   education1: B.Tech in Biomedical Engineering, Karunya Institute of Technology and Sciences.
