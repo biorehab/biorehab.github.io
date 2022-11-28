@@ -11,6 +11,7 @@
 - name: Aravind Nehrujee
   photo: aravind.png
   info: PhD Student
+  Co-guide: Dr.Sujatha Srinivasan(IIT Madras)
   email: nehru.aravind@gmail.com
   url_present: True
   url: https://www.linkedin.com/in/aravind-nehrujee-4752349a/
@@ -22,6 +23,7 @@
 - name: Prem Kumar
   photo: prem.jpg
   info: PhD Student
+  Co-guide: Dr.Sujatha Srinivasan(IIT Madras)
   email: me18d201@smail.iitm.ac.in
   url_present: False
   url:
@@ -32,6 +34,7 @@
 - name: Monisha Yuvaraj
   photo: monisha.jpeg
   info: PhD Student
+  Co-guide: Dr. Varadhan SKM(IIT Madras)
   email: am20d600@smail.iitm.ac.in
   url_present: True
   url: https://sites.google.com/view/monisha-yuvaraj/home?authuser=3
@@ -43,6 +46,7 @@
 - name: Arjun Ram
   photo: arjun.jpg
   info: PhD Student
+  Co-guide: Dr. Varadhan SKM(IIT Madras)
   email: arjunram11697@gmail.com
   url_present: False
   url: 
@@ -54,6 +58,7 @@
 - name: Neelakshi Ganguly
   photo: neelakshi.png
   info: PhD Student
+  Co-guide: Dr.Sujatha Srinivasan(IIT Madras)
   email: neelakshi5597@gmail.com
   url_present: False
   url: 
@@ -65,6 +70,7 @@
 - name: Parvathy Neelakandan
   photo: parvathy.png
   info: PhD Student
+  Co-guide: Dr. Varadhan SKM(IIT Madras)
   email: parvathyn8@gmail.com
   url_present: True
   url: https://in.linkedin.com/in/parvn
