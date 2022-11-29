@@ -8,6 +8,19 @@ permalink: /allnews.html
 
 # News
 
+## 2022
+
+#### - **Nov 16, 2022: Ann David joins as Post-Doctoral Researcher!**
+We welcome back Ann, who now joins us as a Post-Doctoral Researcher in collaboration with IIT Madras. She will be working on the "Design and development of devices and techniques for upper-limb neurorehabilitation" collaboratively with Prof. Sujatha Srinivasan from Dept. of Mechanical Engineering, IIT Madras.
+
+
+#### - **Jul 13, 2022: Congratulations to Ann David for getting her PhD! :)**
+Group's first PhD, Ann David has successfully defended her thesis on July 13, 2022. Her thesis was on "Arm use asymmetry in healthy persons and persons with hemiparesis". She was co-guided by Dr. Varadhan SKM from Dept. of Applied Mechanics, IIT Madras.
+
+
+#### - **July 11, 2022: Neelakshi and Parvathy join the group!**
+We welcome our two new PhD students, Neelakshi and Parvathy! Neelakshi will be working on "Understanding the role of robotic assistance in upper-limb neurorehabilitation" in collaboration with Prof. Sujatha Srinivasan from Dept. of Mechanical Engineering, IIT Madras. Parvathy will be working on "Applying ML/AI methods for arm use assessment with wearable sensors" in collaboration with Dr. Varadhan SKM from Dept. of Applied Mechanics, IIT Madras. Look forward to working together! :)
+
 ## 2021
 
 #### - **Dec 23, 21: Thira Rehab Solutions receives TANSEED award from the Tamil Nadu Chief Minister.**
