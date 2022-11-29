@@ -11,7 +11,8 @@
 - name: Aravind Nehrujee
   photo: aravind.png
   info: PhD Student
-  Co-guide: Dr.Sujatha Srinivasan(IIT Madras)
+  co-guide-url: https://mech.iitm.ac.in/meiitm/personnal/dr-sujatha-srinivasan/
+  Co-guide: Dr. Sujatha Srinivasan(IIT Madras)
   email: nehru.aravind@gmail.com
   url_present: True
   url: https://www.linkedin.com/in/aravind-nehrujee-4752349a/
@@ -23,7 +24,8 @@
 - name: Prem Kumar
   photo: prem.jpg
   info: PhD Student
-  Co-guide: Dr.Sujatha Srinivasan(IIT Madras)
+  co-guide-url: https://mech.iitm.ac.in/meiitm/personnal/dr-sujatha-srinivasan/
+  Co-guide: Dr. Sujatha Srinivasan(IIT Madras)
   email: me18d201@smail.iitm.ac.in
   url_present: False
   url:
@@ -34,6 +36,7 @@
 - name: Monisha Yuvaraj
   photo: monisha.jpeg
   info: PhD Student
+  co-guide-url: https://apm.iitm.ac.in/SKMV.html
   Co-guide: Dr. Varadhan SKM(IIT Madras)
   email: am20d600@smail.iitm.ac.in
   url_present: True
@@ -46,6 +49,7 @@
 - name: Arjun Ram
   photo: arjun.jpg
   info: PhD Student
+  co-guide-url: https://apm.iitm.ac.in/SKMV.html
   Co-guide: Dr. Varadhan SKM(IIT Madras)
   email: arjunram11697@gmail.com
   url_present: False
@@ -58,7 +62,8 @@
 - name: Neelakshi Ganguly
   photo: neelakshi.png
   info: PhD Student
-  Co-guide: Dr.Sujatha Srinivasan(IIT Madras)
+  co-guide-url: https://mech.iitm.ac.in/meiitm/personnal/dr-sujatha-srinivasan/
+  Co-guide: Dr. Sujatha Srinivasan(IIT Madras)
   email: neelakshi5597@gmail.com
   url_present: False
   url: 
@@ -70,6 +75,7 @@
 - name: Parvathy Neelakandan
   photo: parvathy.png
   info: PhD Student
+  co-guide-url: https://apm.iitm.ac.in/SKMV.html
   Co-guide: Dr. Varadhan SKM(IIT Madras)
   email: parvathyn8@gmail.com
   url_present: True

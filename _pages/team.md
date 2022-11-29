@@ -154,7 +154,7 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Co-guide: {{ member.Co-guide }}<br>email: <{{ member.email }}></i><br>
+  <i>{{ member.info }}<br>Co-guide: <a href="{{ member.co-guide-url }}">{{ member.Co-guide}}</a><br>email: <{{ member.email }}></i><br>
   {% if member.url_present %} <i>URL: <a href="{{ member.url }}">{{ member.url_display }}</a></i> 
   {% endif %}
   <ul style="overflow: hidden">
