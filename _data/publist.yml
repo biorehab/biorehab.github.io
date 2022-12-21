@@ -1,3 +1,13 @@
+- title: "Comparing algorithms for assessing upper limb use with inertial measurement units"
+  image: 
+  description: 
+  authors: "T Subash, A David, S ReetaJanetSurekha, S Gayathri, S Samuelkamaleshkumar, H Prakash, N Malesevic, C Antfolk, SKM Varadhan, <br> A Melendez-Calderon, S Balasubramanian"
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fphys.2022.1023589/full
+    display: Frontiers in Physiology (2022)
+  highlight: 1
+  news2:
+
 - title: "Encoder-Controlled Functional Electrical Stimulator for Bilateral Wrist Activities—Design and Evaluation"
   image: 
   description: 
@@ -25,16 +35,6 @@
   link:
     url: https://scholar.google.co.in/scholar?oi=bibs&cluster=2304703561339307903&btnI=1&hl=en
     display: preprints(2022)
-  highlight: 1
-  news2:
-
-- title: "Comparing algorithms for assessing upper limb use with inertial measurement units"
-  image: 
-  description: 
-  authors: T Subash, A David, S ReetaJanetSurekha, S Gayathri, S Samuelkamaleshkumar, H Prakash, N Malesevic, C Antfolk, SKM Varadhan, A Melendez-Calderon, S Balasubramanian
-  link:
-    url: https://www.biorxiv.org/content/biorxiv/early/2022/02/25/2022.02.24.481756.full.pdf
-    display: biorxiv(2022)
   highlight: 1
   news2:
 
