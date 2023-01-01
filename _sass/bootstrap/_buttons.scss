@@ -7,15 +7,16 @@
 // --------------------------------------------------
 
 .btn {
-  display: inline-block;
+  display: inline;
   margin-bottom: 0; // For input.btn
   font-weight: $btn-font-weight;
   text-align: center;
+  text-transform: unset !important;
   vertical-align: middle;
   touch-action: manipulation;
   cursor: pointer;
   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
-  border: 1px solid transparent;
+  border: 1px solid transparent; 
   white-space: nowrap;
   @include button-size($padding-base-vertical, $padding-base-horizontal, $font-size-base, $line-height-base, $btn-border-radius-base);
   @include user-select(none);
@@ -59,6 +60,25 @@ a.btn {
   fieldset[disabled] & {
     pointer-events: none; // Future-proof disabling of clicks on `<a>` elements
   }
+}
+
+.btn-tag{
+  color:rgb(39, 38, 38);
+  background-color:#c5d9ed;
+  font-weight: lighter;
+  border-color:lightblue;
+  letter-spacing: 0.05em;
+  border-radius: 0;
+}
+
+.btn-tag:hover,
+.btn-tag:active,
+.btn-tag:focus,
+.btn-tag.active {
+  /* let's darken #004E64 a bit for hover effect */
+  background: #83bed0;
+  color: #ffffff;
+  border-color: #7eb8ca;
 }
 
 
