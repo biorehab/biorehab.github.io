@@ -9,7 +9,7 @@
   news2:
   number_tags: 4
   tag:
-    url1: 
+    url1: /publications/arm_use
     display1: arm-use
     url2: 
     display2: stroke
@@ -122,8 +122,8 @@
     display1: upper-limb
     url2: 
     display2: assessment
-    url3:
-    display3: sensor system
+    url3: /publications/arm_use
+    display3: arm-use
     
 
 - title: "Quantification of the relative arm-use in patients with hemiparesis using inertial measurement units"
@@ -137,7 +137,7 @@
   news2:
   number_tags: 4
   tag:
-    url1: 
+    url1: /publications/arm_use
     display1: arm-use
     url2: 
     display2: assessment
