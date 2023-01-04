@@ -10,6 +10,10 @@ permalink: /read_list/read_list_2
 
 ---
 
+To receive the reading list by mail, <a href="https://forms.gle/tnrR7bbEnf3SqjmLA"> Subscribe</a>
+
+---
+
 <b><ins>Upper limb intervention </ins> </b>
 
 **Patient Perspectives on Using a Smartphone App to Support Home-Based Exercise During Physical Therapy Treatment: Qualitative Study.** <br>Arensman, R., Kloek, C., Pisters, M., Koppenaal, T., Ostelo, R., & Veenhof, C. (2022).[JMIR Human Factors, 9(3), e35316.](https://humanfactors.jmir.org/2022/3/e35316/)

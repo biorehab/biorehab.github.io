@@ -81,6 +81,24 @@ a.btn {
   border-color: #7eb8ca;
 }
 
+.btn-subscribe{
+  color:rgb(39, 38, 38);
+  background-color:#ffffff;
+  font-weight: lighter;
+  border-color:black;
+  letter-spacing: 0.05em;
+}
+
+.btn-subscribe:hover,
+.btn-subscribe:active,
+.btn-subscribe:focus,
+.btn-subscribe.active {
+  /* let's darken #004E64 a bit for hover effect */
+  background: #5e5f60;
+  color: #ffffff;
+  border-color: black;
+}
+
 
 // Alternate buttons
 // --------------------------------------------------

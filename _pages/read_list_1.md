@@ -10,6 +10,10 @@ permalink: /read_list/read_list_1
 
 ---
 
+To receive the reading list by mail, <a href="https://forms.gle/tnrR7bbEnf3SqjmLA"> Subscribe</a>
+
+---
+
 <b><ins>Upper limb intervention </ins> </b>
 
 **Efficacy of wrist robot-aided orthopedic rehabilitation: A randomized controlled trial.** <br>

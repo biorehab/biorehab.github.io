@@ -10,6 +10,10 @@ permalink: /read_list/read_list_6
 
 ---
 
+To receive the reading list by mail, <a href="https://forms.gle/tnrR7bbEnf3SqjmLA"> Subscribe</a>
+
+---
+
 <b> <ins> Upper limb interventions and devices </ins> </b>
 
 **An exoneuromusculoskeleton for self-help upper limb rehabilitation after stroke.** <br> Nam, C., Rong, W., Li, W., Cheung, C., Ngai, W., Cheung, T., Pang, M., Li, L., Hu, J., Wai, H., & Hu, X. (2022). [Soft Robotics, 9(1), 14–35.](https://doi.org/10.1089/soro.2020.0090) 

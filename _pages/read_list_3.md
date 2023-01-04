@@ -10,6 +10,10 @@ permalink: /read_list/read_list_3
  
 --- 
 
+To receive the reading list by mail, <a href="https://forms.gle/tnrR7bbEnf3SqjmLA"> Subscribe</a>
+
+---
+
 <b><ins>Upper limb intervention </ins></b>
 
 **Home-based upper extremity stroke therapy using a multi user virtual reality environment: A randomized trial.** <br> Thielbar, K. O., Triandafilou, K. M., Barry, A. J., Yuan, N., Nishimoto, A., Johnson, J., Stoykov, M. E., Tsoupikova, D., & Kamper, D. G. (2020). [Archives of Physical Medicine and Rehabilitation, 101(2), 196–203.](https://doi.org/10.1016/j.apmr.2019.10.182)

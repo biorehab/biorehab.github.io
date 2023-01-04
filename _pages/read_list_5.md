@@ -10,6 +10,10 @@ permalink: /read_list/read_list_5
 
 ---
 
+To receive the reading list by mail, <a href="https://forms.gle/tnrR7bbEnf3SqjmLA"> Subscribe</a>
+
+---
+
 <b> <ins> Upper Limb Intervention </ins> </b>
 
 **Relationship between intensity and recovery in post-stroke rehabilitation: a retrospective analysis.** <br> Ballester, B. R., Ward, N. S., Brander, F., Maier, M., Kelly, K., & Verschure, P. F. (2022). [Journal of Neurology, Neurosurgery & Psychiatry, 93(2), 226-228.](http://dx.doi.org/10.1136/jnnp-2021-326948)

@@ -8,7 +8,12 @@ permalink: /read_list
 
 ## Reading list
 
-<br>
+--- 
+
+To receive the reading list by mail, <a href="https://forms.gle/tnrR7bbEnf3SqjmLA"> Subscribe</a>
+
+---
+
 <span style="color:gray;font-size:15px">Dec 31, 2022 </span> <br>
 <a href = "/read_list/read_list_6/"> Reading list 6 </a>
 <br>
@@ -37,3 +42,6 @@ permalink: /read_list
 <span style="color:gray;font-size:15px">Sep 16, 2022 </span> <br>
 <a href = "/read_list/read_list_1/"> Reading list 1 </a>
 <br>
+
+
+
