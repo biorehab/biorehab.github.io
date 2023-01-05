@@ -8,11 +8,12 @@ permalink: /publications/
 
 
 ## Publications
+<font style="font-size: 2pt"><br></font>
 
 {% for publi in site.data.publist %}
 
  <b> {{ publi.title }} </b> <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br/>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> 
 
   {% if publi.number_tags == 1 %}
   <a href="{{ publi.tag.url1}}" class="btn btn-tag btn-xs" role="button">{{ publi.tag.display1 }}</a> 
@@ -43,6 +44,6 @@ permalink: /publications/
   <a href="{{ publi.tag.url4 }}" class="btn btn-tag btn-xs" role="button">{{ publi.tag.display4 }}</a> &emsp; 
   <a href="{{ publi.tag.url5 }}" class="btn btn-tag btn-xs" role="button">{{ publi.tag.display5 }}</a> 
   {% endif %}   
-  
+<font style="font-size: 4pt"><br></font>
 
 {% endfor %}
