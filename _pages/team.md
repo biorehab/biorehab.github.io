@@ -4,6 +4,7 @@ layout: gridlay
 excerpt: "Team @ BioRehab Group"
 sitemap: false
 permalink: /team/
+has_children: true
 ---
 
 # Group Members
