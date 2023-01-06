@@ -24,7 +24,7 @@ We welcome our two new PhD students, Neelakshi and Parvathy! Neelakshi will be w
 ## 2021
 
 #### - **Dec 23, 21: Thira Rehab Solutions receives TANSEED award from the Tamil Nadu Chief Minister.**
-Thira Rehab Solutions - a start up from the BioRehab group and the R2D2 lab from IIT Madras recieved the TANSEED award from the chief minister of Tamil Nadu - Mr. M K Stalin. The award was seed funding of INR 10 Lakhs to help develop PLUTO into a commercial prototype. <a href="https://youtu.be/IfElkf0WjlA?t=42">Aravind received the check</a> for INR 5 Lakhs at the secretariat and gave a short interview to Kalaignar TV.
+Thira Rehab Solutions - a start up from the BioRehab group and the R2D2 lab from IIT Madras recieved the TANSEED award from the Chief Minister of Tamil Nadu - Mr. M K Stalin. The award was seed funding of INR 10 Lakhs to help develop PLUTO into a commercial prototype. <a href="https://youtu.be/IfElkf0WjlA?t=42">Aravind received the check</a> for INR 5 Lakhs at the secretariat and gave a short interview to Kalaignar TV.
 
 #### - **Sep 24, 21: <a href="https://ieeexplore.ieee.org/document/9548086?source=authoralert">Plug-and-Train Robot (PLUTO) for Hand Rehabilitation: Design and Preliminary Evaluation</a>.**
 What is the simplest possible robot for hand neurorehabilitation? What can such a robot do for training and assessing hand functions? Aravind's doctoral research focuses on the development and clinical validation of a modular, single DOF robot for hand neurorehabilitation - PLUTO. In this paper, we present the design and preliminary validation of the first version of PLUTO, which was tested on patients, clinicians, and caregivers at CMC Vellore. 
