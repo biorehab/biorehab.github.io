@@ -10,7 +10,7 @@ permalink: /read_list/read_list_3
  
 --- 
 
-To receive the reading list by mail, <a href="https://forms.gle/tnrR7bbEnf3SqjmLA"> Subscribe</a>
+To receive the reading list by mail, [Subscribe](https://forms.gle/tnrR7bbEnf3SqjmLA)
 
 ---
 
