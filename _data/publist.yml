@@ -7,7 +7,7 @@
     display: Frontiers in Physiology (2022)
   highlight: 1
   news2:
-  number_tags: 4
+  number_tags: 1
   tag:
     url1: /publications/arm_use
     display1: arm-use
@@ -27,7 +27,7 @@
     display: Bioengineering 9 (10), 501
   highlight: 1
   news2:
-  number_tags: 1
+  number_tags: 
   tag:    
     url1: 
     display1: stroke
@@ -42,7 +42,7 @@
     display: BMJ Open(2022)
   highlight: 1
   news2:
-  number_tags: 3
+  number_tags: 
   tag:
     url1: 
     display1: rehab-robotics
@@ -61,7 +61,7 @@
     display: preprints(2022)
   highlight: 1
   news2:
-  number_tags: 3
+  number_tags: 
   tag:
     url1: 
     display1: rehab-robotics
@@ -79,7 +79,7 @@
     display: IEEE Access, vol. 9 (2021)
   highlight: 1
   news2:
-  number_tags: 2
+  number_tags: 
   tag:
     url1: 
     display1: rehab-robotics
@@ -96,7 +96,7 @@
     display: J Rehabil Assist Technol Eng (2021)
   highlight: 1
   news2:
-  number_tags: 3
+  number_tags: 
   tag:
     url1: 
     display1: rehab-robotics
@@ -114,7 +114,7 @@
     display: Front Hum Neurosci (2021)
   highlight: 1
   news2:
-  number_tags: 3
+  number_tags: 
   tag:
     url1: 
     display1: upper-limb
@@ -133,7 +133,7 @@
     display: J Rehabil Assist Technol Eng 8 (2021)
   highlight: 1
   news2:
-  number_tags: 4
+  number_tags: 
   tag:
     url1: /publications/arm_use
     display1: arm-use
@@ -153,7 +153,7 @@
     display: Front Bioeng Biotechnol (2021)
   highlight: 1
   news2:
-  number_tags: 1
+  number_tags: 
   tag:
     url1: 
     display1: sensor-system
@@ -168,7 +168,7 @@
     display:  BioRob (2020)
   highlight: 1
   news2:
-  number_tags: 3
+  number_tags: 
   tag:
    url1:
    display1: rehab-robotics
@@ -216,7 +216,7 @@
     display: J Vestib Res 29, 2-3 (2019)
   highlight: 1
   news2:
-  number_tags: 2
+  number_tags: 
   tag:
    url1:
    display1: balance
@@ -233,7 +233,7 @@
     display:  J Neuroeng Rehabilitation 16, 1 (2019)
   highlight: 1
   news1: 
-  number_tags: 1
+  number_tags: 
   tag:
    url1: 
    display1: assessment
@@ -248,7 +248,7 @@
     display:  IEEE Trans Biomed Eng 65, 12 (2018)
   highlight: 0
   news2:
-  number_tags: 1
+  number_tags: 
   tag:
    url1:
    display1: stroke
@@ -260,7 +260,7 @@
   link:
     url: https://journals.physiology.org/doi/full/10.1152/advan.00142.2017
     display: Adv Physiol Educ 41, 1 (2018)
-  highlight: 1
+  highlight: 
   news2:
 
 - title: "SITAR: a system for independent task-oriented assessment and rehabilitation"
@@ -272,7 +272,7 @@
     display:  JRATE 4 (2017)
   highlight: 0
   news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-  number_tags: 3
+  number_tags: 
   tag:
     url1:
     display1: sensor system
@@ -290,7 +290,7 @@
     display:  J Neuroeng Rehabilitation 13, 1 (2016)
   highlight: 0
   news2:
-  number_tags: 3
+  number_tags: 
   tag:
     url1:
     display1: assessment
@@ -307,7 +307,7 @@
     url: https://journals.sagepub.com/doi/full/10.1177/2055668316663977
     display: JRATE 3 (2016)
   highlight: 1
-  number_tags: 1
+  number_tags: 
   tag:
    url1: 
    display1: assessment
