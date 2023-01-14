@@ -20,7 +20,7 @@ Our ultimate goal is to have a positive impact on routine clinical practice in s
 
 #### **Sensor-based Systems for Neuorehabilitation**
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/sitar-new-icon.png){: style="width: 150px; border: 1px solid #D0D0D0; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/sitar) &emsp; &emsp; 
-[![]({{ site.url }}{{ site.baseurl }}/images/devs/hypercube-new-icon.png){: style="width: 150px; border: 1px solid #D0D0D0; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/hypercube) &emsp; &emsp; 
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/hypercube.png){: style="width: 150px; border: 1px solid #8b0000; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/hypercube) &emsp; &emsp; 
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/mobbo-new-icon.png){: style="width: 150px; border: 1px solid #D0D0D0; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/mobbo) &emsp; &emsp;
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/armbo.png){: style="width: 150px;height:150px; border: 1px solid #8b0000; padding-right:10px; padding-left:10px  "}]({{ site.url }}{{ site.baseurl }}/research/armbo) &emsp; &emsp;
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/handyo.png){: style="width: 150px;  border: 1px solid #8b0000;padding-right:10px;padding-left:10px "}]({{ site.url }}{{ site.baseurl }}/research/handyo) 
