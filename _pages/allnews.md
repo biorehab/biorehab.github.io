@@ -8,6 +8,11 @@ permalink: /allnews.html
 
 # News
 
+## 2023
+
+#### - **Jan 4, 2023: Sriramachandran joins back as Project staff!**
+Our MS student, Sriramachandran joins back as Project staff. He will be continuing his work on Hypercube with design fixations and clinical trials. Welcome back :)
+
 ## 2022
 
 #### - **Nov 16, 2022: Ann David joins as Post-Doctoral Researcher!**
