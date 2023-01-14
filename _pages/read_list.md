@@ -15,32 +15,32 @@ To receive the reading list by mail, [Subscribe](https://forms.gle/tnrR7bbEnf3Sq
 ---
 
 <span style="color:gray;font-size:15px">Dec 31, 2022 </span> <br>
-[Reading list 6](/read_list/read_list_6/)
+[Reading list 6]({{ site.url }}{{ site.baseurl }}/read_list/read_list_6/)
 <br>
 
 <br>
 <span style="color:gray;font-size:15px">Nov 19, 2022 </span> <br>
-[Reading list 5](/read_list/read_list_5/)
+[Reading list 5]({{site.url }}{{ site.baseurl }}/read_list/read_list_5/)
 <br>
 
 <br>
 <span style="color:gray;font-size:15px">Nov 5, 2022 </span><br>
-[Reading list 4](/read_list/read_list_4/)
+[Reading list 4]({{ site.url }}{{ site.baseurl }}/read_list/read_list_4/)
 <br>
 
 <br>
 <span style="color:gray;font-size:15px">Oct 21, 2022 </span> <br>
-[Reading list 3](/read_list/read_list_3/)
+[Reading list 3]({{ site.url }}{{ site.baseurl }}/read_list/read_list_3/)
 <br>
 
 <br>
 <span style="color:gray;font-size:15px">Sep 30, 2022 </span> <br>
-[Reading list 2](/read_list/read_list_2/)
+[Reading list 2]({{ site.url }}{{ site.baseurl }}/read_list/read_list_2/)
 <br>
 
 <br>
 <span style="color:gray;font-size:15px">Sep 16, 2022 </span> <br>
-[Reading list 1](/read_list/read_list_1/)
+[Reading list 1]({{ site.url }}{{ site.baseurl }}/read_list/read_list_1/)
 <br>
 
 
