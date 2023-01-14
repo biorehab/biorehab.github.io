@@ -6,7 +6,8 @@ sitemap: false
 permalink: /read_list/read_list_1
 ---
 
-#### Sep 16, 2022 Issue  
+#### Reading list 1
+##### Sep 16, 2022 Issue  
 
 ---
 

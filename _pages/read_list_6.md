@@ -6,7 +6,8 @@ sitemap: false
 permalink: /read_list/read_list_6
 ---
 
-#### Dec 31, 2022 Issue 
+#### Reading list 6
+##### Dec 31, 2022 Issue 
 
 ---
 

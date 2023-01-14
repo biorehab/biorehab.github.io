@@ -6,7 +6,8 @@ sitemap: false
 permalink: /read_list/read_list_3
 ---
 
-#### Oct 21, 2022 Issue 
+#### Reading list 3
+##### Oct 21, 2022 Issue 
  
 --- 
 
