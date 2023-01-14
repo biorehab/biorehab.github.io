@@ -19,7 +19,7 @@ permalink: /publications/
   <br>
   
   {% if publi.number_tags == 1 %}
-  <a href="{{ publi.tag.url1}}" class="btn btn-info btn-xs">{{ publi.tag.display1 }}</a> 
+  <a href="{{ publi.tag.url1}}" class="btn btn-tag btn-xs">{{ publi.tag.display1 }}</a> 
   {% endif %}
 
   {% if publi.number_tags == 2 %}
