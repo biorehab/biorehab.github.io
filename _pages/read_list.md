@@ -3,7 +3,7 @@ title: "BioRehab Group - Reading List"
 layout: textlay
 excerpt: "Reading list @ BioRehab Group"
 sitemap: false
-permalink: /read_list
+permalink: /read_list/
 ---
 
 ## Reading list
@@ -15,7 +15,7 @@ To receive the reading list by mail, [Subscribe](https://forms.gle/tnrR7bbEnf3Sq
 ---
 
 <span style="color:gray;font-size:15px">Dec 31, 2022 </span> <br>
-[Reading list 6]({{ site.url }}{{ site.baseurl }}/read_list/read_list_6/)
+[Reading list 6](/read_list/read_list_6/)
 <br>
 
 <br>
