@@ -11,7 +11,7 @@ We are always looking for motivated MS or PhD students interested in our researc
 
 ##### **PhD positions**
 
-We are accepting students as a part of three institute Joint Degree (BMD) programme with Indian Institute of Technology, Madras (IITM), Sree Chitra Tirunal Institute for Medical Sciences and Technology Trivandrum (SCTIMSTT) and Christian Medical College Vellore (CMC). Application details can be viewed on [IITM website](https://research.iitm.ac.in/jdp.html).
+We are accepting students as a part of three institute Joint Degree (BMD) programme with Indian Institute of Technology, Madras (IITM), Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum (SCTIMSTT) and Christian Medical College, Vellore (CMC). Application details can be viewed on [IITM website](https://research.iitm.ac.in/jdp.html).
 
 ##### **MS programme**
 
