@@ -14,6 +14,11 @@ To receive the reading list by mail, [Subscribe](https://forms.gle/tnrR7bbEnf3Sq
 
 ---
 
+<span style="color:gray;font-size:15px">Jan 21, 2023 </span> <br>
+[Reading list 7](/read_list/read_list_7)
+<br>
+
+<br>
 <span style="color:gray;font-size:15px">Dec 31, 2022 </span> <br>
 [Reading list 6](/read_list/read_list_6)
 <br>
