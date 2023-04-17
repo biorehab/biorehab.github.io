@@ -10,6 +10,9 @@ permalink: /allnews.html
 
 ## 2023
 
+#### - **Apr 16, 2023: Aravind receives "IFNR Young Investigator Award 2023"**
+Our PhD student, Aravind Nehrujee was awarded the "IFNR Young Investigator Award 2023" at the IFNRCON 2023 in Mumbai for his works on PLUTO, robot-assisted home study, and human-human interaction. We look forward to seeing more such work in the future, and we extend our warmest congratulations to Aravind, again! :)
+
 #### - **Jan 4, 2023: Sriramachandran joins back as Project staff!**
 Our MS student, Sriramachandran joins back as Project staff. He will be continuing his work on Hypercube with design fixations and clinical trials. Welcome back :)
 
