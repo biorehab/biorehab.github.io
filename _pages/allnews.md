@@ -10,9 +10,9 @@ permalink: /allnews.html
 
 ## 2023
 
-#### - **Jun 13, 2023: Prof. Suresh Devasahayam visits the department!"**
+#### - **Jun 13, 2023: Prof. Suresh Devasahayam visits the department!**
 
-Prof. Suresh, who was the former head and the founder of the Department of Bioengineering visited the department on June 13. It was great to learn about the exciting things he is doing in IIT Jammu, and the side projects he is working on. He gave a lecture on Antialiasing and Sampling to the students and project staffs in the department. We are eagerly wait for his next visit to the department. 
+Prof. Suresh, who was the former head and the founder of the Department of Bioengineering visited the department on June 13. It was great to learn about the exciting things he is doing in IIT Jammu, and the side projects he is working on. He gave a lecture on Antialiasing and Sampling to the students and project staffs in the department. We eagerly wait for his next visit to the department. 
 
 #### - **Apr 16, 2023: Aravind receives "IFNR Young Investigator Award 2023"**
 Our PhD student, Aravind Nehrujee was awarded the "IFNR Young Investigator Award 2023" at the IFNRCON 2023 in Mumbai for his works on PLUTO, robot-assisted home study, and human-human interaction. We look forward to seeing more such work in the future, and we extend our warmest congratulations to Aravind, again! :)
