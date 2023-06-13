@@ -5,9 +5,9 @@ excerpt: "BioRehab Group @ CMC Vellore."
 sitemap: false
 permalink: /
 ---
-<span style="color:#0498b4"> 16 Apr 2023: Aravind was awarded the "IFNR Young Investigator Award 2023!</span>
+<span style="color:#0498b4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13 June, 2023: Prof. Suresh Devasahayam visits the department!</span>
 
-![]({{ site.url }}{{ site.baseurl }}/images/aravind_IFNR_award.png){: style="width: 500px; border: 10px; padding-left: 80px; padding-right: 50px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/prof_suresh_visit.jpeg){: style="width: 500px; border: 10px; padding-left: 80px; padding-right: 50px"} 
 
 
 We are the **Biological Learning and Rehabilitation (BioRehab) Group** at the department of Bioengineering, [Christian Medical College Vellore](https://www.cmch-vellore.edu/).
