@@ -10,6 +10,10 @@ permalink: /allnews.html
 
 ## 2023
 
+#### - **Jun 23, 2023: International Women in Engineering Day!**
+
+We celebrated the "International Women's Day in Engineering" at the lab on June 23, to show our appreciation for the female members of the group, for their contributions and for the unique perspective they bring to the group and its activities.
+
 #### - **Jun 13, 2023: Prof. Suresh Devasahayam visits the department!**
 
 Prof. Suresh, who was the former head and the founder of the Department of Bioengineering visited the department on June 13. It was great to learn about the exciting things he is doing in IIT Jammu, and the side projects he is working on. He gave a lecture on Antialiasing and Sampling to the students and project staffs in the department. We eagerly wait for his next visit to the department. 
