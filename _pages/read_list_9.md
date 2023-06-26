@@ -17,7 +17,8 @@ To receive the reading list by mail, [Subscribe](https://forms.gle/tnrR7bbEnf3Sq
 
 <b> <ins> Trunk and Lower Limb Rehabilitation </ins> </b>
 
-**Trunk training following stroke.** <br> Thijs, L., Voets, E., Denissen, S., Mehrholz, J., Elsner, B., Lemmens, R., & Verheyden, G. S. (2023). [Cochrane Database of Systematic Reviews, (3).](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013712.pub2/abstract) 
+**Trunk training following stroke.** <br> Thijs, L., Voets, E., Denissen, S., Mehrholz, J., Elsner, B., Lemmens, R., & Verheyden, G. S. (2023). [Cochrane Database of Systematic Reviews, (3).](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013712.pub2/abstract)
+ 
 
 **The quality of systematic reviews/meta‐analyses assessing the effects of ankle–foot orthosis on clinical outcomes in stroke patients: A methodological systematic review.** <br> Shahabi, S., Mojgani, P., Lankarani, K. B., & Jalali, M. (2023). [Health Science Reports, 6(3), e1130](https://onlinelibrary.wiley.com/doi/full/10.1002/hsr2.1130) 
 

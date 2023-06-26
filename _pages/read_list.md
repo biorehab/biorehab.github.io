@@ -13,6 +13,11 @@ permalink: /read_list/
 To receive the reading list by mail, [Subscribe](https://forms.gle/tnrR7bbEnf3SqjmLA)
 
 ---
+<span style="color:gray;font-size:15px">June 05, 2023 </span> <br>
+[Reading list 10](/read_list/read_list_10)
+<br>
+
+<br>
 <span style="color:gray;font-size:15px">May 16, 2023 </span> <br>
 [Reading list 9](/read_list/read_list_9)
 <br>
