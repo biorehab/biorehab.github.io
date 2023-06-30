@@ -5,9 +5,9 @@ excerpt: "BioRehab Group @ CMC Vellore."
 sitemap: false
 permalink: /
 ---
-<span style="color:#0498b4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 23 June, 2023: International Women in Engineering Day!</span>
+<span style="color:#0498b4"> 23 June, 2023: International Women in Engineering Day!</span>
 
-![]({{ site.url }}{{ site.baseurl }}/images/wmn_in_engg.jpg){: style="width: 500px; height: 350px; border: 10px; padding-left: 80px; padding-right: 50px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/wmn_in_engg2.jpg){:style="width: 500px; height: 350px; border: 10px; "} 
 
 
 We are the **Biological Learning and Rehabilitation (BioRehab) Group** at the department of Bioengineering, [Christian Medical College Vellore](https://www.cmch-vellore.edu/).
