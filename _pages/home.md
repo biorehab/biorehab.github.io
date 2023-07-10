@@ -6,10 +6,12 @@ sitemap: false
 permalink: /
 ---
 <span style="color:#0498b4"> 10 July, 2023: Congratulations to Dr. Aravind Nehrujee!</span>
+![]({{ site.url }}{{ site.baseurl }}/images/home_highlights/Aravind_celebrations_photo.png){:style="width: 500px; height: 400px; border: 10px; "} 
 <video width="500" height="240" controls>
 <source src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/Aravind_celebrations.mp4" type="video/mp4">
 <source src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/Aravind_celebrations.ogg" type="video/ogg">
 </video>
+<br>
 
 We are the **Biological Learning and Rehabilitation (BioRehab) Group** at the department of Bioengineering, [Christian Medical College Vellore](https://www.cmch-vellore.edu/).
 
