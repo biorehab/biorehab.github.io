@@ -12,7 +12,7 @@ permalink: /allnews.html
 
 #### - **July 10, 2023: Congratulations to Dr. Aravind Nehrujee!**
 
-Aravind successfully defend his PhD work on the hand rehabilitation robot 'PLUTO' today. He started his journey in January  2018, and 5 years, 6 months, and 10 days later he's finally done! Aravind's work has been received well from many fronts, which is evident from the numerous awards he has received over the years. Let's just look at some numbers: <br>
+Aravind successfully defended his PhD work on the hand rehabilitation robot 'PLUTO' today. He started his journey in January  2018, and 5 years, 6 months, and 10 days later he's finally done! Aravind's work has been received well from many fronts, which is evident from the numerous awards he has received over the years. Let's just look at some numbers: <br>
 
 Number of clinics/research groups using the device: 7 in India, 1 in Ireland <br>
 Number of patients that have used the device in some form: 500+!!! <br>
