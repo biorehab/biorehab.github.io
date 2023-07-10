@@ -10,6 +10,19 @@ permalink: /allnews.html
 
 ## 2023
 
+#### - **July 10, 2023: Congratulations to Dr. Aravind Nehrujee!**
+
+Aravind successfully defend his PhD work on the hand rehabilitation robot 'PLUTO' today. He started his journey in January  2018, and 5 years, 6 months, and 10 days later he's finally done! Aravind's work has been received well from many fronts, which is evident from the numerous awards he has received over the years. Let's just look at some numbers: <br>
+
+Number of clinics/research groups using the device: 7 in India, 1 in Ireland <br>
+Number of patients that have used the device in some form: 500+!!! <br>
+Number of clinicians that have used the device in some form: 50+!!! <br>
+Number of patients that have used the device at home: 8 <br>
+Number of clinical studies completed/ongoing: 2 <br>
+Number of awards won: 5 <br>
+
+Well done, Aravind. We look forward to seeing some great things from you to promote technology for neurorehab!
+
 #### - **Jun 23, 2023: International Women in Engineering Day!**
 
 We celebrated the "International Women's Day in Engineering" at the lab on June 23, to show our appreciation for the female members of the group, for their contributions and for the unique perspective they bring to the group and its activities.
