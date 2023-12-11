@@ -1,3 +1,31 @@
+- title: "The Facilitators and Barriers to Home-based Robotic Rehabilitation in India: A Pilot Feasibility Study"
+  image: 
+  description: 
+  authors: Nehrujee A, Prabhakar A, Balaraman S, Bombatkar R, Prakash H, SamuelKamaleshKumar S, Aaron S, Bhattacharya S, Srinivasan S, Balasubramanian S
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fstro.2023.1265702/abstract
+    display: Frontiers in Stroke
+  highlight: 1
+  news2:
+  number_tags: 
+  tag:    
+    url1: 
+    display1: stroke
+
+- title: "Design and Characterization of a Self-Aligning End-Effector Robot for Single-Joint Arm Movement Rehabilitation"
+  image: 
+  description: 
+  authors: Mathavan Jeyabalan P.K., Nehrujee A., Elias S., Magesh Kumar M., Sujatha S., Balasubramanian S.
+  link:
+    url: https://doi.org/10.3390/robotics12060149
+    display: Robotics 2023, 12, 149
+  highlight: 1
+  news2:
+  number_tags: 
+  tag:    
+    url1: 
+    display1: stroke
+
 - title: "Comparing algorithms for assessing upper limb use with inertial measurement units"
   image: 
   description: 
