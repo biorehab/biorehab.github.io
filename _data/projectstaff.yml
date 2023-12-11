@@ -6,15 +6,6 @@
 #   number_educ: 1 
 #   education1: B.E. in Mechanical engineering,  Christian College of Engg. and Technology, Bhilai
 
-- name: Sarath Kumar
-  photo: sarath_kumar.jpeg
-  info: Project staff
-  email: sarathrkrishnask@gmail.com
-  url_present: True
-  url: https://www.linkedin.com/in/sarathkumar-r-599642128
-  url_display: linkedin/Sarath-Kumar
-  number_educ: 1 
-  education1: B.Tech in Electronics and Electrical Engineering, Kingston Engg. College, Vellore.
 
 - name: Sathish Balraman
   photo: sathish_b.jpg
@@ -26,16 +17,6 @@
   number_educ: 2 
   education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore.
   education2: M.S in Bioengineering, CMC Vellore. 
-
-- name: Magesh Kumar M
-  photo: magesh_km.jpg
-  info: Project staff
-  email: Mageshkumarmmkvlr@gmail.com
-  url_present: False
-  url:
-  url_display:   
-  number_educ: 1
-  education1: B.E in Mechanical Engineering, Anna University.
 
 - name: Thiagu S
   photo: thiagu.jpg
@@ -87,17 +68,6 @@
   number_educ: 1
   education1: B.E. in Mechanical Engineering, Global Institute of Engineering and Technology.
 
-- name: Anand Kumar
-  photo: anand.jpg
-  info: Project staff
-  email: anandh.srec@gmail.com
-  url_present: False
-  url: 
-  url_display:
-  number_educ: 2 
-  education1: B.E Biomedical Engineering at Sri Ramakrishna Engineering College, Coimbatore.
-  education2: M.E Medical Electronics at College of Engineering, Guindy, Chennai.
-
 - name: Sriramachandran V
   photo: rama.JPG
   info: Project staff
@@ -108,6 +78,53 @@
   number_educ: 2 
   education1: B.Tech in Mechanical Engineering, Ganadipathy Tulsi's Jain Engineering College, Vellore
   education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
+
+- name: Basinepalli Kothireddy Gari Diwakar Reddy
+  photo: diwakar.jpg
+  info: Project staff
+  email: bkdiwakar34@gmail.com
+  url_present: True
+  url: www.linkedin.com/in/ bk-diwakar-reddy
+  url_display: linkedin/Diwakar-Reddy
+  number_educ: 2
+  education1: B.Tech in Electronics and Communication Engineering, NIT Calicut.
+  education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
+
+- name: Sujith Christopher
+  photo: sujithc.jpg
+  info: Project staff
+  email: chrisbon95@gmail.com
+  url_present: True
+  url: https://sujithchristopher.github.io/
+  url_display: https://sujithchristopher.github.io/
+  number_educ: 2
+  education1: B.Tech in Electronics and Communication Engineering, Karunya University.
+  education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
+
+- name: Samuel Elias
+  photo: samuel.jpg
+  info: Project staff
+  email: samuel.elias.bioeng21@cmcvellore.edu.in
+  url_present: False
+  url:
+  url_display:
+  number_educ: 2
+  education1: B.E. in Mechanical Engineering, Chhattisgarh Swami Vivekanand Technical University, Bhilai. 
+  education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
+
+- name: Achu Vinod Thomas
+  photo: achu.jpg
+  info: Project staff
+  email: achu.vinod@cmcvellore.ac.in
+  url_present: True
+  url: https://www.linkedin.com/in/achu-vinod-thomas/
+  url_display: linkedin/achu-vinod-thomas
+  number_educ: 2
+  education1: B.Tech in Computer Science and Engineering, Mar Baselios College of Engineering and Technology, Trivandrum.
+  education2: M.Tech in Artificial Intelligence and Machine Learning, Vellore Institute of Technology, Vellore.
+
+
+  
 
 
 
