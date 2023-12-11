@@ -28,3 +28,15 @@
   education1: B.Tech in Electronics & Communication, Cochin University of Science and Technology, Kerala. 
   education2: M.S. in Bioengineering, Christian Medical College, Vellore.
   education3: PhD, Joint degree program by IIT Madras, CMC Vellore, SCTIMST Trivandrum.
+
+- name: Aravind Nehrujee
+  photo: aravind.png
+  info: Post-doc
+  email: nehru.aravind@gmail.com
+  url_present: True
+  url: https://www.linkedin.com/in/aravind-nehrujee-4752349a/
+  url_display: linkedin/Aravind-Nehrujee
+  number_educ: 3
+  education1: B.Tech in Mechanical Engineering, Vellore Institute of Technology, Vellore.
+  education2: M.S. in Bioengineering, Christian Medical College, Vellore.
+  education3: PhD, Joint degree program by IIT Madras, CMC Vellore, SCTIMST Trivandrum.
