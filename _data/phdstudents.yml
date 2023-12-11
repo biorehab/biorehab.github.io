@@ -8,19 +8,6 @@
 #  education3:
 #  education4:
 
-- name: Aravind Nehrujee
-  photo: aravind.png
-  info: PhD Student
-  co-guide-url: https://mech.iitm.ac.in/meiitm/personnal/dr-sujatha-srinivasan/
-  Co-guide: Dr. Sujatha Srinivasan(IIT Madras)
-  email: nehru.aravind@gmail.com
-  url_present: True
-  url: https://www.linkedin.com/in/aravind-nehrujee-4752349a/
-  url_display: linkedin/Aravind-Nehrujee
-  number_educ: 2 
-  education1: B.Tech in Mechanical Engineering, Vellore Institute of Technology, Vellore.
-  education2: M.S. in Bioengineering, Christian Medical College, Vellore.
-
 - name: Prem Kumar
   photo: prem.jpg
   info: PhD Student
@@ -85,5 +72,31 @@
   education1: B.Tech in Information Technology, University of Kerala, Kerala.
   education2: M.Tech in Computer Science and Engineering, Amrita School of Engineering, Bangalore.
   education3: M.Sc in Computational Neuroscience, Technical University, Berlin and Humboldt University, Berlin.
+
+- name: Charles Jebaraj.I
+  photo: charles_j.jpg
+  info: PhD Student
+  co-guide-url: https://apm.iitm.ac.in/SKMV.html
+  Co-guide: Dr. Varadhan SKM(IIT Madras)
+  email: charlesjeba.96@gmail.com
+  url_present: True
+  url: https://www.linkedin.com/in/charles-jebaraj-5b957866/
+  url_display: linkedin/Charles-Jebaraj
+  number_educ: 2 
+  education1: B.Tech in Electronics and Communication, Mar Baselios College of Engineering and Technology, Trivandrum.
+  education2: M.S in Bioengineering, CMC Vellore.
+
+- name: Pooja Vinayagamoorthy
+  photo: pooja.jpg
+  info: PhD Student
+  co-guide-url: https://apm.iitm.ac.in/SKMV.html
+  Co-guide: Dr. Varadhan SKM(IIT Madras)
+  email: am23d602@smail.iitm.ac.in
+  url_present: False
+  url: 
+  url_display: 
+  number_educ: 2 
+  education1: B.E in Biomedical Engineering, Sri Ramakrishna Engineering college, TN
+  education2: M.E in Medical Electronics, College of Engineering Guindy, Anna University, TN
 
 
