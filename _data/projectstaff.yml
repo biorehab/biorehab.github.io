@@ -16,17 +16,7 @@
   url_display: linkedin/Sathish-Balaraman
   number_educ: 2 
   education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore.
-  education2: M.S in Bioengineering, CMC Vellore. 
-
-- name: Thiagu S
-  photo: thiagu.jpg
-  info: Project staff
-  email: sthiashine@gmail.com
-  url_present: False
-  url:
-  url_display:
-  number_educ: 1
-  education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli
+  education2: M.S in Bioengineering, Christian Medical College, Vellore.  
 
 - name: Bowya B
   photo: bowya_b.jpg
@@ -38,15 +28,6 @@
   number_educ: 1
   education1: B.E. in Electrical and Electronics engineering, Ganadipathy's Tulsi's Jain Engineering college.
 
-- name: Manavalan A
-  photo: manavalan.jpg
-  info: Project staff
-  email: manavalan97@gmail.com
-  url_present: True
-  url: https://www.linkedin.com/in/manavalan-a-0b34b91a6
-  url_display: linkedin/Manavalan
-  number_educ: 1
-  education1: B.E in Electrical & Electronics Engineering, Jeppiaar SRR Engineering College.
 
 - name: Clinton N 
   photo: clinton.jpg
@@ -68,6 +49,16 @@
   number_educ: 1
   education1: B.E. in Mechanical Engineering, Global Institute of Engineering and Technology.
 
+- name: Manavalan A
+  photo: manavalan.jpg
+  info: Project staff
+  email: manavalan97@gmail.com
+  url_present: True
+  url: https://www.linkedin.com/in/manavalan-a-0b34b91a6
+  url_display: linkedin/Manavalan
+  number_educ: 1
+  education1: B.E in Electrical & Electronics Engineering, Jeppiaar SRR Engineering College.
+
 - name: Sriramachandran V
   photo: rama.JPG
   info: Project staff
@@ -78,6 +69,16 @@
   number_educ: 2 
   education1: B.Tech in Mechanical Engineering, Ganadipathy Tulsi's Jain Engineering College, Vellore
   education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
+
+- name: Thiagu S
+  photo: thiagu.jpg
+  info: Project staff
+  email: sthiashine@gmail.com
+  url_present: False
+  url:
+  url_display:
+  number_educ: 1
+  education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli
 
 - name: Basinepalli Kothireddy Gari Diwakar Reddy
   photo: diwakar.jpg

@@ -90,9 +90,7 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" height="50%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i><br>  
-  {% if member.url_present %}
-  <i>URL: <a href="{{ member.url }}">{{ member.url }}</a></i> 
+  <i>{{ member.info }}<br> email: <{{ member.email }}></i><br> {% if member.url_present %} <i>URL: <a href="{{ member.url }}">{{ member.url_display }}</a></i> 
   {% endif %}
   <ul style="overflow: hidden">
 
@@ -106,9 +104,9 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <li style="text-align: justify;"> {{ member.education1 }} </li>
+  <li style="text-align: justify;"> {{ member.education2 }} </li>
+  <li style="text-align: justify;"> {{ member.education3 }} </li>
   {% endif %}
 
   {% if member.number_educ == 4 %}
@@ -158,21 +156,20 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
   <i>{{ member.info }}<br>Co-guide: <a href="{{ member.co-guide-url }}">{{ member.Co-guide}}</a><br>email: <{{ member.email }}></i><br>
   {% if member.url_present %} <i>URL: <a href="{{ member.url }}">{{ member.url_display }}</a></i> 
   {% endif %}
-  <ul style="overflow: hidden">
- 
+  <ul style="overflow: hidden"> 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <li style="text-align: justify;"> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <li style="text-align: justify;"> {{ member.education1 }} </li>
+  <li style="text-align: justify;"> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <li style="text-align: justify;"> {{ member.education1 }} </li>
+  <li style="text-align: justify;"> {{ member.education2 }} </li>
+  <li style="text-align: justify;"> {{ member.education3 }} </li>
   {% endif %}
 
   {% if member.number_educ == 4 %}
@@ -223,15 +220,15 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
   <i>{{ member.info }}<br>email: <{{ member.email }}></i><br>
   {% if member.url_present %} <i>URL: <a href="{{ member.url }}">{{ member.url_display }}</a></i> 
   {% endif %}
-  <ul style="overflow: hidden">
+  <ul style="overflow: hidden"> 
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <li style="text-align: justify;"> {{ member.education1 }} </li>
+  <li style="text-align: justify;"> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
