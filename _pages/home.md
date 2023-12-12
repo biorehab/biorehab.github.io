@@ -5,10 +5,9 @@ excerpt: "BioRehab Group @ CMC Vellore."
 sitemap: false
 permalink: /
 ---
-#<span style="color:#0498b4"> 10 July, 2023: Congratulations to Dr. Aravind Nehrujee!</span>
+<span style="color:#0498b4"> 4 Dec - 9 Dec, 2023: ReHackathon India '23</span>
 <video width="500" height="240" controls>
 <source src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/team_video1.mp4" type="video/mp4">
-#<source src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/Aravind_celebrations.ogg" type="video/ogg">
 </video>
 <br>
 
