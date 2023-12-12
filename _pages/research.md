@@ -43,3 +43,4 @@ Our ultimate goal is to have a positive impact on routine clinical practice in s
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/wound.png){: style="width: 150px; border: 1px solid #F6BE00; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/wound) &emsp; &emsp;
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/flamos.png){: style="width: 150px; border: 1px solid #F6BE00; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/flamos) &emsp; &emsp;
 [![]({{ site.url }}{{ site.baseurl }}/images/devs/icuweight.png){: style="width: 150px; border: 1px solid #F6BE00; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/icuweight)
+

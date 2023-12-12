@@ -3,8 +3,7 @@ title: "BioRehab Group - Collaborators"
 layout: textlay
 excerpt: "Collaborations @ BioRehab Group"
 sitemap: false
-permalink: /collaborators/
+permalink: /collaborations/
 ---
 
-
-#### Coming Soon
+#### Coming soon
