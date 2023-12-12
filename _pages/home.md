@@ -5,7 +5,7 @@ excerpt: "BioRehab Group @ CMC Vellore."
 sitemap: false
 permalink: /
 ---
-<span style="color:#0498b4"> 4 Dec - 9 Dec, 2023: ReHackathon India '23</span>
+<span style="color:#0498b4">4-9 Dec, 2023: ReHackathon India '23 marked our second successful edition of NeuroRehack!</span>
 <video width="500" height="240" controls>
 <source src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/team_video1.mp4" type="video/mp4">
 </video>
