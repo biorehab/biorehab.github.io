@@ -3,10 +3,10 @@ title: "BioRehab Group - Research/INTENT DETECTION"
 layout: textlay
 excerpt: "Research @ BioRehab Group"
 sitemap: false
-permalink: /research/emgintent
+permalink: /research_update/emgintent
 ---
 
-## [Research]({{ site.url }}{{ site.baseurl }}/research/)/EMG-based INTENT DETECTION
+## [Research]({{ site.url }}{{ site.baseurl }}/research_update/)/EMG-based INTENT DETECTION
 
 #### **Motivation**
 Active participation during training in an important factor for recovery durign therapy. Movement intent is detected from residual movements of patients to provide assisted therapy in robot-assisted and electrically-assisted therapy. However, this method does not work for severely affected patients with no residual movements. A popular method for detecting intention in this population is through the use of [brain computer interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) (BCI), typically using EEG BCI. Here, EEG signatures of movement intent are detected to drive assisted training.

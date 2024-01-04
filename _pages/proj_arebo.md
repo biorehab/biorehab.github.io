@@ -3,10 +3,10 @@ title: "BioRehab Group - Research/PLUTO"
 layout: textlay
 excerpt: "Research @ BioRehab Group"
 sitemap: false
-permalink: /research/arebo
+permalink: /research_update/arebo
 ---
 
-## [Research]({{ site.url }}{{ site.baseurl }}/research/)/AREBO
+## [Research]({{ site.url }}{{ site.baseurl }}/research_update/)/AREBO
 
 
 #### **Motivation**
