@@ -3,10 +3,10 @@ title: "BioRehab Group - Research/SMOOTHNESS"
 layout: textlay
 excerpt: "Research @ BioRehab Group"
 sitemap: false
-permalink: /research/smoothness
+permalink: /research_update/smoothness
 ---
 
-## [Research]({{ site.url }}{{ site.baseurl }}/research/)/Movement Smoothness
+## [Research]({{ site.url }}{{ site.baseurl }}/research_update/)/Movement Smoothness
 
 
 #### **Motivation**

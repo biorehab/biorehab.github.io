@@ -3,10 +3,10 @@ title: "BioRehab Group - Research/ARMUSE"
 layout: textlay
 excerpt: "Research @ BioRehab Group"
 sitemap: false
-permalink: /research/armuse
+permalink: /research_update/armuse
 ---
 
-## [Research]({{ site.url }}{{ site.baseurl }}/research/)/ARMUSE
+## [Research]({{ site.url }}{{ site.baseurl }}/research_update/)/ARMUSE
 
 
 #### **Motivation**

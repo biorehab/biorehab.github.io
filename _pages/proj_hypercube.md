@@ -3,9 +3,9 @@ title: "BioRehab Group - Research/MOBBO"
 layout: textlay
 excerpt: "Research @ BioRehab Group"
 sitemap: false
-permalink: /research/hypercube
+permalink: /research_update/hypercube
 ---
 
-## [Research]({{ site.url }}{{ site.baseurl }}/research/)/HyperCube
+## [Research]({{ site.url }}{{ site.baseurl }}/research_update/)/HyperCube
 
 Coming soon.
