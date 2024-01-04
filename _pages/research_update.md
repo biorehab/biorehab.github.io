@@ -12,3 +12,8 @@ Our ultimate goal is to have a positive impact on routine clinical practice in s
 * Simplify and translate neurorehabilitation technology.
 * Advance foundations of quantitative sensorimotor assessment.
 * Pushing the boundaries of neurorehabilitation through healthy/diseased neuromechanics.
+
+#### **Robotics for Neurorehabilitation**
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/pluto-new-icon.png){: style="width: 150px; border: 1px solid #D0D0D0; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/pluto) &emsp; &emsp; 
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/arebo-new-icon.png){: style="width: 150px; border: 1px solid #D0D0D0; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/arebo) &emsp; &emsp; 
+[![]({{ site.url }}{{ site.baseurl }}/images/devs/emg-new-icon.png){: style="width: 150px; border: 1px solid #D0D0D0; padding-right:10px; padding-left:10px"}]({{ site.url }}{{ site.baseurl }}/research/emgintent)
