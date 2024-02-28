@@ -8,6 +8,8 @@ permalink: /research_update/pluto
 
 ## [Research]({{ site.url }}{{ site.baseurl }}/research_update/)/PLUTO
 
+<iframe style="display: block; margin: auto;" width="600" height="315" src="https://www.youtube.com/embed/9ICiOkLg-eI?autoplay=1&mute=1"></iframe> 
+
 #### **Motivation**
 Hand therapy following any neurological condition (e.g. stroke) invovles training a wide range of movements at the various hand joints. A robotic device capable of assisting movements at these different joints can be beneficial in partially automating therapy, allowing clinicains to focus on planning and supervising therapy rather than mnaually administering it. To be able to train different hand functions, we either need a set of simple robots that can train one or two specific joints, or a complex robot that can simultaneously train multiple joints. **Simpler robots are likely to be more compact, affordable, and thus clinically relevant; complex robots offer no therapeutic advantage over simple robots.**
 

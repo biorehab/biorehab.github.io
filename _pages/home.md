@@ -5,10 +5,8 @@ excerpt: "BioRehab Group @ CMC Vellore."
 sitemap: false
 permalink: /
 ---
-<span style="color:#0498b4">4-9 Dec, 2023: ReHackathon India '23 marked our second successful edition of NeuroRehack!</span>
-<video width="500" height="240" controls>
-<source src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/team_video1.mp4" type="video/mp4">
-</video>
+<iframe style="display: block; margin: auto;" width="600" height="315" src="https://www.youtube.com/embed/9ICiOkLg-eI?autoplay=1&mute=1"></iframe> 
+
 <br>
 
 We are the **Biological Learning and Rehabilitation (BioRehab) Group** at the department of Bioengineering, [Christian Medical College Vellore](https://www.cmch-vellore.edu/).
