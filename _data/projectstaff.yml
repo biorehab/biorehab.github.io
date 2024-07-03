@@ -18,17 +18,6 @@
   education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore.
   education2: M.S in Bioengineering, Christian Medical College, Vellore.  
 
-- name: Bowya B
-  photo: bowya_b.jpg
-  info: Project staff
-  email: bowyabaskaran1608@gmail.com
-  url_present: True
-  url: linkedin.com/in/bowya-baskaran-b45955190
-  url_display: linkedin/Bowya-Baskaran
-  number_educ: 1
-  education1: B.E. in Electrical and Electronics engineering, Ganadipathy's Tulsi's Jain Engineering college.
-
-
 - name: Clinton N 
   photo: clinton.jpg
   info: Project staff
@@ -38,26 +27,6 @@
   url_display:
   number_educ: 1
   education1: B.Tech in Electronics and Electrical Engineering, Kingston Engg. College, Vellore. 
-
-- name: Praveen Kumar M
-  photo: praveen_m.jpeg
-  info: Project staff
-  email: balajipraveen21@gmail.com
-  url_present: False
-  url:
-  url_display:
-  number_educ: 1
-  education1: B.E. in Mechanical Engineering, Global Institute of Engineering and Technology.
-
-- name: Manavalan A
-  photo: manavalan.jpg
-  info: Project staff
-  email: manavalan97@gmail.com
-  url_present: True
-  url: https://www.linkedin.com/in/manavalan-a-0b34b91a6
-  url_display: linkedin/Manavalan
-  number_educ: 1
-  education1: B.E in Electrical & Electronics Engineering, Jeppiaar SRR Engineering College.
 
 - name: Sriramachandran V
   photo: rama.JPG
@@ -111,7 +80,18 @@
   url_display:
   number_educ: 2
   education1: B.E. in Mechanical Engineering, Chhattisgarh Swami Vivekanand Technical University, Bhilai. 
-  education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
+  education2: M.S. in Bioengineering, Christian Medical College, Vellore.
+
+- name: Sharon P
+  photo: sharon.jpg
+  info: Project staff
+  email: sharon.p@cmcvellore.ac.in
+  url_present: True
+  url: https://www.linkedin.com/in/sharon-~-tech/
+  url_display: linkedin/Sharon
+  number_educ: 2
+  education1: B.E in Electrical and Electronics Engineering, Loyola ICAM college of Engineering and Technology, Chennai, India.
+  education2: MS in Mechatronics Systems, Vilnius Tech University, Lithuania
 
 - name: Achu Vinod Thomas
   photo: achu.jpg

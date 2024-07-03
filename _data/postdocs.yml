@@ -40,3 +40,15 @@
   education1: B.Tech in Mechanical Engineering, Vellore Institute of Technology, Vellore.
   education2: M.S. in Bioengineering, Christian Medical College, Vellore.
   education3: PhD, Joint degree program by IIT Madras, CMC Vellore, SCTIMST Trivandrum.
+
+- name: Ritwika Choudhuri
+  photo: ritwika.jpg
+  info: Post-doc
+  email: ritwika.choudhuri09@gmail.com
+  url_present: True
+  url: https://www.linkedin.com/in/ritwika-choudhuri-9008903b/?originalSubdomain=in
+  url_display: linkedin/Ritwika-Choudhuri
+  number_educ: 3
+  education1: B.Tech in Instrumentation and Control Engineering, West Bengal University of Technology
+  education2: M.Tech in Applied Electronics and Instrumentation Engineering, West Bengal University of Technology
+  education3: Ph.D in Biomedical Engineering, Indian Institute of Technology Bombay
