@@ -287,7 +287,8 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
 <div class="col-sm-6 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_master %}
-{{ member.name }}
+{{ member.name }} <br>
+<i>{{member.info}} </i>
 {% endfor %}
 </div>
 <!--

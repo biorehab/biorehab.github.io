@@ -82,6 +82,16 @@
   education1: B.E. in Mechanical Engineering, Chhattisgarh Swami Vivekanand Technical University, Bhilai. 
   education2: M.S. in Bioengineering, Christian Medical College, Vellore.
 
+- name: GNANAMOSES G
+  photo: moses.jpg
+  info: Occupational Therapist
+  email: mosesmaxs07@gmail.com 
+  url_present: True
+  url: https://www.linkedin.com/in/moses-max-42865a21a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  url_display: linkedin/Moses
+  number_educ: 1
+  education1: Bachelor in Occupational Therapy, Sri Ramachandra Institute of Higher Education and Research,Chennai.
+
 - name: Sharon P
   photo: sharon.jpg
   info: Project staff
@@ -91,7 +101,28 @@
   url_display: linkedin/Sharon
   number_educ: 2
   education1: B.E in Electrical and Electronics Engineering, Loyola ICAM college of Engineering and Technology, Chennai, India.
-  education2: MS in Mechatronics Systems, Vilnius Tech University, Lithuania
+  education2: MS in Mechatronics Systems, Vilnius Tech University, Lithuania
+
+- name: Jane Benita
+  photo: jane.jpg
+  info: Occupational Therapist
+  email: janebenita7@gmail.com
+  url_present: True
+  url: https://www.linkedin.com/in/jane-benita-335191317/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  url_display: linkedin/Jane
+  number_educ: 1
+  education1: Bachelor in Occupational Therapy, Sri Ramachandra Institute of Higher Education and Research,Chennai.
+
+- name: M.sabjhon
+  photo: sabjhon.jpg
+  info: Project Staff
+  email: mssabjhon@gmail.com
+  url_present: True
+  url: https://www.linkedin.com/in/sabjhon-m-374911288/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  url_display: linkedin/Sabjhon
+  number_educ: 1
+  education1: Diploma in Computer Science and Engineering, Govt. Polytechnic College, Cheyyar
+  
 
 - name: Achu Vinod Thomas
   photo: achu.jpg
