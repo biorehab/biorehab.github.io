@@ -291,12 +291,13 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
 <i>{{member.info}} </i>
 {% endfor %}
 </div>
-<!--
+
 <div class="col-sm-6 clearfix">
 <h4>PhD students</h4>
 {% for member in site.data.alumni_phd %}
 {{ member.name }} <br> 
+<i>{{member.info}} </i>
 {% endfor %}
-</div> -->
+</div> 
 
 </div>

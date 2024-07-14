@@ -8,6 +8,8 @@ permalink: /allnews.html
 
 # News
 
+## 2024
+
 ## 2023
 
 #### - **July 10, 2023: Congratulations to Dr. Aravind Nehrujee!**

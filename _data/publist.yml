@@ -1,3 +1,31 @@
+- title: "GMAC – A simple measure to quantify upper limb use from wrist-worn accelerometers"
+  image: 
+  description: 
+  authors: Sivakumar Balasubramanian
+  link:
+    url: https://ieeexplore.ieee.org/document/10569004
+    display: IEEE TNSRE
+  highlight: 1
+  news2:
+  number_tags: 
+  tag:    
+    url1: 
+    display1: stroke
+
+- title: "Romiumeter: An Open-Source Inertial Measurement Unit-Based Goniometer for Range of Motion Measurements"
+  image: 
+  description: 
+  authors: Diwakar Basinepalli Reddy, Abhishek, Amal Andrews, Lenny Vasanthan, Sivakumar Balasubramanian
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.05.29.596353v1
+    display: Preprint
+  highlight: 1
+  news2:
+  number_tags: 
+  tag:    
+    url1: 
+    display1: stroke
+
 - title: "A systematic investigation of detectors for low signal-to-noise ratio EMG signals"
   image: 
   description: 
