@@ -20,24 +20,12 @@
 
 - name: Ann David
   photo: annd.jpg
-  info: Post-doc
+  info: Post Doctorial Researcher
   email: anndavid293@gmail.com
   url_present: False
   url: 
   number_educ: 3
   education1: B.Tech in Electronics & Communication, Cochin University of Science and Technology, Kerala. 
-  education2: M.S. in Bioengineering, Christian Medical College, Vellore.
-  education3: PhD, Joint degree program by IIT Madras, CMC Vellore, SCTIMST Trivandrum.
-
-- name: Aravind Nehrujee
-  photo: aravind.png
-  info: Post-doc
-  email: nehru.aravind@gmail.com
-  url_present: True
-  url: https://www.linkedin.com/in/aravind-nehrujee-4752349a/
-  url_display: linkedin/Aravind-Nehrujee
-  number_educ: 3
-  education1: B.Tech in Mechanical Engineering, Vellore Institute of Technology, Vellore.
   education2: M.S. in Bioengineering, Christian Medical College, Vellore.
   education3: PhD, Joint degree program by IIT Madras, CMC Vellore, SCTIMST Trivandrum.
 
@@ -51,4 +39,15 @@
   number_educ: 3
   education1: B.Tech in Instrumentation and Control Engineering, West Bengal University of Technology
   education2: M.Tech in Applied Electronics and Instrumentation Engineering, West Bengal University of Technology
-  education3: Ph.D in Biomedical Engineering, Indian Institute of Technology Bombay
+  education3: Ph.D in Biomedical Engineering, Indian Institute of Technology, Bombay
+
+- name: Prem Kumar
+  photo: prem.jpg
+  info: Post-doc
+  email: me18d201@smail.iitm.ac.in
+  url_present: False
+  url:
+  url_display: 
+  number_educ: 2
+  education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli.
+  education2: M.Tech + PhD in Mechanical Engineering, IIT Madras

@@ -1,15 +1,6 @@
-# - name: Samuel Ellias
-#   photo: sam.jpg
-#   info: Project staff
-#   email: samuel.elias411@gmail.com
-#   url: 
-#   number_educ: 1 
-#   education1: B.E. in Mechanical engineering,  Christian College of Engg. and Technology, Bhilai
-
-
 - name: Sathish Balraman
   photo: sathish_b.jpg
-  info: Project staff
+  info: Project Associate
   email: sathishbalaraman08@gmail.com 
   url_present: True
   url: https://tinyurl.com/y4hrdpyy
@@ -18,9 +9,20 @@
   education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore.
   education2: M.S in Bioengineering, Christian Medical College, Vellore.  
 
+- name: Samuel Elias
+  photo: samuel.jpg
+  info: Project Associate
+  email: samuel.elias.bioeng21@cmcvellore.edu.in
+  url_present: False
+  url:
+  url_display:
+  number_educ: 2
+  education1: B.E. in Mechanical Engineering, Chhattisgarh Swami Vivekanand Technical University, Bhilai. 
+  education2: M.S. in Bioengineering, Christian Medical College, Vellore.
+
 - name: Sriramachandran V
   photo: rama.JPG
-  info: Project staff
+  info: Junior Research Fellow
   email: sriramachandranv94@gmail.com
   url_present: False
   url: 
@@ -31,7 +33,7 @@
 
 - name: Thiagu S
   photo: thiagu.jpg
-  info: Project staff
+  info: Project Associate
   email: sthiashine@gmail.com
   url_present: False
   url:
@@ -39,9 +41,20 @@
   number_educ: 1
   education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli
 
+- name: Sujith Christopher
+  photo: sujithc.jpg
+  info: Project Associate
+  email: Sujith.christopher52@gmail.com
+  url_present: True
+  url: https://sujithchristopher.github.io/
+  url_display: https://sujithchristopher.github.io/
+  number_educ: 2
+  education1: B.Tech in Electronics and Communication Engineering, Karunya University.
+  education2: M.S. in Bioengineering, Christian Medical College, Vellore.
+
 - name: Basinepalli Kothireddy Gari Diwakar Reddy
   photo: diwakar.jpg
-  info: Project staff
+  info: Senior Research Fellow
   email: bkdiwakar34@gmail.com
   url_present: True
   url: www.linkedin.com/in/ bk-diwakar-reddy
@@ -49,38 +62,6 @@
   number_educ: 2
   education1: B.Tech in Electronics and Communication Engineering, NIT Calicut.
   education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
-
-- name: Sujith Christopher
-  photo: sujithc.jpg
-  info: Project staff
-  email: Sujith.christopher52@gmail.com
-  url_present: True
-  url: https://sujithchristopher.github.io/
-  url_display: https://sujithchristopher.github.io/
-  number_educ: 2
-  education1: B.Tech in Electronics and Communication Engineering, Karunya University.
-  education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
-
-- name: Samuel Elias
-  photo: samuel.jpg
-  info: Project staff
-  email: samuel.elias.bioeng21@cmcvellore.edu.in
-  url_present: False
-  url:
-  url_display:
-  number_educ: 2
-  education1: B.E. in Mechanical Engineering, Chhattisgarh Swami Vivekanand Technical University, Bhilai. 
-  education2: M.S. in Bioengineering, Christian Medical College, Vellore.
-
-- name: GNANAMOSES G
-  photo: moses.jpg
-  info: Occupational Therapist
-  email: mosesmaxs07@gmail.com 
-  url_present: True
-  url: https://www.linkedin.com/in/moses-max-42865a21a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-  url_display: linkedin/Moses
-  number_educ: 1
-  education1: Bachelor in Occupational Therapy, Sri Ramachandra Institute of Higher Education and Research,Chennai.
 
 - name: Achu Vinod Thomas
   photo: achu.jpg
@@ -93,9 +74,20 @@
   education1: B.Tech in Computer Science and Engineering, Mar Baselios College of Engineering and Technology, Trivandrum.
   education2: M.Tech in Artificial Intelligence and Machine Learning, Vellore Institute of Technology, Vellore.
 
+
+- name: GNANAMOSES G
+  photo: moses.jpg
+  info: Senior Research Fellow/OT
+  email: mosesmaxs07@gmail.com 
+  url_present: True
+  url: https://www.linkedin.com/in/moses-max-42865a21a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  url_display: linkedin/Moses
+  number_educ: 1
+  education1: Bachelor in Occupational Therapy, Sri Ramachandra Institute of Higher Education and Research,Chennai.
+
 - name: Sharon P
   photo: sharon.jpg
-  info: Project staff
+  info: Junior Research Fellow
   email: sharon.p@cmcvellore.ac.in
   url_present: True
   url: https://www.linkedin.com/in/sharon-~-tech/
@@ -106,7 +98,7 @@
 
 - name: Jane Benita
   photo: jane.jpg
-  info: Occupational Therapist
+  info: Project Associate
   email: janebenita7@gmail.com
   url_present: True
   url: https://www.linkedin.com/in/jane-benita-335191317/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
@@ -116,7 +108,7 @@
 
 - name: GOKUL RAJ E
   photo: gokul.jpg
-  info: Project Staff
+  info: Junior Research Fellow
   email: gokulrajekambaram@gmail.com 
   url_present: False
   url: 
@@ -126,7 +118,7 @@
 
 - name: JAYASURYA R
   photo: Jayasurya.jpg
-  info: Project Staff
+  info: Junior Research Fellow
   email:  jaijaisurya777@gmail.com 
   url_present: False
   url: 

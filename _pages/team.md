@@ -9,8 +9,8 @@ has_children: true
 
 # Group Members
 
- **We are  looking for new PhD students to join the team !**
- <!-- [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
+ <!--**We are  looking for new PhD students to join the team !**
+  [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-students), [Master students](#master-students), [Project staff](#project-staff), [Junior research fellow](#junior-research-fellow), [Alumni](#alumni).
 
@@ -204,7 +204,7 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
 {% endif %}
 
 
-### Project staff/Research fellows
+### Project staff
 {% assign number_printed = 0 %}
 {% for member in site.data.projectstaff %}
 
