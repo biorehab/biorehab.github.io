@@ -6,20 +6,18 @@ sitemap: false
 permalink: /
 ---
 
-<div style="position: relative; text-align: center;">
-  <p style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); color: red; font-weight: bold; animation: shine 3s linear infinite;">Congratulations Dr. Prem!</p>
-  <iframe style="display: block; margin: auto;" width="600" height="315" src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/Prem_graduation.png"></iframe> 
+<div style="text-align: center; max-width: 600px; margin: auto;">
+  <p style="color: red; font-weight: bold; font-size: 1.5em; animation: shine 3s linear infinite;">Congratulations Dr. Prem!</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/Prem_graduation.png" alt="Sample Image" style="width: 100%; height: auto;">
 </div>
 
 <style>
 @keyframes shine {
   0% { color: red; }
-  50% { color: green; }
+  50% { color: orange; }
   100% { color: red; }
 }
 </style>
-
-
 
 <br>
 
