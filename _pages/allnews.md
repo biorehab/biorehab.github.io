@@ -10,6 +10,14 @@ permalink: /allnews.html
 
 ## 2024
 
+#### - **June 19, 2024: Farewell and Best Wishes to Aravind!**
+
+We are excited to announce that our student Dr. Aravind Nehrujee will begin his postdoctoral research at the Shirley Ryan AbilityLab, where he will work with Prof. William Zev Reymer and Dr. Milap Sandhu on the domain of Multiple Sclerosis. Aravind has been an important part of our lab, having completed his MS, PhD and Postdoctoral research with us. His PhD and postdoctoral work focused on the development of the hand rehabilitation robot PLUTO, which received many awards and publications and had a significant impact on the field. We are proud of Aravind's achievements and contributions and we wish him all the best in his new role.
+
+#### - **Mar 6, 2024: 2nd IFNR Young Investigator Award for our group!**
+ 
+Our PhD student Prem Kumar was awarded the "IFNR Young Investigator Award 2024" at IFNRCON 2024 in Pondicherry for his work on MARS, a novel single actuator robot for therapy of the entire arm, with a focus on home therapy. This is the second time a member of our group has received this award. We look forward to seeing more of his work in the future and extend our congratulations to Prem once again!
+
 ## 2023
 
 #### - **July 10, 2023: Congratulations to Dr. Aravind Nehrujee!**
