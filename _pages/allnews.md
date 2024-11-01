@@ -10,6 +10,31 @@ permalink: /allnews.html
 
 ## 2024
 
+#### - **Oct 24-25, 2024: 14th Annual Research Day, CMC Vellore**
+The 14th Annual Research Day was held on October 24–25 at our Bagayam Campus, where five students from our group presented posters in the Research Scholars and Others (Post-Docs) categories. Our PhD student, ArjunRam, secured second place in the Research Scholar category and Dr. Prem Kumar won first place in the Others category. Both also received the People's Choice Award for Best Poster. Congratulations on this fantastic achievement – here’s to many more awards in the future! :)
+
+#### - **Aug 16, 2024: PLUTO technology transfer!**
+A significant milestone for our group! Our PLUTO project, which began 8 years ago, will soon be accessible through Thryv Rehab Solutions — excited for what's ahead! PLUTO was a simple idea that's made an impact as a research prototype. 
+
+Grateful to the incredible team (Christian Medical College Vellore, Indian Institute of Technology, Madras) who believed in it: 
+
+Sujatha Srinivasan [R2D2,  IIT Madras](https://r2d2.iitm.ac.in/home) \
+[Aravind Nehrujee](https://www.linkedin.com/in/aravind-nehrujee-4752349a/) \
+[Sathish Balaraman](https://www.linkedin.com/in/sathish-balaraman-90318363/) \
+Dr. Suranjan Bhattachrji (CMC Vellore) \
+Dr. Henry Prakash (CMC Vellore) \
+[Dr. Sanjith Aron](https://www.linkedin.com/in/sanjith-aaron-77940127a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B2Jlme0%2BUSmemskNdXixYhg%3D%3D), CMC Vellore \
+Dr. A T Prabakar (CMC Vellore) \
+Mr Samuelkamaleshkumar S (CMC Vellore) \
+and several others ... 
+
+A big congrats to all of us! This is the start of many useful things to come in the future. Wishing Thryv Rehab Solutions ([Justin Jesudas](https://www.linkedin.com/in/justinjesudas/) & team) all the best with their efforts to take PLUTO to the market!
+
+#### - **Aug 8, 2024: R2 moved to the NeuroRehab Studio!**
+
+R2, our non-actuated planar tabletop manipulator (end-effector) for upper limb rehabilitation is now available in our NeuroRehab studio at CMC Ranipet campus. We look forward to get more useful feedback from clinicians and patients and make it a valuable clinical tool. 
+Congrats to Sharon, Thiagu, Ezhil, and others!
+
 #### - **June 19, 2024: Farewell and Best Wishes to Aravind!**
 
 We are excited to announce that our student Dr. Aravind Nehrujee will begin his postdoctoral research at the Shirley Ryan AbilityLab, where he will work with Prof. William Zev Reymer and Dr. Milap Sandhu on the domain of Multiple Sclerosis. Aravind has been an important part of our lab, having completed his MS, PhD and Postdoctoral research with us. His PhD and postdoctoral work focused on the development of the hand rehabilitation robot PLUTO, which received many awards and publications and had a significant impact on the field. We are proud of Aravind's achievements and contributions and we wish him all the best in his new role.
@@ -19,6 +44,10 @@ We are excited to announce that our student Dr. Aravind Nehrujee will begin his 
 Our PhD student Prem Kumar was awarded the "IFNR Young Investigator Award 2024" at IFNRCON 2024 in Pondicherry for his work on MARS, a novel single actuator robot for therapy of the entire arm, with a focus on home therapy. This is the second time a member of our group has received this award. We look forward to seeing more of his work in the future and extend our congratulations to Prem once again!
 
 ## 2023
+
+#### - **Aug 1, 2023: Welcome Pooja and Charles to the group!**
+Our PhD group is expanding, and we're excited to welcome our two new members! Pooja will be working on "A novel robot for training activities of daily living" and Charles on "Hybrid approaches for robot-assisted movement therapy". Both projects are in collaboration with Dr. Varadhan SKM from Dept. of Applied Mechanics and Biomedical Engineering, IIT Madras.
+Look forward to working together! :)
 
 #### - **July 10, 2023: Congratulations to Dr. Aravind Nehrujee!**
 
