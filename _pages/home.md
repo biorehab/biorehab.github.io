@@ -7,8 +7,8 @@ permalink: /
 ---
 
 <div style="text-align: center; max-width: 600px; margin: auto;">
-  <p style="color: red; font-weight: bold; font-size: 1.5em; animation: shine 3s linear infinite;">Congratulations Dr. Prem!</p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/Prem_graduation.png" alt="Sample Image" style="width: 100%; height: auto;">
+  <p style="color: red; font-weight: bold; font-size: 1.5em; animation: shine 3s linear infinite;">Stroke Day 2024!</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/stroke_day_24.jpg" alt="Sample Image" style="width: 80%; height: auto;">
 </div>
 
 <style>
