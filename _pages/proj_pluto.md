@@ -83,6 +83,6 @@ We are currently preparing to conduct a longer study to evaluate the feasbility 
 
 #### **Team**
 <sup>(1: Dept. of Bioengineering, CMC Vellore, 2: Dept. of Mechanical Engineering, IIT Madras, 3: Dept. of PMR, CMC Vellore.)</sup>
-  - Aravind Nehrujee<sup>1,2</sup>, Satish Balaraman<sup>1</sup>, Halel Andrew<sup>3</sup>, Reethajanetsurekha S<sup>s</sup>, Samuelkamaleshkumar S<sup>3</sup>, Dr. Henry Prakash<sup>3</sup>, Sivakumar Balasubramanian<sup>1</sup>
-  - Naveen Prasad<sup>2</sup>, Anand Kumar<sup>2</sup>, Sujatha Srinivasan<sup>2</sup>
+  - [Aravind Nehrujee<sup>1,2</sup>](https://www.linkedin.com/in/aravind-nehrujee-4752349a/), [Satish Balaraman<sup>1</sup>](https://www.linkedin.com/in/sathish-balaraman-90318363/), Halel Andrew<sup>3</sup>, Reethajanetsurekha S<sup>s</sup>, Samuelkamaleshkumar S<sup>3</sup>, Dr. Henry Prakash<sup>3</sup>, [Sivakumar Balasubramanian<sup>1</sup>](https://siva82kb.github.io/)
+  - Naveen Prasad<sup>2</sup>, Anand Kumar<sup>2</sup>, [Sujatha Srinivasan<sup>2</sup>](https://r2d2.iitm.ac.in/home)
 
