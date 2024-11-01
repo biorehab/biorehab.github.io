@@ -9,17 +9,6 @@
   education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore.
   education2: M.S in Bioengineering, Christian Medical College, Vellore.  
 
-- name: Samuel Elias
-  photo: samuel.jpg
-  info: Project Associate
-  email: samuel.elias.bioeng21@cmcvellore.edu.in
-  url_present: False
-  url:
-  url_display:
-  number_educ: 2
-  education1: B.E. in Mechanical Engineering, Chhattisgarh Swami Vivekanand Technical University, Bhilai. 
-  education2: M.S. in Bioengineering, Christian Medical College, Vellore.
-
 - name: Sriramachandran V
   photo: rama.JPG
   info: Junior Research Fellow
@@ -87,7 +76,7 @@
 
 - name: Sharon P
   photo: sharon.jpg
-  info: Junior Research Fellow
+  info: Project Associate
   email: sharon.p@cmcvellore.ac.in
   url_present: True
   url: https://www.linkedin.com/in/sharon-~-tech/
@@ -95,16 +84,6 @@
   number_educ: 2
   education1: B.E in Electrical and Electronics Engineering, Loyola ICAM college of Engineering and Technology, Chennai, India.
   education2: MS in Mechatronics Systems, Vilnius Tech University, Lithuania
-
-- name: Jane Benita
-  photo: jane.jpg
-  info: Project Associate
-  email: janebenita7@gmail.com
-  url_present: True
-  url: https://www.linkedin.com/in/jane-benita-335191317/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-  url_display: linkedin/Jane
-  number_educ: 1
-  education1: Bachelor in Occupational Therapy, Sri Ramachandra Institute of Higher Education and Research,Chennai.
 
 - name: GOKUL RAJ E
   photo: gokul.jpg
@@ -125,17 +104,6 @@
   url_display: 
   number_educ: 1
   education1: MCA in Thanthai Periyar Government Institute of Technology, Vellore
-
-- name: M.sabjhon
-  photo: sabjhon.jpg
-  info: Project Staff
-  email: mssabjhon@gmail.com
-  url_present: True
-  url: https://www.linkedin.com/in/sabjhon-m-374911288/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-  url_display: linkedin/Sabjhon
-  number_educ: 1
-  education1: Diploma in Computer Science and Engineering, Govt. Polytechnic College, Cheyyar
-  
 
 
   

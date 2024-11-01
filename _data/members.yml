@@ -48,14 +48,24 @@
   photo: pooja.png
   link: team/#phd-students
 
+- name: Lavanya Varshini 
+  position: MS Student
+  photo: lavanya.jpg
+  link: team/#ms-students
+
+- name: Johanna Afreena I 
+  position: MS Student
+  photo: johanna.jpg
+  link: team/#ms-students
+
+- name: Kabilan V 
+  position: MS Student
+  photo: kabilan.jpg
+  link: team/#ms-students
+
 - name: Sathish Balraman
   position: Project Associate
   photo: sathish_b.jpg
-  link: team/#project-staff
-
-- name: Samuel Elias
-  position: Project Associate
-  photo: samuel.jpg
   link: team/#project-staff
 
 - name: Sriramachandran V
@@ -89,21 +99,9 @@
   link: team/#project-staff
 
 - name: Sharon P
-  position: Junior Research Fellow
+  position: Project Associate
   photo: sharon.jpg
   link: team/#project-staff
-
-- name: M.sabjhon
-  position: Project Associate
-  photo: sabjhon.jpg
-  link: team/#project-staff
-
-
-- name: Jane Benita
-  position: Project Associate
-  photo: jane.jpg
-  link: team/#project-staff
-
 
 - name: GOKUL RAJ E
   position: Junior Research Fellow

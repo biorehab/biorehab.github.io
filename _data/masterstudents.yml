@@ -1,12 +1,26 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Lavanya Varshini
+  photo: lavanya.jpg
+  info: MS Student
+  email: varshini2891@gmail.com
+  number_educ: 2
+  education1: B.E. in Electronics and communication, Ranipettai engineering college, Anna University 
+  education2: M.Tech in Embedded Systems, VIT University, Vellore
+
+- name: Johanna Afreena I 
+  photo: johanna.jpg
+  info: MS Student
+  email: Johanna.afreena@gmail.com
+  number_educ: 1
+  education1: B.E. in Electronics and Communication, KCG College of Technology, Chennai
+
+- name: Kabilan V 
+  photo: kabilan.jpg
+  info: MS Student
+  email: kabilan.varadhan@gmail.com
+  number_educ: 1
+  education1: B.E. in MEDICAL ELECTRONICS, Saveetha Engineering College, Chennai
+
+ 
 
 
 
