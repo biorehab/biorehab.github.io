@@ -1,5 +1,4 @@
 - name: Shilpa Kodayath, MS Bioengg., CMC Vellore, 2014-2016 
-  info:
 - name: Sandeep Guguloth, MS Mech. Engg., IIT Madras, 2016-2018
   info: PhD scholar, West Virginia University, USA
 - name: Ramakrishnan R, MS Bioengg., CMC Vellore, 2016-2018
@@ -12,8 +11,21 @@
   info: Research Assistant in RIMHS, University of Sharjah
 - name: Tanya Subhash, MS Bioengg., CMC Vellore, 2019-2021 
   info: PhD Scholar, University of Southern California, USA
+  url_present: True
+  url: https://www.linkedin.com/in/tanya-subash-a42660241
+  url_display: linkedin/Tanya_Subhash
+- name: Sathish B, MS Bioengg., CMC Vellore, 2019-2021 
+  info: Product lead and QA officer, Thryv Rehab Solutions
+  url_present: True
+  url: https://www.linkedin.com/in/sathish-balaraman-90318363/
+  url_display: linkedin/Sathish_B
+- name: Samuel Elias, MS Bioengg, CMC Vellore, 2021-2023
+  info: Quality Control Officer, Thryv Rehab Solutions
+  url_present: True
+  url: https://www.linkedin.com/in/samuel-elias-986145273/
+  url_display: linkedin/Samuel_Elias
 - name: Dyan, MS Bioengg, CMC Vellore, 2021-2023
-  info: Design Engineer, Kozhnosys, Pune
+  info: Design Engineer, Kozhnosys, Pune 
 - name: Blessed Joshua A, MS Bioengg, CMC Vellore, 2021-2023
   info: 
         

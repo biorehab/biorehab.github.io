@@ -350,8 +350,10 @@ Jump to [Faculty](#faculty), [Post-Docs](#post-docs), [PhD students](#phd-studen
 <div class="col-sm-6 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_master %}
-{{ member.name }} <br>
-<i>{{member.info}} </i>
+{{ member.name }} 
+<i>{%if member.info %}<br> {{member.info}} {%endif %}</i> 
+{% if member.url_present %}<br> <i>URL: <a href="{{ member.url }}">{{ member.url_display }}</a></i> 
+{% endif %}
 {% endfor %}
 </div>
 

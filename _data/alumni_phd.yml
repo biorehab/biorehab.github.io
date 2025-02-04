@@ -1,6 +1,14 @@
+- name: Dr. Ann David
+  info: Chief Technical Officer, Thryv Rehab Solutions
+  url_present: True
+  url: https://www.linkedin.com/in/ann-david-a2268479/
+  url_display: linkedin/Ann-David
+
 - name: Dr. Aravind Nehrujee
   info: Post Doctorial Researcher, Shirley Ryan AbilityLab, USA
   url_present: True
-  url: hhttps://www.linkedin.com/in/aravind-nehrujee-4752349a/
+  url: https://www.linkedin.com/in/aravind-nehrujee-4752349a/
   url_display: linkedin/Aravind-Nehrujee
+
+
   
