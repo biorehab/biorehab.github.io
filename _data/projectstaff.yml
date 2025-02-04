@@ -1,13 +1,3 @@
-- name: Sathish Balraman
-  photo: sathish_b.jpg
-  info: Project Associate
-  email: sathishbalaraman08@gmail.com 
-  url_present: True
-  url: https://tinyurl.com/y4hrdpyy
-  url_display: linkedin/Sathish-Balaraman
-  number_educ: 2 
-  education1: B.E in Mechanical Engineering, Thanthai Periyar Govt Institute of Technology, Vellore.
-  education2: M.S in Bioengineering, Christian Medical College, Vellore.  
 
 - name: Sriramachandran V
   photo: rama.JPG
@@ -73,17 +63,6 @@
   url_display: linkedin/Moses
   number_educ: 1
   education1: Bachelor in Occupational Therapy, Sri Ramachandra Institute of Higher Education and Research,Chennai.
-
-- name: Sharon P
-  photo: sharon.jpg
-  info: Project Associate
-  email: sharon.p@cmcvellore.ac.in
-  url_present: True
-  url: https://www.linkedin.com/in/sharon-~-tech/
-  url_display: linkedin/Sharon
-  number_educ: 2
-  education1: B.E in Electrical and Electronics Engineering, Loyola ICAM college of Engineering and Technology, Chennai, India.
-  education2: MS in Mechatronics Systems, Vilnius Tech University, Lithuania
 
 - name: GOKUL RAJ E
   photo: gokul.jpg
