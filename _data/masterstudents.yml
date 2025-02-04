@@ -6,6 +6,13 @@
   education1: B.E. in Electronics and communication, Ranipettai engineering college, Anna University 
   education2: M.Tech in Embedded Systems, VIT University, Vellore
 
+- name: Vaideesh Ragavan
+  photo: vaideesh.jpg
+  info: MS Student
+  email: vaideeshragavan1021@gmail.com
+  number_educ: 1
+  education1: B.E. in MEDICAL ELECTRONICS, Saveetha Engineering College, Chennai
+
 - name: Johanna Afreena I 
   photo: johanna.jpg
   info: MS Student
@@ -19,6 +26,15 @@
   email: kabilan.varadhan@gmail.com
   number_educ: 1
   education1: B.E. in MEDICAL ELECTRONICS, Saveetha Engineering College, Chennai
+
+- name: Minusha K
+  photo: minusha.jpg
+  info: MS Student
+  email: Kingsleyminusha@gmail.com
+  number_educ: 1
+  education1: B.Tech in Biotechnology, Kamaraj College of Engineering and Technology, Madurai
+
+
 
  
 

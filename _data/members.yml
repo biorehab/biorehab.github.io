@@ -3,10 +3,10 @@
   photo: siva.jpg
   link: team/#Faculty
 
-- name: Ann David
-  position: Post Doctorial Researcher
-  photo: annd.jpg
-  link: team/#post-docs
+# - name: Ann David
+#   position: Post Doctorial Researcher
+#   photo: annd.jpg
+#   link: team/#post-docs
 
 - name: Ritwika Choudhuri
   position: Post Doctorial Researcher
@@ -53,6 +53,11 @@
   photo: lavanya.jpg
   link: team/#ms-students
 
+- name: Vaideesh Ragavan
+  position: MS Student
+  photo: vaideesh.jpg
+  link: team/#ms-students
+
 - name: Johanna Afreena I 
   position: MS Student
   photo: johanna.jpg
@@ -63,10 +68,17 @@
   photo: kabilan.jpg
   link: team/#ms-students
 
-- name: Sathish Balraman
-  position: Project Associate
-  photo: sathish_b.jpg
-  link: team/#project-staff
+- name: Minusha K
+  position: MS Student
+  photo: minusha.jpg
+  link: team/#ms-students
+
+
+
+# - name: Sathish Balraman
+#   position: Project Associate
+#   photo: sathish_b.jpg
+#   link: team/#project-staff
 
 - name: Sriramachandran V
   position: Junior Research Fellow
@@ -98,10 +110,10 @@
   photo: moses.jpg
   link: team/#project-staff
 
-- name: Sharon P
-  position: Project Associate
-  photo: sharon.jpg
-  link: team/#project-staff
+# - name: Sharon P
+#   position: Project Associate
+#   photo: sharon.jpg
+#   link: team/#project-staff
 
 - name: GOKUL RAJ E
   position: Junior Research Fellow
