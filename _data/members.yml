@@ -13,10 +13,10 @@
   photo: ritwika.jpg
   link: team/#post-docs
 
-- name: Prem Kumar
-  position: Post Doctoral Researcher
-  photo: prem.jpg
-  link: team/#post-docs
+# - name: Prem Kumar
+#   position: Post Doctoral Researcher
+#   photo: prem.jpg
+#   link: team/#post-docs
 
 - name: Monisha Yuvaraj
   position: PhD Student
@@ -46,6 +46,11 @@
 - name: Pooja Vinayagamoorthy
   position: PhD Student
   photo: pooja.png
+  link: team/#phd-students
+
+- name: Diwakar Reddy
+  position: PhD Student
+  photo: diwakar.jpg
   link: team/#phd-students
 
 - name: Lavanya Varshini 
@@ -81,23 +86,23 @@
 #   link: team/#project-staff
 
 - name: Sriramachandran V
-  position: Junior Research Fellow
+  position: Project Research Scientist
   photo: rama.JPG
   link: team/#project-staff
 
 - name: Sujith Christopher
-  position: Project Associate
+  position: Project Research Scientist
   photo: sujithc.jpg 
   link: team/#project-staff
 
 - name: Thiagu S
-  position: Project Associate
+  position: Project Research Scientist
   photo: thiagu.jpg 
   link: team/#project-staff
 
-- name: Diwakar Reddy
-  position: Senior Research Fellow
-  photo: diwakar.jpg
+- name: Lishwanth R K 
+  position: Project Research Scientist
+  photo: lishwanth.jpg 
   link: team/#project-staff
 
 - name: Achu Vinod Thomas
@@ -116,14 +121,20 @@
 #   link: team/#project-staff
 
 - name: GOKUL RAJ E
-  position: Junior Research Fellow
+  position: Project Research Scientist
   photo: gokul.jpg
   link: team/#project-staff
 
 - name: JAYASURYA R
-  position: Junior Research Fellow
+  position: Project Research Scientist
   photo: Jayasurya.jpg
   link: team/#project-staff 
+
+- name : Yuvanesh  S
+  position : Project Associate 
+  photo: yuvanesh.jpg
+  link: team/#project-staff 
+  
 
 
 

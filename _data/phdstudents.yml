@@ -77,4 +77,17 @@
   education1: B.E in Biomedical Engineering, Sri Ramakrishna Engineering college, TN
   education2: M.E in Medical Electronics, College of Engineering Guindy, Anna University, TN
 
+- name: Basinepalli Kothireddy Gari Diwakar Reddy
+  photo: diwakar.jpg
+  info: PhD Student
+  co-guide-url: https://apm.iitm.ac.in/SKMV.html
+  Co-guide: Dr. Varadhan SKM(IIT Madras)
+  email: bkdiwakar34@gmail.com
+  url_present: True
+  url: www.linkedin.com/in/ bk-diwakar-reddy
+  url_display: linkedin/Diwakar-Reddy
+  number_educ: 2
+  education1: B.Tech in Electronics and Communication Engineering, NIT Calicut.
+  education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
+
 

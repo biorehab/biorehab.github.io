@@ -1,7 +1,7 @@
 
 - name: Sriramachandran V
   photo: rama.JPG
-  info: Junior Research Fellow
+  info: Project Research Scientist
   email: sriramachandranv94@gmail.com
   url_present: False
   url: 
@@ -10,19 +10,9 @@
   education1: B.Tech in Mechanical Engineering, Ganadipathy Tulsi's Jain Engineering College, Vellore
   education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
 
-- name: Thiagu S
-  photo: thiagu.jpg
-  info: Project Associate
-  email: sthiashine@gmail.com
-  url_present: False
-  url:
-  url_display:
-  number_educ: 1
-  education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli
-
 - name: Sujith Christopher
   photo: sujithc.jpg
-  info: Project Associate
+  info: Project Research Scientist
   email: Sujith.christopher52@gmail.com
   url_present: True
   url: https://sujithchristopher.github.io/
@@ -31,16 +21,26 @@
   education1: B.Tech in Electronics and Communication Engineering, Karunya University.
   education2: M.S. in Bioengineering, Christian Medical College, Vellore.
 
-- name: Basinepalli Kothireddy Gari Diwakar Reddy
-  photo: diwakar.jpg
-  info: Senior Research Fellow
-  email: bkdiwakar34@gmail.com
+- name: Thiagu S
+  photo: thiagu.jpg
+  info: Project Research Scientist
+  email: sthiashine@gmail.com
+  url_present: False
+  url:
+  url_display:
+  number_educ: 1
+  education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli
+
+- name: Lishwanth R K 
+  photo: lishwanth.jpg
+  info: Project Research Scientist
+  email: lee1792000@gmail.com
   url_present: True
-  url: www.linkedin.com/in/ bk-diwakar-reddy
-  url_display: linkedin/Diwakar-Reddy
+  url: https://www.linkedin.com/in/lishwanthrk17
+  url_display: linkedin/in/lishwanthrk17
   number_educ: 2
-  education1: B.Tech in Electronics and Communication Engineering, NIT Calicut.
-  education2: M.S. in Bioengineering, Christian Medical College, Vellore. 
+  education1: B.Tech in Mechatronics, Lovely Professional University.
+  education2: M.Tech in CAD / CAM, VIT Vellore.
 
 - name: Achu Vinod Thomas
   photo: achu.jpg
@@ -66,7 +66,7 @@
 
 - name: GOKUL RAJ E
   photo: gokul.jpg
-  info: Junior Research Fellow
+  info: Project Research Scientist
   email: gokulrajekambaram@gmail.com 
   url_present: False
   url: 
@@ -76,13 +76,22 @@
 
 - name: JAYASURYA R
   photo: Jayasurya.jpg
-  info: Junior Research Fellow
+  info: Project Research Scientist
   email:  jaijaisurya777@gmail.com 
   url_present: False
   url: 
   url_display: 
   number_educ: 1
   education1: MCA in Thanthai Periyar Government Institute of Technology, Vellore
+
+- name : Yuvanesh  S
+  photo: yuvanesh.jpg
+  info : Project Associate 
+  email: yuvansankar2424@gmail.com 
+  url: https://www.linkedin.com/in/yuvanesh24/
+  url_display: linkedin/yuvanesh
+  number_educ: 1
+  education1 : BE ECE - Saveetha Engineering College (2020 - 2024)
 
 
   

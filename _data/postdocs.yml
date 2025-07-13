@@ -41,13 +41,13 @@
   education2: M.Tech in Applied Electronics and Instrumentation Engineering, West Bengal University of Technology
   education3: Ph.D in Biomedical Engineering, Indian Institute of Technology, Bombay
 
-- name: Prem Kumar
-  photo: prem.jpg
-  info: Post-doc
-  email: premmathavan95@gmail.com
-  url_present: False
-  url:
-  url_display: 
-  number_educ: 2
-  education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli.
-  education2: M.Tech + PhD in Mechanical Engineering, IIT Madras
+# - name: Prem Kumar
+#   photo: prem.jpg
+#   info: Post-doc
+#   email: premmathavan95@gmail.com
+#   url_present: False
+#   url:
+#   url_display: 
+#   number_educ: 2
+#   education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli.
+#   education2: M.Tech + PhD in Mechanical Engineering, IIT Madras
