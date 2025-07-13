@@ -5,71 +5,13 @@ excerpt: "BioRehab Group @ CMC Vellore."
 sitemap: false
 permalink: /
 ---
-<div style="text-align: center; max-width: 600px; margin: auto;">
-  <p style="color: red; font-weight: bold; font-size: 1.5em; animation: shine 3s linear infinite;">Pluto in the spotlight! &#x1F680;</p>
-  </div>
-<div class="slideshow">
-  <img src="/images/home_highlights/pluto_news1.png" alt="">
-  <img src="/images/home_highlights/pluto_news2.png" alt="">
-  <img src="/images/home_highlights/pluto_news3.png" alt="">
+<h2 class="pluto-heading">Pluto in the Spotlight!</h2>
+
+<div class="home-slideshow">
+  <img src="/images/home_highlights/pluto_news1.png" alt="Pluto News 1">
+  <img src="/images/home_highlights/pluto_news2.png" alt="Pluto News 2">
+  <img src="/images/home_highlights/pluto_news3.png" alt="Pluto News 3">
 </div>
-<style>
-.slideshow {
-  width: 100%;
-  max-width: 600px;
-  margin: auto;
-  text-align: center;
-  position: relative;
-  padding-bottom: 50%; 
-  margin-bottom: 5px;
-}
-
-.slideshow img {
-  width: 100%;
-  height: 80%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  object-fit: contain;
-}
-
-
-.slideshow img:first-child {
-  opacity: 1;
-}
-
-.slideshow img:nth-child(1) { animation: slideshow 9s infinite 0s; }
-.slideshow img:nth-child(2) { animation: slideshow 9s infinite 3s; }
-.slideshow img:nth-child(3) { animation: slideshow 9s infinite 6s; }
-
-@keyframes slideshow {
-  0%, 30% { opacity: 1; }
-  33%, 100% { opacity: 0; }
-}
-</style>
-<style>
-@keyframes shine {
-  0% { color: #003463; }
-  50% { color: #38000D; }
-  100% { color: #003463; }
-}
-</style>
-
-<!-- <div style="text-align: center; max-width: 600px; margin: auto;">
-  <p style="color: red; font-weight: bold; font-size: 1.5em; animation: shine 3s linear infinite;">Stroke Day 2024!</p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home_highlights/stroke_day_24.jpg" alt="Sample Image" style="width: 80%; height: auto;">
-</div>
-
-<style>
-@keyframes shine {
-  0% { color: red; }
-  50% { color: orange; }
-  100% { color: red; }
-}
-</style>
-
-<br> -->
 
 We are the **Biological Learning and Rehabilitation (BioRehab) Group** at the department of Bioengineering, [Christian Medical College Vellore](https://www.cmch-vellore.edu/).
 

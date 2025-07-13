@@ -91,3 +91,50 @@ firstp {
     margin-right: 30px;
 }
 
+@keyframes shine {
+  0% { color: #003463; }
+  50% { color: #38000D; }
+  100% { color: #003463; }
+}
+
+#homeid h2 {
+  animation: shine 3s linear infinite;
+  text-align: center;
+  
+}
+
+/* Slideshow styling */
+.home-slideshow {
+  position: relative;
+  max-width: 600px;
+  margin: 1rem auto;
+  aspect-ratio: 3/2;
+  overflow: hidden;
+}
+
+.home-slideshow img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  animation: slideshow 9s infinite;
+}
+
+.home-slideshow img:nth-child(1) { animation-delay: 0s; }
+.home-slideshow img:nth-child(2) { animation-delay: 3s; }
+.home-slideshow img:nth-child(3) { animation-delay: 6s; }
+
+@keyframes slideshow {
+  0%, 30% { opacity: 1; }
+  33%, 100% { opacity: 0; }
+}
+
+.pluto-heading {
+  text-align: center;
+  color: #003463;
+  font-size: 1.4em;
+  margin-bottom: 1rem;
+}
+
+
