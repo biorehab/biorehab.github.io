@@ -9,50 +9,11 @@ has_children: true
 
 ## Team
 
+{: style="text-align: center;"}
+![Team review](/images/teampic/24_year_review.jpg){: style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;"}
 
-<div class="slideshow">
-  <img src="/images/teampic/24_year_review.jpg" alt="">
-  <img src="/images/teampic/group_pic.jpg" alt="">
-  
-</div>
-<style>
-.slideshow {
-  width: 100%;
-  max-width: 800px;
-  height: 400px; 
-  margin: auto;
-  text-align: center;
-  position: relative;
-  margin-bottom: 5px; 
-}
+--- 
 
-.slideshow img {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  object-fit: contain;
-}
-
-
-.slideshow img:first-child {
-  opacity: 1;
-}
-
-.slideshow img:nth-child(1) { animation: slideshow 6s infinite 0s; }
-.slideshow img:nth-child(2) { animation: slideshow 6s infinite 3s; }
-
-
-@keyframes slideshow {
-  0%, 30% { opacity: 1; }
-  33%, 100% { opacity: 0; }
-}
-</style>
-
-
-<br>
 <div style="display:flex; flex-wrap: wrap; text-align: center; box-sizing: border-box;">
 {% for member in site.data.members %}
    <div style="margin: 20px; text-align: center; width: 201px;">
