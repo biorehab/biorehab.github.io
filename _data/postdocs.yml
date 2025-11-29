@@ -41,6 +41,18 @@
   education2: M.Tech in Applied Electronics and Instrumentation Engineering, West Bengal University of Technology
   education3: Ph.D in Biomedical Engineering, Indian Institute of Technology, Bombay
 
+- name: Monisha Yuvaraj
+  photo: monisha.jpeg
+  info: Post-Doc
+  url_present: True
+  url: https://sites.google.com/view/monisha-yuvaraj/home?authuser=3
+  url_display: sites.google/Monisha-Yuvaraj
+  number_educ: 3
+  education1: B.Tech in Electronics and Communication Engg., IIIT Kancheepuram.
+  education2: M.Tech in Signal Processing and Communication System Design, IIIT Kancheepuram.
+  education3: PhD, Joint degree program by IIT Madras, CMC Vellore, SCTIMST Trivandrum.
+
+
 # - name: Prem Kumar
 #   photo: prem.jpg
 #   info: Post-doc

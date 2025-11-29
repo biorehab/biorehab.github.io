@@ -21,7 +21,7 @@
 - name: Monisha Yuvaraj
   position: PhD Student
   photo: monisha.jpeg
-  link: team/#phd-students
+  link: team/#post-docs
 
 - name: Arjunram P
   position: PhD Student
@@ -63,11 +63,6 @@
   photo: vaideesh.jpg
   link: team/#ms-students
 
-- name: Johanna Afreena I 
-  position: MS Student
-  photo: johanna.jpg
-  link: team/#ms-students
-
 - name: Kabilan V 
   position: MS Student
   photo: kabilan.jpg
@@ -77,8 +72,6 @@
   position: MS Student
   photo: minusha.jpg
   link: team/#ms-students
-
-
 
 # - name: Sathish Balraman
 #   position: Project Associate
@@ -105,15 +98,15 @@
   photo: lishwanth.jpg 
   link: team/#project-staff
 
-- name: Achu Vinod Thomas
-  position: Senior Research Fellow
-  photo: achu.jpg
-  link: team/#project-staff
+# - name: Achu Vinod Thomas
+#   position: Senior Research Fellow
+#   photo: achu.jpg
+#   link: team/#project-staff
 
-- name: GNANAMOSES G
-  position: Senior Research Fellow
-  photo: moses.jpg
-  link: team/#project-staff
+# - name: GNANAMOSES G
+#   position: Senior Research Fellow
+#   photo: moses.jpg
+#   link: team/#project-staff
 
 # - name: Sharon P
 #   position: Project Associate

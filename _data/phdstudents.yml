@@ -1,15 +1,3 @@
-- name: Monisha Yuvaraj
-  photo: monisha.jpeg
-  info: PhD Student
-  co-guide-url: https://apm.iitm.ac.in/SKMV.html
-  Co-guide: Dr. Varadhan SKM(IIT Madras)
-  email: am20d600@smail.iitm.ac.in
-  url_present: True
-  url: https://sites.google.com/view/monisha-yuvaraj/home?authuser=3
-  url_display: sites.google/Monisha-Yuvaraj
-  number_educ: 2 
-  education1: B.Tech in Electronics and Communication Engg., IIIT Kancheepuram.
-  education2: M.Tech in Signal Processing and Communication System Design, IIIT Kancheepuram.
 
 - name: Arjun Ram
   photo: arjun.jpg
