@@ -8,6 +8,23 @@ permalink: /allnews.html
 
 # News
 
+
+
+## 2025
+
+#### - **Nov 3, 2025: Congratulations to Dr. Monisha Yuvaraj!**
+
+Monisha successfully defended her PhD work on “EMG-based Movement Intent Detection for Assisted Hand Neurorehabilitation in Severe Stroke.” She has published two papers (in F1000Research and IEEE Access) and presented her work on “an unsupervised approach to identify patient-specific optimal detectors for EMG-driven robot-assisted therapy” at the ICNR 6th Annual Conference, 2024 as a part of her PhD thesis. We look forward to seeing the great contributions she will continue to make in advancing technology for neurorehabilitation!
+
+#### - **Oct 30 - 31, 2025: 15th Annual Research Day, CMC Vellore**
+
+The 15th Annual Research Day was held on October 30–31 at the Bagayam Campus, Vellore, where five students from our group presented posters in the Research Scholars and MS students categories. Our PhD scholar Neelakshi Ganguly and Project Research Engineers Sriramachandran and Lishwanth RK won second place for their poster in the Research Scholar category. Congratulations on this wonderful achievement and wishing you many more successes ahead! :)
+
+#### - **June 30 - July 5, 2025: AI Rehackathon, 2025**
+
+The Department of Bioengineering and the Biomedical Informatics Unit at Christian Medical College Vellore hosted a week-long online hackathon with 16 registered teams. Participants worked on developing and validating machine learning models to predict upper-limb use with the highest accuracy, an exciting challenge towards advancing AI-driven rehabilitation. A team from Universiti Teknologi Malaysia and another from IIT Madras shared the first prize. We thank all participants for their participation and look forward to many more such “happy hacking” events ahead.
+
+
 ## 2024
 
 #### - **Oct 24-25, 2024: 14th Annual Research Day, CMC Vellore**
