@@ -42,28 +42,6 @@
   education1: B.Tech in Mechatronics, Lovely Professional University.
   education2: M.Tech in CAD / CAM, VIT Vellore.
 
-- name: Achu Vinod Thomas
-  photo: achu.jpg
-  info: Senior Research Fellow
-  email: achu.vinod@cmcvellore.ac.in
-  url_present: True
-  url: https://www.linkedin.com/in/achu-vinod-thomas/
-  url_display: linkedin/achu-vinod-thomas
-  number_educ: 2
-  education1: B.Tech in Computer Science and Engineering, Mar Baselios College of Engineering and Technology, Trivandrum.
-  education2: M.Tech in Artificial Intelligence and Machine Learning, Vellore Institute of Technology, Vellore.
-
-
-- name: GNANAMOSES G
-  photo: moses.jpg
-  info: Senior Research Fellow/OT
-  email: mosesmaxs07@gmail.com 
-  url_present: True
-  url: https://www.linkedin.com/in/moses-max-42865a21a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-  url_display: linkedin/Moses
-  number_educ: 1
-  education1: Bachelor in Occupational Therapy, Sri Ramachandra Institute of Higher Education and Research,Chennai.
-
 - name: GOKUL RAJ E
   photo: gokul.jpg
   info: Project Research Scientist
