@@ -62,6 +62,36 @@
   number_educ: 1
   education1: MCA in Thanthai Periyar Government Institute of Technology, Vellore
 
+- name : Dheephiga K.R
+  photo: dheepiga.jpeg
+  info : Project Research Scientist
+  email: dheephigaphysio@gmail.com 
+  url_present: False
+  url_display: 
+  number_educ: 2
+  education1 : BPT in KG college of Physiotherapy,Coimbatore
+  education2 : MPT (Neurology) in KMCH college of physiotherapy, Coimbatore.
+
+- name: Steffi Graff D
+  photo: steffi.jpeg
+  info: Project Associate 
+  email: steffigraffi15@gmail.com
+  url_present: False
+  url: 
+  url_display: 
+  number_educ: 1
+  education1 : BPT in JKK Medical Research Foundation, Erode.
+
+- name: Poornima R
+  photo: poornima.jpeg
+  info: Junior Research Fellow
+  email: poornimaravikmr@gmail.com
+  url_present: False
+  url: 
+  url_display: 
+  number_educ: 1
+  education1: B.Tech in Bioengineering, SASTRA University, Thanjavur.
+
 - name : Yuvanesh  S
   photo: yuvanesh.jpg
   info : Project Associate 
@@ -70,6 +100,8 @@
   url_display: linkedin/yuvanesh
   number_educ: 1
   education1 : BE ECE - Saveetha Engineering College (2020 - 2024)
+
+
 
 
   

@@ -27,7 +27,22 @@
   number_educ: 1
   education1: B.Tech in Biotechnology, Kamaraj College of Engineering and Technology, Madurai
 
+- name: Adarsh Moses
+  photo: adarsh.jpeg
+  info: MS Student
+  email: adarshmoses2018@gmail.com
+  url_present: True
+  url: https://in.linkedin.com/in/adarsh-moses-049481232
+  url_display: linkedin/in/adarsh-moses
+  number_educ: 1
+  education1: B.Tech in Biotechnology, Karunya Institute of Technology and Sciences, Coimbatore.
 
+- name: Jerome D Immanuel Victor
+  photo: jerome.jpeg
+  info: MS Student
+  email: jeromeimmanuel.dv@gmail.com
+  number_educ: 1
+  education1: B.E. in Mechanical Engineering, Government College of Engineering, Tirunelveli
 
  
 

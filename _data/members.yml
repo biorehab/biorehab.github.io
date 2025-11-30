@@ -73,6 +73,16 @@
   photo: minusha.jpg
   link: team/#ms-students
 
+- name: Adarsh Moses
+  position: MS Student
+  photo: adarsh.jpeg
+  link: team/#ms-students
+
+- name: Jerome D Immanuel Victor
+  position: MS Student
+  photo: jerome.jpeg
+  link: team/#ms-students
+
 # - name: Sathish Balraman
 #   position: Project Associate
 #   photo: sathish_b.jpg
@@ -122,6 +132,22 @@
   position: Project Research Scientist
   photo: Jayasurya.jpg
   link: team/#project-staff 
+
+- name : Dheephiga K.R
+  position : Project Research Scientist
+  photo: dheepiga.jpeg
+  link: team/#project-staff 
+  
+
+- name: Steffi Graff D
+  position: Project Associate 
+  photo: steffi.jpeg
+  link: team/#project-staff 
+  
+- name: Poornima R
+  position: Junior Research Fellow
+  photo: poornima.jpeg
+  link: team/#project-staff
 
 - name : Yuvanesh  S
   position : Project Associate 
