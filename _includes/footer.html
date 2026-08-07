@@ -1,31 +1,82 @@
-<br />
-<br />
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>Based on the template from <a href="https://www.allanlab.org/">Allan Lab</a>.</p>            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="http://dbtindia.gov.in/">Department of Biotechnology</a>, Govt. of India. <br /> 
-		  - <a href='http://www.nhhid.org/'>NHHID</a>, Department of Science and Technology, Govt. of India grants.
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Dept. of Bioengineering,<br />
-		  Christian Medical College<br />
-		  Bagayam, Vellore 632002<br />
-		  Tamil Nadu, India<br />
-            <!-- (<a href="https://goo.gl/maps/H2RjutkyoUH2">Maps</a>, <a href="http://www.physics.leidenuniv.nl/travel-directions">Directions</a>) -->
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
+{% assign base = site.url | append: site.baseurl %}
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<footer class="site-footer">
+  <div class="site-container">
+
+    <div class="site-footer__grid">
+
+      <div>
+        <h5>BioRehab Group</h5>
+        <p style="margin-bottom: 0;">
+          Developing and validating neurorehabilitation tools and methods for
+          assessing and training sensorimotor function.
+        </p>
+      </div>
+
+      <div>
+        <h5>Explore</h5>
+        <ul>
+          <li><a href="{{ base }}/research_update">Research</a></li>
+          <li><a href="{{ base }}/publications">Publications</a></li>
+          <li><a href="{{ base }}/team_main">Team</a></li>
+          <li><a href="{{ base }}/vacancies">Open positions</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5>Funding</h5>
+        <ul>
+          <li><a href="http://dbtindia.gov.in/">Department of Biotechnology</a>, Govt. of India</li>
+          <li><a href="http://www.nhhid.org/">NHHID</a>, Department of Science &amp; Technology, Govt. of India</li>
+        </ul>
+      </div>
+
+      <div>
+        <h5>Contact</h5>
+        <address>
+          Dept. of Bioengineering<br>
+          Christian Medical College<br>
+          Bagayam, Vellore 632002<br>
+          Tamil Nadu, India<br>
+          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </address>
+      </div>
+
+    </div>
+
+    <div class="site-footer__base">
+      <span>&copy; {{ site.time | date: "%Y" }} Biological Learning &amp; Rehabilitation Group, CMC Vellore.</span>
+      <span>Based on a template from <a href="https://www.allanlab.org/">Allan Lab</a>.</span>
+    </div>
+
+  </div>
+</footer>
+
+<script>
+  (function () {
+    var toggle = document.querySelector('.site-nav__toggle');
+    var links  = document.getElementById('site-nav-links');
+    if (!toggle || !links) return;
+
+    toggle.addEventListener('click', function () {
+      var open = links.classList.toggle('is-open');
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+
+    // Close the menu when a link is followed or Escape is pressed
+    links.addEventListener('click', function (e) {
+      if (e.target.tagName === 'A') {
+        links.classList.remove('is-open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && links.classList.contains('is-open')) {
+        links.classList.remove('is-open');
+        toggle.setAttribute('aria-expanded', 'false');
+        toggle.focus();
+      }
+    });
+  })();
+</script>

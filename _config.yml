@@ -9,9 +9,11 @@
 title: Biological Learning and Rehabilitation Group
 email: siva82kb@cmcvellore.ac.in
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Biological Learning and Rehabilitation (BioRehab) Group at the
+  Department of Bioengineering, Christian Medical College Vellore. We develop
+  and validate neurorehabilitation tools and methods for assessing and
+  training sensorimotor function, working at the interface of engineering,
+  neuromechanics, and neurorehabilitation.
 baseurl: ""
 url: ""
 
@@ -19,8 +21,16 @@ include:
   - .htaccess
   - _pages
 
-sass:
-  sass_dir: _sass
+# Superseded 2021-era version of the site, kept on disk for reference only.
+# It is excluded from the build because arxiv/research.md claims the same
+# permalink (/research/) as _pages/research.md, and because the directory
+# contains LaTeX build artefacts and editor workspace files.
+exclude:
+  - arxiv
+  - labpage.code-workspace
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 
 # Conversion
 markdown: kramdown
