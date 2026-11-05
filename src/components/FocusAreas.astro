@@ -1,0 +1,12 @@
+---
+/** The three areas of focus as collapsible sections. Content: src/data/focus.yml */
+import { focusAreas } from '../data/index.js';
+---
+<div class="focus">
+  {focusAreas.map((f) => (
+    <details>
+      <summary>{f.title}</summary>
+      <div class="body"><p>{f.body}</p></div>
+    </details>
+  ))}
+</div>

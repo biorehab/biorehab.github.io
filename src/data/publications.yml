@@ -1,0 +1,168 @@
+- title: Identification of Patient-Specific EMG Detectors for Robot-Assisted Therapy Using Rest and Move
+    State EMG Data
+  authors: Monisha Yuvaraj, A.T. Prabakar, Varadhan S.K.M, Etienne Burdet, Ander Ramos-Murgialday, Sivakumar
+    Balasubramanian
+  venue: IEEE Access
+  url: https://ieeexplore.ieee.org/document/11261384
+  year: null
+  highlight: true
+- title: Autoencoder-Based Approaches for Upper Limb Use Detection
+  authors: Parvathy Neelakandan, Varadhan SKM, Sivakumar Balasubramanian
+  venue: IEEE Access
+  url: https://ieeexplore.ieee.org/document/11124829
+  year: null
+  highlight: true
+- title: 'Effect of Role of Robotic Assistance on Upper-limb Sensorimotor Recovery: A Systematic Review
+    and Meta-Analysis.'
+  authors: Ritwika Choudhuri, John Solomon, Aravind Nehrujee, Sujatha Srinivasan, Sivakumar Balasubramanian
+  venue: medRxiv
+  url: https://www.medrxiv.org/content/10.1101/2025.04.24.25326375v1.full.pdf+html
+  year: null
+  highlight: true
+- title: GMAC – A simple measure to quantify upper limb use from wrist-worn accelerometers
+  authors: Sivakumar Balasubramanian
+  venue: IEEE TNSRE
+  url: https://ieeexplore.ieee.org/document/10569004
+  year: null
+  highlight: true
+- title: 'Romiumeter: An Open-Source Inertial Measurement Unit-Based Goniometer for Range of Motion Measurements'
+  authors: Diwakar Basinepalli Reddy, Abhishek, Amal Andrews, Lenny Vasanthan, Sivakumar Balasubramanian
+  venue: Preprint
+  url: https://www.biorxiv.org/content/10.1101/2024.05.29.596353v1
+  year: null
+  highlight: true
+- title: A systematic investigation of detectors for low signal-to-noise ratio EMG signals
+  authors: Monisha Yuvaraj, Priyanka Raja, Ann David, Etienne Burdet, Varadhan SKM, Balasubramanian S
+  venue: F1000Research
+  url: https://f1000research.com/articles/12-429
+  year: null
+  highlight: true
+- title: 'The Facilitators and Barriers to Home-based Robotic Rehabilitation in India: A Pilot Feasibility
+    Study'
+  authors: Nehrujee A, Prabhakar A, Balaraman S, Bombatkar R, Prakash H, SamuelKamaleshKumar S, Aaron
+    S, Bhattacharya S, Srinivasan S, Balasubramanian S
+  venue: Frontiers in Stroke
+  url: https://www.frontiersin.org/articles/10.3389/fstro.2023.1265702/abstract
+  year: null
+  highlight: true
+- title: Design and Characterization of a Self-Aligning End-Effector Robot for Single-Joint Arm Movement
+    Rehabilitation
+  authors: Mathavan Jeyabalan P.K., Nehrujee A., Elias S., Magesh Kumar M., Sujatha S., Balasubramanian
+    S.
+  venue: Robotics 2023, 12, 149
+  url: https://doi.org/10.3390/robotics12060149
+  year: 2023
+  highlight: true
+- title: Comparing algorithms for assessing upper limb use with inertial measurement units
+  authors: T Subash, A David, S ReetaJanetSurekha, S Gayathri, S Samuelkamaleshkumar, H Prakash, N Malesevic,
+    C Antfolk, SKM Varadhan,  A Melendez-Calderon, S Balasubramanian
+  venue: Frontiers in Physiology (2022)
+  url: https://www.frontiersin.org/articles/10.3389/fphys.2022.1023589/full
+  year: 2022
+  highlight: true
+  tags:
+  - label: arm-use
+    url: /publications/arm_use
+- title: Encoder-Controlled Functional Electrical Stimulator for Bilateral Wrist Activities—Design and
+    Evaluation
+  authors: CD Solomons, V Shanmugasundaram, S Balasubramanian
+  venue: Bioengineering 9 (10), 501
+  url: https://www.mdpi.com/2306-5354/9/10/501
+  year: null
+  highlight: true
+- title: 'Experiences of patients who had a stroke and rehabilitation professionals with upper limb rehabilitation
+    robots: a qualitative systematic review protocol'
+  authors: M Chockalingam, LT Vasanthan, S Balasubramanian, V Sriram
+  venue: BMJ Open(2022)
+  url: https://bmjopen.bmj.com/content/12/9/e065177.abstract
+  year: 2022
+  highlight: true
+- title: On the Role of Robotic Assistance in Upper-Limb Neurorehabilitation
+  authors: A Nehrujee, S Srinivasan, S Balasubramanian
+  venue: preprints(2022)
+  url: https://scholar.google.co.in/scholar?oi=bibs&cluster=2304703561339307903&btnI=1&hl=en
+  year: 2022
+  highlight: true
+- title: 'Plug-and-Train Robot (PLUTO) for Hand Rehabilitation: Design and Preliminary Evaluation'
+  authors: A Nehrujee, H Andrew, Reethajanetsurekha, A Patricia, S Samuelkamaleshkumar, H Prakash, S Srinivasan,
+    S Balasubramanian
+  venue: IEEE Access, vol. 9 (2021)
+  url: https://ieeexplore.ieee.org/document/9548086?source=authoralert
+  year: 2021
+  highlight: true
+- title: A self-aligning end-effector robot for individual joint training of the human arm
+  authors: S Balasubramanian, S Guguloth, JS Mohammed, S Srinivasan
+  venue: J Rehabil Assist Technol Eng (2021)
+  url: https://journals.sagepub.com/doi/full/10.1177/20556683211019866
+  year: 2021
+  highlight: true
+- title: A Framework for Sensor-Based Assessment of Upper-Limb Functioning in Hemiparesis
+  authors: A David, T Subhash, SKM Varadhan, A Melendez-Calderon, S Balasubramanian
+  venue: Front Hum Neurosci (2021)
+  url: https://www.frontiersin.org/articles/10.3389/fnhum.2021.667509/full
+  year: 2021
+  highlight: true
+- title: Quantification of the relative arm-use in patients with hemiparesis using inertial measurement
+    units
+  authors: A David, S ReethaJanetSureka, S Gayathri, SJ Annamalai, S Samuelkamleshkumar, A Kuruvilla,
+    HP Magimairaj, SKM Varadhan, S Balasubramanian
+  venue: J Rehabil Assist Technol Eng 8 (2021)
+  url: https://journals.sagepub.com/doi/full/10.1177/20556683211019694
+  year: 2021
+  highlight: true
+- title: Estimating Movement Smoothness From Inertial Measurement Units
+  authors: A Melendez-Calderon, C Shirota, S Balasubramanian
+  venue: Front Bioeng Biotechnol (2021)
+  url: https://www.frontiersin.org/articles/10.3389/fbioe.2020.558771/full
+  year: 2021
+  highlight: true
+- title: 'A Plug-and-Train Robotic Kit (PLUTO) For Hand Rehabilitation: Pilot Usability Study'
+  authors: A Nehrujee, A Hallel, A Patricia, S Samuelkamaleshkumar, H Prakash, S Srinivasan, S Balasubramanian
+  venue: BioRob (2020)
+  url: https://ieeexplore.ieee.org/abstract/document/9224369
+  year: 2020
+  highlight: true
+- title: 'A Smartphone-based gaming system for vestibular rehabilitation: A usability study'
+  authors: A Nehrujee, L Vasanthan, A Lepcha, S Balasubramanian
+  venue: J Vestib Res 29, 2-3 (2019)
+  url: https://content.iospress.com/articles/journal-of-vestibular-research/ves190660
+  year: 2019
+  highlight: true
+- title: 'Technology-aided assessments of sensorimotor function: current use, barriers and future directions
+    in the view of different stakeholders'
+  authors: C Shirota, S Balasubramanian, A Melendez-Calderon
+  venue: J Neuroeng Rehabilitation 16, 1 (2019)
+  url: https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-019-0519-7
+  year: 2019
+  highlight: true
+- title: Is EMG a viable alternative to BCI for detecting movement intention in severe stroke?
+  authors: S Balasubramanian, E Garcia-Cossio, N Birbaumer, E Burdet, A Ramos-Murguialday
+  venue: IEEE Trans Biomed Eng 65, 12 (2018)
+  url: https://ieeexplore.ieee.org/document/8320831
+  year: 2018
+  highlight: false
+- title: 'Red cell indexes made easy using an interactive animation: do students and their scores concur?'
+  authors: U Kachroo, E Vinod, S Balasubramanian, N Prince
+  venue: Adv Physiol Educ 41, 1 (2018)
+  url: https://journals.physiology.org/doi/full/10.1152/advan.00142.2017
+  year: 2018
+  highlight: false
+- title: 'SITAR: a system for independent task-oriented assessment and rehabilitation'
+  authors: A Hussain, S Balasubramanian, N Roach, J Klein, N Jarrassé, M Mace, A David, S Guy, E Burdet
+  venue: JRATE 4 (2017)
+  url: https://journals.sagepub.com/doi/full/10.1177/2055668317729637
+  year: 2017
+  highlight: false
+- title: 'On the assessment of coordination between upper extremities: towards a common language between
+    rehabilitation engineers, clinicians and neuroscientists'
+  authors: C Shirota, J Jansa, J Diaz, S Balasubramanian, S Mazzoleni, NA Borghese, A Melendez-Calderon
+  venue: J Neuroeng Rehabilitation 13, 1 (2016)
+  url: https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-016-0186-x
+  year: 2016
+  highlight: false
+- title: Investigation of isometric strength and control of the upper extremities in multiple sclerosis
+  authors: A Hussain, S Balasubramanian, I Lamers, S Guy, P Feys, E Burdet
+  venue: JRATE 3 (2016)
+  url: https://journals.sagepub.com/doi/full/10.1177/2055668316663977
+  year: 2016
+  highlight: true

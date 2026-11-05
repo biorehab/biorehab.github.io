@@ -1,0 +1,34 @@
+---
+import Base from '../layouts/Base.astro';
+import { team } from '../data/index.js';
+
+const order = ['Faculty', 'Post Doctoral Researcher', 'PhD Student', 'Project Staff', 'MS Student'];
+const groups = new Map();
+for (const m of team) {
+  const k = m.position || 'Other';
+  if (!groups.has(k)) groups.set(k, []);
+  groups.get(k).push(m);
+}
+const sorted = [...groups.entries()].sort(
+  ([a], [b]) => (order.indexOf(a) + 1 || 99) - (order.indexOf(b) + 1 || 99)
+);
+---
+<Base title="People">
+  <main class="wrap wrap--wide">
+    <h2>People</h2>
+    {sorted.map(([role, members]) => (
+      <section>
+        <h3>{role}{members.length > 1 ? 's' : ''}</h3>
+        <ul class="people">
+          {members.map((m) => (
+            <li>
+              <img src={`/images/teampic/${m.photo}`} alt={m.name} loading="lazy" />
+              <span class="n">{m.name}</span>
+              <span class="r">{m.position}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </main>
+</Base>

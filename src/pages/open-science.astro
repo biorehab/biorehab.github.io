@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { opensource } from '../data/index.js';
+---
+<Base title="Open Science">
+  <main class="wrap">
+    <h2>Open Science</h2>
+    <p>Code, data and hardware from our work, released openly.</p>
+    <h3>Tools and Code</h3>
+    <ul class="publist">
+      {opensource.map((t) => (
+        <li>
+          <span class="t">{t.title}</span>
+          <span class="a">{t.authors}</span>
+          <a class="v" href={t.url}>{t.label} →</a>
+        </li>
+      ))}
+    </ul>
+  </main>
+</Base>

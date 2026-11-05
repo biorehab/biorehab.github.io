@@ -1,0 +1,51 @@
+---
+import Base from '../layouts/Base.astro';
+import { projects } from '../data/index.js';
+
+// Section order on the page. A project joins a section via its `group` in
+// src/data/projects.yml. Sections with no projects are skipped.
+const SECTIONS = [
+  'Neurorehab Tools',
+  'Sensorimotor Measures',
+  'Mechanistic Models & Precision Neurorehab',
+  'Others',
+];
+
+const sections = SECTIONS
+  .map((name) => [name, projects.filter((p) => p.group === name)])
+  .filter(([, items]) => items.length > 0);
+
+// Anything whose group doesn't match a section above would silently vanish — surface it.
+const orphans = projects.filter((p) => !SECTIONS.includes(p.group));
+---
+<Base title="Research">
+  <main class="wrap">
+    <h2>Research</h2>
+
+    <p class="lead">The following are the current ongoing projects in the group. Click on any
+      project to see its dedicated page.</p>
+
+    {sections.map(([name, items]) => (
+      <section>
+        <h3>{name}</h3>
+        <ul class="projects">
+          {items.map((p) => (
+            <li>
+              <a href={`/research/${p.slug}/`}>
+                <span class="n">{p.name}</span>
+                {p.image
+                  ? <span class="disc"><img src={`/images/projects/${p.image}`} alt={p.name} loading="lazy" /></span>
+                  : <span class="disc disc--text">{p.name}</span>}
+                {p.short && <span class="short">{p.short}</span>}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    {orphans.length > 0 && (
+      <p class="muted">Not shown (unknown group): {orphans.map((p) => p.name).join(', ')}</p>
+    )}
+  </main>
+</Base>

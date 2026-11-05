@@ -1,0 +1,96 @@
+- name: Sivakumar Balasubramanian
+  position: Faculty
+  photo: siva.jpg
+  link: team/#Faculty
+- name: Ritwika Choudhuri
+  position: Post Doctoral Researcher
+  photo: ritwika.jpg
+  link: team/#post-docs
+- name: Monisha Yuvaraj
+  position: Post Doctoral Researcher
+  photo: monisha.jpeg
+  link: team/#post-docs
+- name: Arjunram P
+  position: PhD Student
+  photo: arjun.jpg
+  link: team/#phd-students
+- name: Neelakshi Ganguly
+  position: PhD Student
+  photo: neelakshi.png
+  link: team/#phd-students
+- name: Parvathy Neelakandan
+  position: PhD Student
+  photo: parvathy.png
+  link: team/#phd-students
+- name: Charles Jebaraj
+  position: PhD Student
+  photo: charles_j.jpg
+  link: team/#phd-students
+- name: Pooja Vinayagamoorthy
+  position: PhD Student
+  photo: pooja.png
+  link: team/#phd-students
+- name: Diwakar Reddy
+  position: PhD Student
+  photo: diwakar.jpg
+  link: team/#phd-students
+- name: Lavanya Varshini
+  position: MS Student
+  photo: lavanya.jpg
+  link: team/#ms-students
+- name: Vaideesh Ragavan
+  position: MS Student
+  photo: vaideesh.jpg
+  link: team/#ms-students
+- name: Kabilan V
+  position: MS Student
+  photo: kabilan.jpg
+  link: team/#ms-students
+- name: Minusha K
+  position: MS Student
+  photo: minusha.jpg
+  link: team/#ms-students
+- name: Jerome D Immanuel Victor
+  position: MS Student
+  photo: jerome.jpeg
+  link: team/#ms-students
+- name: Sriramachandran V
+  position: Project Research Scientist
+  photo: rama.JPG
+  link: team/#project-staff
+- name: Sujith Christopher
+  position: Project Research Scientist
+  photo: sujithc.jpg
+  link: team/#project-staff
+# - name: Thiagu S
+#   position: Project Research Scientist
+#   photo: thiagu.jpg
+#   link: team/#project-staff
+- name: Lishwanth R K
+  position: Project Research Scientist
+  photo: lishwanth.jpg
+  link: team/#project-staff
+- name: GOKUL RAJ E
+  position: Project Research Scientist
+  photo: gokul.jpg
+  link: team/#project-staff
+- name: JAYASURYA R
+  position: Project Research Scientist
+  photo: Jayasurya.jpg
+  link: team/#project-staff
+- name: Dheephiga K.R
+  position: Project Research Scientist
+  photo: dheepiga.jpeg
+  link: team/#project-staff
+- name: Steffi Graff D
+  position: Project Research Scientist
+  photo: steffi.jpeg
+  link: team/#project-staff
+# - name: Poornima R
+#   position: Junior Research Fellow
+#   photo: poornima.jpeg
+#   link: team/#project-staff
+# - name: Yuvanesh  S
+#   position: Project Associate
+#   photo: yuvanesh.jpg
+#   link: team/#project-staff

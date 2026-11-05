@@ -1,0 +1,32 @@
+- title: GMAC – A simple measure to quantify upper limb use from wrist-worn accelerometers
+  authors: Sivakumar Balasubramanian (2024)
+  label: Source code
+  url: https://github.com/siva82kb/gmac
+- title: A systematic investigation of detectors for low signal-to-noise ratio EMG
+    signals
+  authors: Monisha Yuvaraj, Priyanka Raja, Ann David, Etienne Burdet, Varadhan SKM,
+    Sivakumar Balasubramanian (2024)
+  label: Source code
+  url: https://github.com/1608Moni/EMG_detectors
+- title: 'Romiumeter: An Open-Source Inertial Measurement Unit-Based Goniometer for
+    Range of Motion Measurements'
+  authors: Diwakar Basinepalli Reddy, Abhishek, Amal Andrews, Lenny Vasanthan, Sivakumar
+    Balasubramanian (preprint)
+  label: Source code
+  url: https://github.com/bkdiwakar34/Romiumeter
+- title: ARm use IMU FIrmwaRE — ARIMUFire
+  authors: Sivakumar Balasubramanian, Diwakar BR
+  label: Device
+  url: https://github.com/siva82kb/arimu
+- title: Movement Analysis Library (Monalysa)
+  authors: Sivakumar Balasubramanian, Tanya Subash, Alejandro Melendez-Calderon, Camila
+    Shirota
+  label: Source code
+  url: https://pypi.org/project/monalysa/
+- title: Comparing algorithms for assessing upper limb use with inertial measurement
+    units
+  authors: Tanya Subash, Ann David, S ReetaJanetSurekha, S Gayathri, S Samuelkamaleshkumar,
+    H Prakash, N Malesevic, C Antfolk, SKM Varadhan, A Melendez-Calderon, Sivakumar
+    Balasubramanian (2022)
+  label: Source code
+  url: https://github.com/biorehab/upper-limb-use-assessment

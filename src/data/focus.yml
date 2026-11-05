@@ -1,0 +1,26 @@
+# The group's three areas of focus.
+# Shown as collapsible sections on both the home page and the research page —
+# edit here once and both update.
+
+- title: Developing and translating clinically relevant neurorehabilitation tools
+  body: >-
+    We design, build, and validate rehabilitation robots, sensor-based systems, and electrical
+    stimulation systems for movement training and monitoring. We take them all the way from
+    prototype through clinical use to technology transfer. The emphasis is on devices that are
+    affordable, robust, and simple enough to work in hospitals, clinics, and homes.
+
+- title: Rigorous methods for quantitative human movement assessment
+  body: >-
+    We develop and validate measures and algorithms that turn raw kinematic and kinetic data into
+    meaningful numbers. Our work on quantifying movement smoothness is a good example of this. A
+    major current focus of the group is the mathematical foundations of sensorimotor measurement —
+    building a rigorous framework for conceiving, developing, and understanding measures of
+    sensorimotor performance.
+
+- title: Mechanistic models and precision neurorehabilitation
+  body: >-
+    Neurorehabilitation is still largely a black box, and there is a growing call for more theory
+    in the field. Better theory would not only deepen our understanding of how these interventions
+    work, but also make them more precisely targeted in clinical practice. We are working towards
+    causal mechanistic models of technology-driven interventions, so they can be tailored to the
+    individual patient.

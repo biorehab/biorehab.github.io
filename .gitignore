@@ -5,3 +5,8 @@ _site
 images/template/figs.pptx
 # macOS
 .DS_Store
+
+# Astro / Node
+node_modules/
+dist/
+.astro/
