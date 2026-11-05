@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import { news } from '../data/index.js';
+---
+<Base title="News">
+  <main class="wrap">
+    <h2>News</h2>
+    <ul class="news">
+      {news.map((n) => (
+        <li><span class="date">{n.date}</span><span class="head">{n.headline}</span></li>
+      ))}
+    </ul>
+  </main>
+</Base>

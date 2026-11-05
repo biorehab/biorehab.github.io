@@ -6,10 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-{: style="color: #0099cc; text-align: center;"}
-### **Pluto in the spotlight!!**
+{: style="text-align: center;"}
+### Pluto in the spotlight!
 
-![Home highlights]({{ site.url }}{{ site.baseurl }}/images/home_highlights/pluto_news.png){: style="width: 650px; float: left; border: 10px; padding-right: 20px"}
+![Home highlights]({{ site.url }}{{ site.baseurl }}/images/home_highlights/pluto_news.png){: style="display: block; width: 100%; margin: 0 auto 1.5em;"}
 
 ---
 

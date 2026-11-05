@@ -1,0 +1,114 @@
+# Projects shown on the Research page, grouped into the four sections.
+#
+#   group  — must match a section name in src/pages/research.astro
+#   image  — file in public/images/projects/ (pre-composed circular PNGs).
+#            Leave blank to fall back to a tinted circle carrying the name.
+#   short  — optional caption under the title
+#
+# Move a project between sections by editing its `group` — nothing else to change.
+
+# ---------------------------------------------------------------- Neurorehab Tools
+- name: PLUTO
+  slug: pluto
+  group: Neurorehab Tools
+  image: pluto.png
+  short: Plug-and-train hand robot
+
+- name: MARS
+  slug: mars
+  group: Neurorehab Tools
+  image: mars.png
+  short: Motorised arm support
+
+- name: ATOBOT
+  slug: atobot
+  group: Neurorehab Tools
+  image: atobot.png
+  short: Ankle & toe rehabilitation robot
+
+- name: NOARK+
+  slug: noarkplus
+  group: Neurorehab Tools
+  image: noarkplus.png
+  short: Not just an armskateboard + assistance
+
+- name: DYNABO
+  slug: dynambo
+  group: Neurorehab Tools
+  image: dynabo.png
+  short: Robotic balance board
+
+- name: NOARK
+  slug: noark
+  group: Neurorehab Tools
+  image: noark.png
+  short: Not just an armskateboard
+
+- name: HyperCube
+  slug: hypercube
+  group: Neurorehab Tools
+  image: hypercube.png
+  short: Instrumented cube for hand rehab
+
+- name: MOBBO
+  slug: mobbo
+  group: Neurorehab Tools
+  image: mobbo.png
+  short: Modular balance boards
+
+- name: SITAR
+  slug: sitar
+  group: Neurorehab Tools
+  image: sitar.png
+  short: Interactive table-top workstation
+
+# ------------------------------------------------------------ Sensorimotor Measures
+- name: SPARC
+  slug: smoothness
+  group: Sensorimotor Measures
+  image: sparc.png
+  short: Movement smoothness measure
+
+- name: Arm Use Assessment
+  slug: armuseassessment
+  group: Sensorimotor Measures
+  image: armuse.png
+  short: Real-world arm use from wearables
+
+- name: Romiumeter
+  slug: romiu
+  group: Sensorimotor Measures
+  image: romiumeter.png
+  short: IMU-based goniometer
+
+# --------------------------------- Mechanistic Models & Precision Neurorehabilitation
+- name: EMG Intent
+  slug: emgintent
+  group: Mechanistic Models & Precision Neurorehab
+  image: emg.png
+  short: EMG for assisted rehabilitation
+
+- name: Causal Models
+  slug: causal-models
+  group: Mechanistic Models & Precision Neurorehab
+  image: ratcm.png
+  short: Structural causal models of therapy
+
+- name: EMG in Mirror Therapy
+  slug: mtemg
+  group: Mechanistic Models & Precision Neurorehab
+  image: mtemg.png
+  short: EMG-driven mirror therapy
+
+- name: Arm Choice Study
+  slug: armchoice
+  group: Mechanistic Models & Precision Neurorehab
+  image: armchoice.png
+  short: Why do we choose one arm over the other
+
+- name: HOMER
+  slug: homer
+  group: Mechanistic Models & Precision Neurorehab
+  image: homer.png
+  short: Home-based robot-assisted therapy
+

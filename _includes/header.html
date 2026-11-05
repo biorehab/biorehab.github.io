@@ -1,27 +1,44 @@
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">BioRehab Group @ CMC Vellore</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/research_update">Research</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/patents">Patents</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team_main">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/collaborations">Collaborations</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/open_science">Open Science</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/vacancies">Join Us!</a></li>
-		
-	  </ul>
-	</div>
+{% assign base = site.url | append: site.baseurl %}
+
+<nav class="site-nav" role="navigation" aria-label="Main">
+  <div class="site-nav__inner">
+
+    <a class="site-nav__brand" href="{{ base }}/">
+      BioRehab Group <span>&middot; CMC Vellore</span>
+    </a>
+
+    <button class="site-nav__toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="site-nav-links"
+            aria-label="Toggle navigation menu">
+      <span></span>
+    </button>
+
+    <ul class="site-nav__links" id="site-nav-links">
+      {% assign nav_items =
+        "/,Home|/research_update,Research|/publications,Publications|/patents,Patents|/team_main,Team|/collaborations,Collaborations|/open_science,Open Science"
+        | split: "|" %}
+
+      {% for item in nav_items %}
+        {% assign parts = item | split: "," %}
+        {% assign path = parts[0] %}
+        {% assign label = parts[1] %}
+        {% if path == "/" %}
+          {% if page.url == "/" %}{% assign state = "is-active" %}{% else %}{% assign state = "" %}{% endif %}
+        {% elsif page.url contains path %}
+          {% assign state = "is-active" %}
+        {% else %}
+          {% assign state = "" %}
+        {% endif %}
+        <li><a class="{{ state }}" href="{{ base }}{{ path }}">{{ label }}</a></li>
+      {% endfor %}
+
+      <li>
+        <a class="is-cta{% if page.url contains '/vacancies' %} is-active{% endif %}"
+           href="{{ base }}/vacancies">Join Us</a>
+      </li>
+    </ul>
+
   </div>
-</div>
+</nav>

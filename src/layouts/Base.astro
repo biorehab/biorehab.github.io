@@ -1,0 +1,69 @@
+---
+/**
+ * The shell every page uses: <head>, header with logo + nav, footer.
+ * Pages supply their own <main> content as children.
+ */
+import '../styles/site.css';
+
+const { title, description = 'The Biological Learning and Rehabilitation (BioRehab) Group at the Department of Bioengineering, Christian Medical College Vellore. We develop and validate neurorehabilitation tools and methods for assessing and training sensorimotor function.' } = Astro.props;
+
+const nav = [
+  { label: 'Home',         href: '/' },
+  { label: 'Research',     href: '/research/' },
+  { label: 'Publications', href: '/publications/' },
+  { label: 'People',       href: '/people/' },
+  { label: 'Open Science', href: '/open-science/' },
+  { label: 'Join Us',      href: '/join/' },
+];
+
+const here = Astro.url.pathname;
+const isCurrent = (href) => (href === '/' ? here === '/' : here.startsWith(href));
+
+const fullTitle = title ? `${title} — BioRehab Group` : 'BioRehab Group — CMC Vellore';
+---
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={new URL(here, Astro.site)} />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={new URL('/logo.svg', Astro.site)} />
+
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" />
+</head>
+<body>
+
+  <header class="site">
+    <div class="bar">
+      <a class="wordmark" href="/">
+        <img src="/logo.svg" alt="Biological Learning &amp; Rehabilitation Group" />
+      </a>
+      <nav>
+        {nav.map((n) => (
+          <a href={n.href} class={isCurrent(n.href) ? 'current' : ''}>{n.label}</a>
+        ))}
+        <a href="https://bioe-cmcvellore.weebly.com/">Bioengineering</a>
+        <a href="https://www.cmch-vellore.edu/">CMC Vellore</a>
+      </nav>
+    </div>
+  </header>
+
+  <slot />
+
+  <footer class="site">
+    <div class="wrap">
+      © {new Date().getFullYear()} BioRehab Group, Department of Bioengineering, CMC Vellore.
+    </div>
+  </footer>
+
+</body>
+</html>

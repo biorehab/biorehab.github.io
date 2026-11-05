@@ -1,0 +1,29 @@
+---
+import Base from '../layouts/Base.astro';
+import { publicationsByYear } from '../data/index.js';
+const years = publicationsByYear();
+---
+<Base title="Publications">
+  <main class="wrap">
+    <h2>Publications</h2>
+    {years.map(([year, items]) => (
+      <section>
+        <span class="pubyear">{year}</span>
+        <ul class="publist">
+          {items.map((p) => (
+            <li>
+              <span class="t">{p.title}</span>
+              <span class="a">{p.authors}</span>
+              {p.url
+                ? <a class="v" href={p.url}>{p.venue}</a>
+                : <span class="v muted">{p.venue}</span>}
+              {p.tags && <div>{p.tags.map((t) => (
+                t.url ? <a class="tag" href={t.url}>{t.label}</a> : <span class="tag">{t.label}</span>
+              ))}</div>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </main>
+</Base>

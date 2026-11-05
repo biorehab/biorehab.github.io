@@ -1,0 +1,34 @@
+---
+import Base from '../layouts/Base.astro';
+import FocusAreas from '../components/FocusAreas.astro';
+import { news } from '../data/index.js';
+---
+<Base>
+  <main class="wrap">
+    <h1 class="sr-only">Biological Learning and Rehabilitation (BioRehab) Group — Christian Medical College Vellore</h1>
+
+    <img class="hero-figure" src="/images/brg-work.png"
+         width="1748" height="897"
+         alt="Venn diagram of the group's three areas: Engineering (robotics, sensor systems, computer vision, ML/AI), Neuromechanics (biomechanics, motor control and learning, computational models), and Neurorehabilitation (clinical studies, movement assessment)." />
+
+    <p>We are an academic research group in the Department of Bioengineering at{' '}
+      <a href="https://www.cmch-vellore.edu/">Christian Medical College Vellore</a>, working at the
+      interface of engineering, neuromechanics, and neurorehabilitation. Our ultimate goal is to
+      advance routine clinical practice in sensorimotor rehabilitation, improving individual patient
+      outcomes and reducing disability.</p>
+
+    <p>We currently have three major focus areas:</p>
+
+    <FocusAreas />
+
+    <p>We are always looking for motivated MS or PhD students interested in our research. You can also get involved through internships and project staff positions — see the{' '} <a href="/join/">Join Us</a> page for details.</p>
+
+    <h3>News</h3>
+    <ul class="news">
+      {news.slice(0, 6).map((n) => (
+        <li><span class="date">{n.date}</span><span class="head">{n.headline}</span></li>
+      ))}
+    </ul>
+    <a class="more" href="/news/">All news →</a>
+  </main>
+</Base>
